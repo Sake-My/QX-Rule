@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-05-17T11:35:18.738Z",
+  "upstream": "https://github.com/Loyalsoldier/v2ray-rules-dat/tree/release",
+  "policies": {
+    "proxy": "proxy",
+    "direct": "direct",
+    "reject": "reject"
+  },
+  "primaryRuleResource": "https://raw.githubusercontent.com/Sake-My/QX-Rule/release/ruleset/loyalsoldier-qx.list",
+  "files": [
+    {
+      "name": "loyalsoldier-qx",
+      "source": "combined",
+      "output": "ruleset/loyalsoldier-qx.list",
+      "policy": "mixed",
+      "rules": 313993,
+      "skipped": 162
+    },
+    {
+      "name": "reject",
+      "source": "reject-list.txt",
+      "output": "ruleset/reject.list",
+      "policy": "reject",
+      "rules": 173946,
+      "skipped": 0
+    },
+    {
+      "name": "reject-tld",
+      "source": "reject-tld-list.txt",
+      "output": "ruleset/reject-tld.list",
+      "policy": "reject",
+      "rules": 0,
+      "skipped": 0
+    },
+    {
+      "name": "apple-cn",
+      "source": "apple-cn.txt",
+      "output": "ruleset/apple-cn.list",
+      "policy": "direct",
+      "rules": 163,
+      "skipped": 0
+    },
+    {
+      "name": "google-cn",
+      "source": "google-cn.txt",
+      "output": "ruleset/google-cn.list",
+      "policy": "direct",
+      "rules": 112,
+      "skipped": 0
+    },
+    {
+      "name": "direct-tld",
+      "source": "direct-tld-list.txt",
+      "output": "ruleset/direct-tld.list",
+      "policy": "direct",
+      "rules": 43,
+      "skipped": 0
+    },
+    {
+      "name": "proxy",
+      "source": "proxy-list.txt",
+      "output": "ruleset/proxy.list",
+      "policy": "proxy",
+      "rules": 26271,
+      "skipped": 151
+    },
+    {
+      "name": "proxy-tld",
+      "source": "proxy-tld-list.txt",
+      "output": "ruleset/proxy-tld.list",
+      "policy": "proxy",
+      "rules": 72,
+      "skipped": 0
+    },
+    {
+      "name": "direct",
+      "source": "direct-list.txt",
+      "output": "ruleset/direct.list",
+      "policy": "direct",
+      "rules": 113760,
+      "skipped": 11
+    },
+    {
+      "name": "china-list",
+      "source": "china-list.txt",
+      "output": "ruleset/china-list.list",
+      "policy": "direct",
+      "rules": 113214,
+      "skipped": 0
+    },
+    {
+      "name": "gfw",
+      "source": "gfw.txt",
+      "output": "ruleset/gfw.list",
+      "policy": "proxy",
+      "rules": 4234,
+      "skipped": 0
+    },
+    {
+      "name": "win-spy",
+      "source": "win-spy.txt",
+      "output": "ruleset/win-spy.list",
+      "policy": "reject",
+      "rules": 347,
+      "skipped": 0
+    },
+    {
+      "name": "win-update",
+      "source": "win-update.txt",
+      "output": "ruleset/win-update.list",
+      "policy": "reject",
+      "rules": 538,
+      "skipped": 0
+    },
+    {
+      "name": "win-extra",
+      "source": "win-extra.txt",
+      "output": "ruleset/win-extra.list",
+      "policy": "reject",
+      "rules": 399,
+      "skipped": 0
+    }
+  ]
+}

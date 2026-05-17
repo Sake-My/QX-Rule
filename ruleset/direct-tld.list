@@ -1,0 +1,48 @@
+# Quantumult X rules
+# Generated at: 2026-05-17T11:35:18.738Z
+# Source: Loyalsoldier/v2ray-rules-dat release/direct-tld-list.txt
+# Description: geosite:tld-cn and related direct TLDs
+# Policy: direct
+host-suffix, alibaba, direct
+host-suffix, alipay, direct
+host-suffix, baidu, direct
+host-suffix, citic, direct
+host-suffix, cn, direct
+host-suffix, icbc, direct
+host-suffix, sohu, direct
+host-suffix, taobao, direct
+host-suffix, tmall, direct
+host-suffix, unicom, direct
+host-suffix, wang, direct
+host-suffix, xn--1qqw23a, direct
+host-suffix, xn--3bst00m, direct
+host-suffix, xn--3ds443g, direct
+host-suffix, xn--55qw42g, direct
+host-suffix, xn--55qx5d, direct
+host-suffix, xn--5tzm5g, direct
+host-suffix, xn--6frz82g, direct
+host-suffix, xn--6qq986b3xl, direct
+host-suffix, xn--8y0a063a, direct
+host-suffix, xn--9et52u, direct
+host-suffix, xn--czr694b, direct
+host-suffix, xn--czrs0t, direct
+host-suffix, xn--czru2d, direct
+host-suffix, xn--fiq228c5hs, direct
+host-suffix, xn--fiq64b, direct
+host-suffix, xn--fiqs8s, direct
+host-suffix, xn--fiqz9s, direct
+host-suffix, xn--fjq720a, direct
+host-suffix, xn--g2xx48c, direct
+host-suffix, xn--hxt814e, direct
+host-suffix, xn--imr513n, direct
+host-suffix, xn--io0a7i, direct
+host-suffix, xn--kput3i, direct
+host-suffix, xn--nyqy26a, direct
+host-suffix, xn--otu796d, direct
+host-suffix, xn--rhqv96g, direct
+host-suffix, xn--ses554g, direct
+host-suffix, xn--unup4y, direct
+host-suffix, xn--vhquv, direct
+host-suffix, xn--vuq861b, direct
+host-suffix, xn--xhq521b, direct
+host-suffix, xn--zfr164b, direct

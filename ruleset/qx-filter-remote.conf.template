@@ -1,0 +1,5 @@
+# Add this single URL as a Quantumult X filter/rule resource.
+# It already includes rule policies and final fallback.
+
+[filter_remote]
+https://raw.githubusercontent.com/Sake-My/QX-Rule/release/ruleset/loyalsoldier-qx.list, tag=Loyalsoldier QX, update-interval=86400, opt-parser=false, enabled=true
