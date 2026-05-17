@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-05-17T11:35:18.738Z
+# Generated at: 2026-05-17T23:27:06.051Z
 # Source: Loyalsoldier/v2ray-rules-dat release/gfw.txt
 # Description: geosite:gfw
 # Policy: proxy
@@ -3140,6 +3140,7 @@ host-suffix, shutterstock.com, proxy
 host-suffix, shwchurch.org, proxy
 host-suffix, shwchurch3.com, proxy
 host-suffix, sidelinesnews.com, proxy
+host-suffix, sider.ai, proxy
 host-suffix, signal.org, proxy
 host-suffix, silvergatebank.com, proxy
 host-suffix, simbolostwitter.com, proxy
@@ -4201,6 +4202,7 @@ host-suffix, zh.ecdm.wikia.com, proxy
 host-suffix, zh.pokerstrategy.com, proxy
 host-suffix, zh.wikiquote.org, proxy
 host-suffix, zhangtianliang.com, proxy
+host-suffix, zhangzhehan.net, proxy
 host-suffix, zhanlve.org, proxy
 host-suffix, zhao.1984.city, proxy
 host-suffix, zhengjian.org, proxy
