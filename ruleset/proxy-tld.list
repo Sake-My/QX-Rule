@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-05-17T23:27:06.051Z
+# Generated at: 2026-05-18T23:34:48.851Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-tld-list.txt
 # Description: proxy TLD list
 # Policy: proxy
@@ -42,6 +42,7 @@ host-suffix, intel, proxy
 host-suffix, intuit, proxy
 host-suffix, java, proxy
 host-suffix, kindle, proxy
+host-suffix, konami, proxy
 host-suffix, microsoft, proxy
 host-suffix, mini, proxy
 host-suffix, mit, proxy

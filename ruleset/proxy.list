@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-05-17T23:27:06.051Z
+# Generated at: 2026-05-18T23:34:48.851Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -404,6 +404,7 @@ host-suffix, 54647.org, proxy
 host-suffix, 55dndn.com, proxy
 host-suffix, 567321.online, proxy
 host-suffix, 568xe.com, proxy
+host-suffix, 573.jp, proxy
 host-suffix, 58avgo.com, proxy
 host-suffix, 592r.com, proxy
 host-suffix, 59mvmv.com, proxy
@@ -13250,6 +13251,7 @@ host-suffix, keytransparency.com, proxy
 host-suffix, keytransparency.foo, proxy
 host-suffix, keytransparency.org, proxy
 host-suffix, kfs.io, proxy
+host-suffix, kgisystems.com, proxy
 host-suffix, kgslb.com, proxy
 host-suffix, khanacademy.org, proxy
 host-suffix, khatrimaza.org, proxy
@@ -13343,6 +13345,7 @@ host-suffix, kisscos.net, proxy
 host-suffix, kissjav.com, proxy
 host-suffix, kissjav.li, proxy
 host-suffix, kitakyushubank.co.jp, proxy
+host-suffix, kiwi.jp, proxy
 host-suffix, kiwi.kz, proxy
 host-suffix, kiwibrowser.com, proxy
 host-suffix, kiyobank.co.jp, proxy
@@ -13380,6 +13383,20 @@ host-suffix, kompozer.net, proxy
 host-suffix, konachan.com, proxy
 host-suffix, konachan.net, proxy
 host-suffix, konachan.wjcodes.com, proxy
+host-suffix, konami, proxy
+host-suffix, konami-igaming.online, proxy
+host-suffix, konami.co.jp, proxy
+host-suffix, konami.com, proxy
+host-suffix, konami.net, proxy
+host-suffix, konami.org, proxy
+host-suffix, konamicrossmedia.com, proxy
+host-suffix, konamigaming.com, proxy
+host-suffix, konamigaming.net, proxy
+host-suffix, konamigaming.online, proxy
+host-suffix, konamionline.com, proxy
+host-suffix, konamiopen.jp, proxy
+host-suffix, konamisportsclub.jp, proxy
+host-suffix, konamistyle.jp, proxy
 host-suffix, koolsolutions.com, proxy
 host-suffix, koornk.com, proxy
 host-suffix, kopfhorergunstigshop.com, proxy
@@ -18961,6 +18978,8 @@ host-suffix, researchkit.hk, proxy
 host-suffix, researchkit.net, proxy
 host-suffix, researchkit.org, proxy
 host-suffix, researchkit.tv, proxy
+host-suffix, resella.jp, proxy
+host-suffix, resellablue.com, proxy
 host-suffix, resilio.com, proxy
 host-suffix, resistchina.org, proxy
 host-suffix, resonabank.co.jp, proxy
@@ -25327,6 +25346,7 @@ host-suffix, ytn.co.kr, proxy
 host-suffix, yuanming.net, proxy
 host-suffix, yuenuge113.xyz, proxy
 host-suffix, yuenuge18.cc, proxy
+host-suffix, yugioh-card.com, proxy
 host-suffix, yulghun.com, proxy
 host-suffix, yuming.qxbbs.org, proxy
 host-suffix, yunchao.net, proxy
