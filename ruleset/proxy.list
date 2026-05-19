@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-05-18T23:34:48.851Z
+# Generated at: 2026-05-19T23:38:21.591Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -1291,6 +1291,7 @@ host-suffix, alchemysynth.com, proxy
 host-suffix, alefbank.com, proxy
 host-suffix, alexa.com, proxy
 host-suffix, alexanderstreet.com, proxy
+host-suffix, alfa.me, proxy
 host-suffix, alfabank.oavdo.amc, proxy
 host-suffix, alfabank.ru, proxy
 host-suffix, alfabank.st, proxy
@@ -15727,6 +15728,7 @@ host-suffix, mysocialworklab.com, proxy
 host-suffix, myspacecdn.com, proxy
 host-suffix, mysql.com, proxy
 host-suffix, mystrikingly.com, proxy
+host-suffix, myteamspeak.com, proxy
 host-suffix, myteenwebcam.com, proxy
 host-suffix, mythicentertainment.com, proxy
 host-suffix, mythicentertainment.net, proxy
@@ -21224,6 +21226,8 @@ host-suffix, teachmyass.com, proxy
 host-suffix, teachparentstech.org, proxy
 host-suffix, teamneedforspeed.com, proxy
 host-suffix, teamskeet.com, proxy
+host-suffix, teamspeak-services.com, proxy
+host-suffix, teamspeak.com, proxy
 host-suffix, teamviewer.com, proxy
 host-suffix, teamviewer.us, proxy
 host-suffix, tearapeak.com, proxy
@@ -25776,6 +25780,7 @@ host, espndotcom.tt.omtrdc.net, proxy
 host, f3b7q2p3.ssl.hwcdn.net, proxy
 host, fandom.zendesk.com, proxy
 host, faronics.kayako.com, proxy
+host, favoritescc-hamivideo2.cdn.hinet.net, proxy
 host, fbcdn-a.akamaihd.net, proxy
 host, firebase.google.com, proxy
 host, firebase.googleapis.com, proxy
@@ -25832,6 +25837,7 @@ host, imperial.insendi.com, proxy
 host, ingest.apple-studies.com, proxy
 host, lastfm.freetls.fastly.net, proxy
 host, lazer.ppy.sh, proxy
+host, lgcscc-hamivideo2.cdn.hinet.net, proxy
 host, lgelectronics.122.2o7.net, proxy
 host, licdn.cn.cdn20.com, proxy
 host, linear-abematv.akamaized.net, proxy
@@ -26093,6 +26099,7 @@ host, t21.nikkei.co.jp, proxy
 host, t21ipau.nikkei.co.jp, proxy
 host, teamviewer.com.cdn.cloudflare.net, proxy
 host, tesla-cdn.thron.com, proxy
+host, thumbnail-hamivideo.cdn.hinet.net, proxy
 host, time-a-b.nist.gov, proxy
 host, time-a-g.nist.gov, proxy
 host, time-a-wwv.nist.gov, proxy
@@ -26126,6 +26133,7 @@ host, time3.google.com, proxy
 host, time4.facebook.com, proxy
 host, time4.google.com, proxy
 host, time5.facebook.com, proxy
+host, tlmr-hamivideo2.cdn.hinet.net, proxy
 host, tmdb-image-prod.b-cdn.net, proxy
 host, tmdb-web-image-prod.b-cdn.net, proxy
 host, tv.applemusic.com, proxy
@@ -26188,6 +26196,7 @@ host, vsmarketplacebadge.apphb.com, proxy
 host, wb-agora-hydra-file-storage-k1.s3.amazonaws.com, proxy
 host, webchannel-alkalimakersuite-pa.clients6.google.com, proxy
 host, weblive-hamivideo.cdn.hinet.net, proxy
+host, webvodad-hamivideo.cdn.hinet.net, proxy
 host, widgets.stripst.com, proxy
 host, wip.adobe.com, proxy
 host, wip1.adobe.com, proxy
