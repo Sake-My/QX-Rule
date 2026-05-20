@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-05-19T23:38:21.591Z
+# Generated at: 2026-05-20T23:46:34.814Z
 # Source: Loyalsoldier/v2ray-rules-dat release/gfw.txt
 # Description: geosite:gfw
 # Policy: proxy
@@ -1157,6 +1157,7 @@ host-suffix, eyny.com, proxy
 host-suffix, f-droid.org, proxy
 host-suffix, f2pool.com, proxy
 host-suffix, f8.com, proxy
+host-suffix, f95zone.to, proxy
 host-suffix, facebook.com, proxy
 host-suffix, facebook.de, proxy
 host-suffix, facebook.design, proxy
@@ -1344,6 +1345,7 @@ host-suffix, fxcm-chinese.com, proxy
 host-suffix, fxnetworks.com, proxy
 host-suffix, g-area.org, proxy
 host-suffix, g-queen.com, proxy
+host-suffix, g.ai, proxy
 host-suffix, g.co, proxy
 host-suffix, g0v.social, proxy
 host-suffix, g6hentai.com, proxy
@@ -2195,6 +2197,7 @@ host-suffix, leisurepro.com, proxy
 host-suffix, lematin.ch, proxy
 host-suffix, lemonde.fr, proxy
 host-suffix, lenwhite.com, proxy
+host-suffix, leonardo.ai, proxy
 host-suffix, lesoir.be, proxy
 host-suffix, letscorp.net, proxy
 host-suffix, lexica.art, proxy
@@ -2959,6 +2962,7 @@ host-suffix, raindrop.io, proxy
 host-suffix, raizoji.or.jp, proxy
 host-suffix, rakuten.co.jp, proxy
 host-suffix, ramcity.com.au, proxy
+host-suffix, raphael.app, proxy
 host-suffix, rapidmoviez.com, proxy
 host-suffix, rapidvpn.com, proxy
 host-suffix, rarbgprx.org, proxy
@@ -3038,6 +3042,7 @@ host-suffix, rti.org.tw, proxy
 host-suffix, rti.tw, proxy
 host-suffix, rtm.tnt-ea.com, proxy
 host-suffix, rts.ch, proxy
+host-suffix, rule34.us, proxy
 host-suffix, rule34.xxx, proxy
 host-suffix, rule34video.com, proxy
 host-suffix, rumble.com, proxy
@@ -3216,6 +3221,7 @@ host-suffix, sorting-algorithms.com, proxy
 host-suffix, sos.org, proxy
 host-suffix, sosad.fun, proxy
 host-suffix, sosreader.com, proxy
+host-suffix, sotwe.com, proxy
 host-suffix, soubory.com, proxy
 host-suffix, soulcaliburhentai.net, proxy
 host-suffix, soundcloud.com, proxy
