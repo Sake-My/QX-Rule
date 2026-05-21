@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T23:46:34.814Z",
+  "generatedAt": "2026-05-21T23:33:21.554Z",
   "upstream": "https://github.com/Loyalsoldier/v2ray-rules-dat/tree/release",
   "policies": {
     "proxy": "proxy",
@@ -13,7 +13,7 @@
       "source": "combined",
       "output": "ruleset/loyalsoldier-qx.list",
       "policy": "mixed",
-      "rules": 311624,
+      "rules": 311787,
       "skipped": 162
     },
     {
@@ -21,7 +21,7 @@
       "source": "reject-list.txt",
       "output": "ruleset/reject.list",
       "policy": "reject",
-      "rules": 171610,
+      "rules": 171773,
       "skipped": 0
     },
     {
