@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-05-21T23:33:21.554Z
+# Generated at: 2026-05-22T23:37:23.959Z
 # Source: Loyalsoldier/v2ray-rules-dat release/gfw.txt
 # Description: geosite:gfw
 # Policy: proxy
@@ -30,6 +30,7 @@ host-suffix, 2047.name, proxy
 host-suffix, 2047.one, proxy
 host-suffix, 2049bbs.xyz, proxy
 host-suffix, 233abc.com, proxy
+host-suffix, 24hbook.com, proxy
 host-suffix, 24hrs.ca, proxy
 host-suffix, 32red.com, proxy
 host-suffix, 36rain.com, proxy
@@ -2305,6 +2306,7 @@ host-suffix, martau.com, proxy
 host-suffix, martsangkagyuofficial.org, proxy
 host-suffix, marxist.net, proxy
 host-suffix, marxists.org, proxy
+host-suffix, mas.to, proxy
 host-suffix, mash.to, proxy
 host-suffix, mastodon.cloud, proxy
 host-suffix, mastodon.host, proxy
@@ -2512,6 +2514,7 @@ host-suffix, ncn.org, proxy
 host-suffix, ndi.org, proxy
 host-suffix, nekoslovakia.net, proxy
 host-suffix, neo-miracle.com, proxy
+host-suffix, neodb.social, proxy
 host-suffix, neowin.net, proxy
 host-suffix, nephobox.com, proxy
 host-suffix, netalert.me, proxy

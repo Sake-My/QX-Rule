@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-05-21T23:33:21.554Z
+# Generated at: 2026-05-22T23:37:23.959Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -223,6 +223,7 @@ host-suffix, 22112211.xyz, proxy
 host-suffix, 233abc.com, proxy
 host-suffix, 2371tom.com, proxy
 host-suffix, 24h.tv, proxy
+host-suffix, 24hbook.com, proxy
 host-suffix, 24hjav.com, proxy
 host-suffix, 24hrs.ca, proxy
 host-suffix, 24porn.com, proxy
@@ -14222,6 +14223,7 @@ host-suffix, marvelsuperheroseptember.com, proxy
 host-suffix, marvelsuperwar.com, proxy
 host-suffix, marxist.net, proxy
 host-suffix, marxists.org, proxy
+host-suffix, mas.to, proxy
 host-suffix, masalabin.com, proxy
 host-suffix, masaladesi.com, proxy
 host-suffix, masalaseen.net, proxy
@@ -15905,6 +15907,7 @@ host-suffix, nenastran.com, proxy
 host-suffix, nenitas.club, proxy
 host-suffix, nentindo.net, proxy
 host-suffix, neo-miracle.com, proxy
+host-suffix, neodb.social, proxy
 host-suffix, neoforged.net, proxy
 host-suffix, neotokyo.supertop-100.com, proxy
 host-suffix, neovim.io, proxy
