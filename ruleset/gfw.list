@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-05-24T23:31:31.562Z
+# Generated at: 2026-05-25T23:36:42.150Z
 # Source: Loyalsoldier/v2ray-rules-dat release/gfw.txt
 # Description: geosite:gfw
 # Policy: proxy
@@ -2451,6 +2451,7 @@ host-suffix, mosavi.io, proxy
 host-suffix, motherless.com, proxy
 host-suffix, movements.org, proxy
 host-suffix, moviefap.com, proxy
+host-suffix, mozilla.ai, proxy
 host-suffix, mpettis.com, proxy
 host-suffix, mpfinance.com, proxy
 host-suffix, mpinews.com, proxy

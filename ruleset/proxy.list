@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-05-24T23:31:31.562Z
+# Generated at: 2026-05-25T23:36:42.150Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -14742,6 +14742,7 @@ host-suffix, microvpn.com, proxy
 host-suffix, micstl.com, proxy
 host-suffix, midatlanticbmwmotorcycles.com, proxy
 host-suffix, midentsolutions.com, proxy
+host-suffix, midjourney.com, proxy
 host-suffix, midoushe.com, proxy
 host-suffix, mie.co.jp, proxy
 host-suffix, miexnoviadesnuda.com, proxy
