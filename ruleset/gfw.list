@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-05-26T23:37:39.074Z
+# Generated at: 2026-05-27T23:42:21.830Z
 # Source: Loyalsoldier/v2ray-rules-dat release/gfw.txt
 # Description: geosite:gfw
 # Policy: proxy
@@ -1024,6 +1024,7 @@ host-suffix, doublethinklab.org, proxy
 host-suffix, douchi.space, proxy
 host-suffix, dougscripts.com, proxy
 host-suffix, doujincafe.com, proxy
+host-suffix, dowjones.io, proxy
 host-suffix, download.dappcdn.com, proxy
 host-suffix, dpool.top, proxy
 host-suffix, dpp.org.tw, proxy
