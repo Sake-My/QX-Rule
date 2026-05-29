@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-05-28T23:48:03.933Z
+# Generated at: 2026-05-29T23:47:06.648Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -2263,6 +2263,7 @@ host-suffix, arweave.org, proxy
 host-suffix, arxiv.org, proxy
 host-suffix, arzon.jp, proxy
 host-suffix, as-hp.ca, proxy
+host-suffix, as.mr, proxy
 host-suffix, asacp.org, proxy
 host-suffix, asagaku.com, proxy
 host-suffix, asahi.com, proxy
@@ -9494,6 +9495,7 @@ host-suffix, gemfire.net, proxy
 host-suffix, gemfury.com, proxy
 host-suffix, gemini.com, proxy
 host-suffix, gen.lib.rus.ec, proxy
+host-suffix, gencraft.com, proxy
 host-suffix, gendai.net, proxy
 host-suffix, generated.photos, proxy
 host-suffix, genetic-technologies.am, proxy
@@ -22703,6 +22705,7 @@ host-suffix, vday.io, proxy
 host-suffix, vdoav.com, proxy
 host-suffix, vecchiescopate.casa, proxy
 host-suffix, vector.im, proxy
+host-suffix, veed.io, proxy
 host-suffix, veet.at, proxy
 host-suffix, veet.be, proxy
 host-suffix, veet.ca, proxy
@@ -25087,7 +25090,6 @@ host-suffix, yho.com, proxy
 host-suffix, yhy.cool, proxy
 host-suffix, yibaochina.com, proxy
 host-suffix, yibei.org, proxy
-host-suffix, yidio.com, proxy
 host-suffix, yigeni.com, proxy
 host-suffix, yimg.com, proxy
 host-suffix, yimg.jp, proxy

@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-05-28T23:48:03.933Z
+# Generated at: 2026-05-29T23:47:06.648Z
 # Source: Loyalsoldier/v2ray-rules-dat release/gfw.txt
 # Description: geosite:gfw
 # Policy: proxy
@@ -264,6 +264,7 @@ host-suffix, arte.tv, proxy
 host-suffix, artstation.com, proxy
 host-suffix, arvanstorage.ir, proxy
 host-suffix, arweave.org, proxy
+host-suffix, as.mr, proxy
 host-suffix, asacp.org, proxy
 host-suffix, asiaharvest.org, proxy
 host-suffix, asianage.com, proxy
@@ -328,6 +329,7 @@ host-suffix, bangchen.net, proxy
 host-suffix, bangdream.space, proxy
 host-suffix, bangkokpost.com, proxy
 host-suffix, bangumi.moe, proxy
+host-suffix, bangumi.tv, proxy
 host-suffix, bangyoulater.com, proxy
 host-suffix, bankmobilevibe.com, proxy
 host-suffix, bannedbook.org, proxy
@@ -383,6 +385,7 @@ host-suffix, bettween.com, proxy
 host-suffix, betvictor.com, proxy
 host-suffix, bfnn.org, proxy
 host-suffix, bfsh.hk, proxy
+host-suffix, bgm.tv, proxy
 host-suffix, bgme.me, proxy
 host-suffix, bgvpn.com, proxy
 host-suffix, biblesforamerica.org, proxy
@@ -701,6 +704,7 @@ host-suffix, chenpokongvip.com, proxy
 host-suffix, chenshan20042005.wordpress.com, proxy
 host-suffix, cherrysave.com, proxy
 host-suffix, chhongbi.org, proxy
+host-suffix, chii.in, proxy
 host-suffix, china-mmm.net, proxy
 host-suffix, china-review.com.ua, proxy
 host-suffix, china-week.com, proxy
@@ -802,7 +806,6 @@ host-suffix, cn.theaustralian.com.au, proxy
 host-suffix, cn.uptodown.com, proxy
 host-suffix, cna.com.tw, proxy
 host-suffix, cnbbnews.wordpress.com, proxy
-host-suffix, cnbc.com, proxy
 host-suffix, cnbeta.com.tw, proxy
 host-suffix, cnd.org, proxy
 host-suffix, cnnews.chosun.com, proxy
@@ -1379,6 +1382,7 @@ host-suffix, gdaily.org, proxy
 host-suffix, geek-art.net, proxy
 host-suffix, gekikame.com, proxy
 host-suffix, gelbooru.com, proxy
+host-suffix, gencraft.com, proxy
 host-suffix, generated.photos, proxy
 host-suffix, genius.com, proxy
 host-suffix, geph.io, proxy
@@ -1793,6 +1797,7 @@ host-suffix, heyuedi.com, proxy
 host-suffix, hicairo.com, proxy
 host-suffix, hiccears.com, proxy
 host-suffix, hidden-advent.org, proxy
+host-suffix, hiddify.com, proxy
 host-suffix, hide.me, proxy
 host-suffix, hideipvpn.com, proxy
 host-suffix, hideman.net, proxy
@@ -3204,7 +3209,6 @@ host-suffix, socialblade.com, proxy
 host-suffix, socks-proxy.net, proxy
 host-suffix, sockslist.net, proxy
 host-suffix, socrec.org, proxy
-host-suffix, softether-download.com, proxy
 host-suffix, softether.co.jp, proxy
 host-suffix, softether.org, proxy
 host-suffix, softfamous.com, proxy
@@ -3782,6 +3786,7 @@ host-suffix, vaticannews.va, proxy
 host-suffix, vatn.org, proxy
 host-suffix, vcf-online.org, proxy
 host-suffix, vcfbuilder.org, proxy
+host-suffix, veed.io, proxy
 host-suffix, vegas.williamhill.com, proxy
 host-suffix, vegasred.com, proxy
 host-suffix, venetianmacao.com, proxy
@@ -4150,7 +4155,6 @@ host-suffix, yeyeclub.com, proxy
 host-suffix, yfsp.tv, proxy
 host-suffix, yhcw.net, proxy
 host-suffix, yibaochina.com, proxy
-host-suffix, yidio.com, proxy
 host-suffix, yigeni.com, proxy
 host-suffix, yipub.com, proxy
 host-suffix, yizhihongxing.com, proxy
