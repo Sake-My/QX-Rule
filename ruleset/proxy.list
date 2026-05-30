@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-05-29T23:47:06.648Z
+# Generated at: 2026-05-30T23:32:13.617Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -13788,6 +13788,7 @@ host-suffix, livevideo.com, proxy
 host-suffix, livexxx.me, proxy
 host-suffix, livingstream.com, proxy
 host-suffix, livingyourambition.com, proxy
+host-suffix, livinno.org, proxy
 host-suffix, livrariart.com.br, proxy
 host-suffix, lizardporn.com, proxy
 host-suffix, lizol.co.in, proxy
@@ -16970,6 +16971,7 @@ host-suffix, ooni.org, proxy
 host-suffix, ootbstudio.co.kr, proxy
 host-suffix, op.gg, proxy
 host-suffix, op7979.com, proxy
+host-suffix, opac-project.eu, proxy
 host-suffix, open.firstory.me, proxy
 host-suffix, openai.com, proxy
 host-suffix, openamt.com, proxy
