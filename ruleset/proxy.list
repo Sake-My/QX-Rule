@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-05-30T23:32:13.617Z
+# Generated at: 2026-05-31T23:36:15.013Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -6759,6 +6759,7 @@ host-suffix, disneyturkiye.com.tr, proxy
 host-suffix, disneytvajobs.com, proxy
 host-suffix, disneyworld-go.com, proxy
 host-suffix, disp.cc, proxy
+host-suffix, disq.us, proxy
 host-suffix, disqus.com, proxy
 host-suffix, disquscdn.com, proxy
 host-suffix, disqusservice.com, proxy
@@ -24360,11 +24361,15 @@ host-suffix, xhamster.xxx, proxy
 host-suffix, xhamster18.com, proxy
 host-suffix, xhamster18.desi, proxy
 host-suffix, xhamster19.com, proxy
+host-suffix, xhamster2.com, proxy
 host-suffix, xhamster3.com, proxy
 host-suffix, xhamsterlive.com, proxy
 host-suffix, xhcdn.com, proxy
+host-suffix, xhnews.live, proxy
 host-suffix, xhot.pro, proxy
+host-suffix, xhpingcdn.com, proxy
 host-suffix, xhpjc6-cdn-settings.appsflyersdk.com, proxy
+host-suffix, xhreal5.com, proxy
 host-suffix, xhub.tv, proxy
 host-suffix, xiangrikui-app.com, proxy
 host-suffix, xianir.xyz, proxy
@@ -25904,6 +25909,7 @@ host, media-rockstargames-com.akamaized.net, proxy
 host, medone-education.thieme.com, proxy
 host, misa-prod.s3.ap-northeast-1.amazonaws.com, proxy
 host, mobilelive-hamivideo.cdn.hinet.net, proxy
+host, mozilla-ohttp.fastly-edge.com, proxy
 host, mscrl.microsoft.com, proxy
 host, msh.amazon.co.uk, proxy
 host, mtalk-dev.google.com, proxy
