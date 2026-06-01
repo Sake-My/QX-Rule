@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-05-31T23:36:15.013Z
+# Generated at: 2026-06-01T23:48:59.736Z
 # Source: Loyalsoldier/v2ray-rules-dat release/direct-list.txt
 # Description: geosite:cn
 # Policy: direct
@@ -24650,6 +24650,7 @@ host-suffix, cnside.com, direct
 host-suffix, cnsihai.com, direct
 host-suffix, cnsikao.com, direct
 host-suffix, cnsimeng.com, direct
+host-suffix, cnsimg.net, direct
 host-suffix, cnsimin.com, direct
 host-suffix, cnsiwu.com, direct
 host-suffix, cnskg.com, direct
@@ -89703,6 +89704,7 @@ host-suffix, tianxing.com, direct
 host-suffix, tianxingjianyiliao.com, direct
 host-suffix, tianxinkeji.com, direct
 host-suffix, tianya.com, direct
+host-suffix, tianya.net, direct
 host-suffix, tianya.tv, direct
 host-suffix, tianya66.com, direct
 host-suffix, tianyabook.com, direct
@@ -100612,6 +100614,7 @@ host-suffix, xinmeihu.com, direct
 host-suffix, xinmeijiutian.com, direct
 host-suffix, xinmeinuo.com, direct
 host-suffix, xinmem.com, direct
+host-suffix, xinmeng.info, direct
 host-suffix, xinmenglife.com, direct
 host-suffix, xinmeow.com, direct
 host-suffix, xinmeti.com, direct
