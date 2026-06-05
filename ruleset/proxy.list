@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-06-04T23:43:33.906Z
+# Generated at: 2026-06-05T23:44:16.671Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -5460,6 +5460,7 @@ host-suffix, clau.de, proxy
 host-suffix, claude.ai, proxy
 host-suffix, claude.com, proxy
 host-suffix, claudemcpclient.com, proxy
+host-suffix, claudemcpcontent.com, proxy
 host-suffix, claudeusercontent.com, proxy
 host-suffix, clawhub.ai, proxy
 host-suffix, clck.ru, proxy
@@ -21203,6 +21204,7 @@ host-suffix, sustainabledesigncouncil.net, proxy
 host-suffix, sustainthesound.com, proxy
 host-suffix, suxib.com, proxy
 host-suffix, suxiebu.com, proxy
+host-suffix, suyingtv.com, proxy
 host-suffix, suzuri.jp, proxy
 host-suffix, svaboda.org, proxy
 host-suffix, svc.ms, proxy
@@ -24332,6 +24334,7 @@ host-suffix, woyaolian.org, proxy
 host-suffix, wp-themes.com, proxy
 host-suffix, wp.com, proxy
 host-suffix, wpewebkit.org, proxy
+host-suffix, wplace.live, proxy
 host-suffix, wpoforum.com, proxy
 host-suffix, wpvip.com, proxy
 host-suffix, wrenchead.com, proxy
@@ -26537,6 +26540,7 @@ host, wwis-dubc1-vip97.adobe.com, proxy
 host, wwis-dubc1-vip98.adobe.com, proxy
 host, wwis-dubc1-vip99.adobe.com, proxy
 host, www-cdn.icloud.com.akadns.net, proxy
+host, www.quora.com.cdn.cloudflare.net, proxy
 host, yangzhi.app, proxy
 host, yt3.googleusercontent.com, proxy
 host, zeenews-fonts.s3.amazonaws.com, proxy

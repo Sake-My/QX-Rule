@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-06-04T23:43:33.906Z
+# Generated at: 2026-06-05T23:44:16.671Z
 # Source: Loyalsoldier/v2ray-rules-dat release/gfw.txt
 # Description: geosite:gfw
 # Policy: proxy
@@ -2725,7 +2725,6 @@ host-suffix, pachosting.com, proxy
 host-suffix, pacom.mil, proxy
 host-suffix, pacopacomama.com, proxy
 host-suffix, page.link, proxy
-host-suffix, pages.dev, proxy
 host-suffix, paimon.moe, proxy
 host-suffix, pancakeswap.finance, proxy
 host-suffix, pandafan.pub, proxy
@@ -3338,6 +3337,7 @@ host-suffix, surfeasy.com, proxy
 host-suffix, surfeasy.com.au, proxy
 host-suffix, surfshark.com, proxy
 host-suffix, surrenderat20.net, proxy
+host-suffix, suyingtv.com, proxy
 host-suffix, swagbucks.com, proxy
 host-suffix, swapspace.co, proxy
 host-suffix, swissinfo.ch, proxy
@@ -4021,6 +4021,7 @@ host-suffix, wowhead.com, proxy
 host-suffix, wowporn.com, proxy
 host-suffix, woyaolian.org, proxy
 host-suffix, wp.com, proxy
+host-suffix, wplace.live, proxy
 host-suffix, wpoforum.com, proxy
 host-suffix, writesonic.com, proxy
 host-suffix, wsj.com, proxy
