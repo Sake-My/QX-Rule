@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-06-05T23:44:16.671Z
+# Generated at: 2026-06-06T23:34:06.393Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -1610,6 +1610,7 @@ host-suffix, amcplus.com, proxy
 host-suffix, amd.com, proxy
 host-suffix, amd.com.cn, proxy
 host-suffix, amdfanstore.com, proxy
+host-suffix, amdgaming.com, proxy
 host-suffix, amdigital.co.uk, proxy
 host-suffix, ameba.jp, proxy
 host-suffix, amebame.com, proxy
@@ -4556,6 +4557,7 @@ host-suffix, budaedu.org, proxy
 host-suffix, budatt.com, proxy
 host-suffix, buddymedia.com, proxy
 host-suffix, buffered.com, proxy
+host-suffix, bugsnag.com, proxy
 host-suffix, bugzilla.org, proxy
 host-suffix, buhidoh.net, proxy
 host-suffix, buicha.social, proxy
@@ -5026,6 +5028,7 @@ host-suffix, cchostvps.xyz, proxy
 host-suffix, cciernslabs.com, proxy
 host-suffix, cciesecuritylabs.com, proxy
 host-suffix, ccievoicelabs.com, proxy
+host-suffix, ccleaner.com, proxy
 host-suffix, cclife.org, proxy
 host-suffix, cclifefl.org, proxy
 host-suffix, ccna5.net, proxy
@@ -5429,6 +5432,7 @@ host-suffix, citylab.com, proxy
 host-suffix, cityoflove.com, proxy
 host-suffix, citypopulation.de, proxy
 host-suffix, citytourgirls.com, proxy
+host-suffix, cityu.hk, proxy
 host-suffix, civicparty.hk, proxy
 host-suffix, civil3d.com, proxy
 host-suffix, civilcc.com, proxy
@@ -5973,6 +5977,7 @@ host-suffix, cuckwatchingwife.com, proxy
 host-suffix, cuckwimp.com, proxy
 host-suffix, cuebic.biz, proxy
 host-suffix, cuffiesaldi.com, proxy
+host-suffix, cuhk.hk, proxy
 host-suffix, cuinc.oen.tw, proxy
 host-suffix, cuinc.tw, proxy
 host-suffix, cuiweiping.net, proxy
@@ -7537,9 +7542,11 @@ host-suffix, edisebay.com, proxy
 host-suffix, editorx.com, proxy
 host-suffix, edninfo.com, proxy
 host-suffix, edu-research.org, proxy
+host-suffix, edu.hk, proxy
 host-suffix, edu.ir, proxy
 host-suffix, edubridge.com, proxy
 host-suffix, education-cadcam.com, proxy
+host-suffix, eduhk.hk, proxy
 host-suffix, eduplus.hk, proxy
 host-suffix, edx-cdn.org, proxy
 host-suffix, edx.org, proxy
@@ -8610,6 +8617,7 @@ host-suffix, figprayer.com, proxy
 host-suffix, fileflyer.com, proxy
 host-suffix, filesmonster.vip, proxy
 host-suffix, filesor.com, proxy
+host-suffix, filezilla-project.org, proxy
 host-suffix, filipino-music.net, proxy
 host-suffix, filme2.xxx, proxy
 host-suffix, filmeleporno.xxx, proxy
@@ -9741,6 +9749,7 @@ host-suffix, git-scm.com, proxy
 host-suffix, git.io, proxy
 host-suffix, gitbook.com, proxy
 host-suffix, gitbook.io, proxy
+host-suffix, gitgud.io, proxy
 host-suffix, github.ai, proxy
 host-suffix, github.blog, proxy
 host-suffix, github.com, proxy
@@ -10941,6 +10950,7 @@ host-suffix, hitun.io, proxy
 host-suffix, hitxhot.com, proxy
 host-suffix, hive.blog, proxy
 host-suffix, hiveon.net, proxy
+host-suffix, hivepress.io, proxy
 host-suffix, hjb246.top, proxy
 host-suffix, hjb7e9.top, proxy
 host-suffix, hk-pub.com, proxy
@@ -10953,6 +10963,7 @@ host-suffix, hkbn.com.hk, proxy
 host-suffix, hkbn.net, proxy
 host-suffix, hkbnes.net, proxy
 host-suffix, hkbookcity.com, proxy
+host-suffix, hkbu.hk, proxy
 host-suffix, hkchronicles.com, proxy
 host-suffix, hkcircleapp.com, proxy
 host-suffix, hkcitizenmedia.com, proxy
@@ -10987,6 +10998,8 @@ host-suffix, hkt.com, proxy
 host-suffix, hkteducation.com, proxy
 host-suffix, hktpremier.com, proxy
 host-suffix, hktshop.com, proxy
+host-suffix, hku.hk, proxy
+host-suffix, hkust.hk, proxy
 host-suffix, hlbelygl.com, proxy
 host-suffix, hlsp1.pw, proxy
 host-suffix, hm.com, proxy
@@ -13049,7 +13062,6 @@ host-suffix, jmcomic1.mobi, proxy
 host-suffix, jmcomic1.rocks, proxy
 host-suffix, jmcomic2.moe, proxy
 host-suffix, jmlr.org, proxy
-host-suffix, jmsc.hku.hk, proxy
 host-suffix, jmscult.com, proxy
 host-suffix, jmvbt.com, proxy
 host-suffix, jneurosci.org, proxy
@@ -13566,6 +13578,7 @@ host-suffix, lanasbigboobs.com, proxy
 host-suffix, landofhope.tv, proxy
 host-suffix, langchain.com, proxy
 host-suffix, langsuirs.com, proxy
+host-suffix, languagetool.org, proxy
 host-suffix, lanik.us, proxy
 host-suffix, lanmdh.net, proxy
 host-suffix, lanniser-ylo.shop, proxy
@@ -13726,7 +13739,6 @@ host-suffix, libgen.st, proxy
 host-suffix, liboggirls.net, proxy
 host-suffix, library-access.sk, proxy
 host-suffix, library.lol, proxy
-host-suffix, library.usc.cuhk.edu.hk, proxy
 host-suffix, librarylovefest.com, proxy
 host-suffix, libraryofthumbs.com, proxy
 host-suffix, libredd.it, proxy
@@ -15217,7 +15229,6 @@ host-suffix, mizzmona.com, proxy
 host-suffix, mji.rip, proxy
 host-suffix, mjj.rip, proxy
 host-suffix, mjj.today, proxy
-host-suffix, mjlsh.usc.cuhk.edu.hk, proxy
 host-suffix, mjv-art.org, proxy
 host-suffix, mk.shrimpia.network, proxy
 host-suffix, mk.yopo.work, proxy
@@ -15452,6 +15463,7 @@ host-suffix, motiongraphicsandmore.com, proxy
 host-suffix, motionpictureser.com, proxy
 host-suffix, moto.com, proxy
 host-suffix, motolia.com, proxy
+host-suffix, motopress.com, proxy
 host-suffix, motorola.ca, proxy
 host-suffix, motorola.cl, proxy
 host-suffix, motorola.co, proxy
@@ -15603,6 +15615,7 @@ host-suffix, msturing.org, proxy
 host-suffix, msudalosti.com, proxy
 host-suffix, msunlimitedcloudsummit.com, proxy
 host-suffix, mswe1.org, proxy
+host-suffix, msys2.org, proxy
 host-suffix, mt.lv, proxy
 host-suffix, mt0011.site, proxy
 host-suffix, mtao.fun, proxy
@@ -16816,6 +16829,7 @@ host-suffix, o3o.ca, proxy
 host-suffix, o3t.ru, proxy
 host-suffix, o3team.ru, proxy
 host-suffix, oaistatic.com, proxy
+host-suffix, oaistatsig.com, proxy
 host-suffix, oaiusercontent.com, proxy
 host-suffix, oanda.com, proxy
 host-suffix, oanencore.com, proxy
@@ -18004,6 +18018,7 @@ host-suffix, polymarket.com, proxy
 host-suffix, polymer-project.org, proxy
 host-suffix, polymerhk.com, proxy
 host-suffix, polymerproject.org, proxy
+host-suffix, polyu.hk, proxy
 host-suffix, ponyanimalsex.com, proxy
 host-suffix, poofetish.com, proxy
 host-suffix, pool.ntp.org, proxy
@@ -18709,6 +18724,7 @@ host-suffix, qmp4.com, proxy
 host-suffix, qmttqg3k.me, proxy
 host-suffix, qnap.com, proxy
 host-suffix, qobuz.com, proxy
+host-suffix, qoder.com, proxy
 host-suffix, qombol.com, proxy
 host-suffix, qoo-app.com, proxy
 host-suffix, qoo10.jp, proxy
@@ -24335,6 +24351,7 @@ host-suffix, wp-themes.com, proxy
 host-suffix, wp.com, proxy
 host-suffix, wpewebkit.org, proxy
 host-suffix, wplace.live, proxy
+host-suffix, wpmailsmtp.com, proxy
 host-suffix, wpoforum.com, proxy
 host-suffix, wpvip.com, proxy
 host-suffix, wrenchead.com, proxy
@@ -24668,9 +24685,15 @@ host-suffix, xn--d1aqf.xn--p1ai, proxy
 host-suffix, xn--d4ty0ojsqzfd.com, proxy
 host-suffix, xn--e1adjldbbpv.xn--90ais, proxy
 host-suffix, xn--e1aigb.xn--p1ai, proxy
+host-suffix, xn--fiqs8s1bxp3anr7a.hk, proxy
+host-suffix, xn--fiqs8s1bxp3anr7a.xn--j6w193g, proxy
+host-suffix, xn--fiqs8s1byzqyvl.hk, proxy
+host-suffix, xn--fiqs8s1byzqyvl.xn--j6w193g, proxy
 host-suffix, xn--fiqs8sxootzz.xn--hxt814e, proxy
 host-suffix, xn--flw351e, proxy
 host-suffix, xn--flw351e.com, proxy
+host-suffix, xn--gdt08a.hk, proxy
+host-suffix, xn--gdt08a.xn--j6w193g, proxy
 host-suffix, xn--ggle-55da.com, proxy
 host-suffix, xn--gmq348bujlxrb.com, proxy
 host-suffix, xn--gmq92kd2rm1kx34a.com, proxy
@@ -24690,11 +24713,23 @@ host-suffix, xn--kcrv3utim32hx9f6qe.com, proxy
 host-suffix, xn--kput3imi374g.xn--hxt814e, proxy
 host-suffix, xn--mts47c3w9b1qr.net, proxy
 host-suffix, xn--mtswd61ejxq.com, proxy
+host-suffix, xn--mxtq18a.hk, proxy
+host-suffix, xn--mxtq18a.xn--j6w193g, proxy
 host-suffix, xn--ngstr-lra8j.com, proxy
 host-suffix, xn--noss43i.com, proxy
 host-suffix, xn--oiq.cc, proxy
 host-suffix, xn--p8j9a0d9c9a.xn--q9jyb4c, proxy
 host-suffix, xn--pearsonenespaol-brb.com, proxy
+host-suffix, xn--pssu7ci2j23mp9ny48b.hk, proxy
+host-suffix, xn--pssu7ci2j23mp9ny48b.xn--j6w193g, proxy
+host-suffix, xn--pssu7cv61af1tcs59bnvd.hk, proxy
+host-suffix, xn--pssu7cv61af1tcs59bnvd.xn--j6w193g, proxy
+host-suffix, xn--pssu7cv61af44b.hk, proxy
+host-suffix, xn--pssu7cv61af44b.xn--j6w193g, proxy
+host-suffix, xn--pssu7cv61ahw8aq79bztd.hk, proxy
+host-suffix, xn--pssu7cv61ahw8aq79bztd.xn--j6w193g, proxy
+host-suffix, xn--pssu7cv61ahwcb1p2yk.hk, proxy
+host-suffix, xn--pssu7cv61ahwcb1p2yk.xn--j6w193g, proxy
 host-suffix, xn--q41am8x.com, proxy
 host-suffix, xn--qcka1pmc, proxy
 host-suffix, xn--qoq462m.com, proxy
@@ -24707,7 +24742,13 @@ host-suffix, xn--tkry91n.com, proxy
 host-suffix, xn--u2u927b.com, proxy
 host-suffix, xn--ubt498knmf.com, proxy
 host-suffix, xn--uis17aj9kmuf.com, proxy
+host-suffix, xn--uis44a.xn--j6w193g, proxy
 host-suffix, xn--urs05q.jp, proxy
+host-suffix, xn--wcv22d.hk, proxy
+host-suffix, xn--wcv22d.xn--j6w193g, proxy
+host-suffix, xn--wcvs22d.xn--j6w193g, proxy
+host-suffix, xn--wcvs22d1m.hk, proxy
+host-suffix, xn--wcvs22d1m.xn--j6w193g, proxy
 host-suffix, xn--x-qeu1ji09tzlg.biz, proxy
 host-suffix, xn--x-qeu1ji09tzlg.net, proxy
 host-suffix, xn--xsq421m.com, proxy
@@ -26050,6 +26091,7 @@ host, gitlab-assets.oss-cn-hongkong.aliyuncs.com, proxy
 host, google-ohttp-relay-safebrowsing.fastly-edge.com, proxy
 host, hamivideo.hinet.net, proxy
 host, hammerandchisel.ssl.zendesk.com, proxy
+host, hb.imgix.net, proxy
 host, heads-ak-spotify-com.akamaized.net, proxy
 host, heads4-ak-spotify-com.akamaized.net, proxy
 host, himalaya-exchange.zendesk.com, proxy
