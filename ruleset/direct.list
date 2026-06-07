@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-06-06T23:34:06.393Z
+# Generated at: 2026-06-07T23:34:38.990Z
 # Source: Loyalsoldier/v2ray-rules-dat release/direct-list.txt
 # Description: geosite:cn
 # Policy: direct
@@ -112548,6 +112548,7 @@ host, cl1.apple.com, direct
 host, cl2-cdn.origin-apple.com.akadns.net, direct
 host, cl2-cn.apple.com, direct
 host, cl2.apple.com, direct
+host, cl2.apple.com.edgekey.net.globalredir.akadns.net, direct
 host, cl3-cdn.origin-apple.com.akadns.net, direct
 host, cl3.apple.com, direct
 host, cl4-cdn.origin-apple.com.akadns.net, direct
@@ -112688,6 +112689,7 @@ host, googlevads-cn.com, direct
 host, gs-loc-cn.apple.com, direct
 host, gs-loc.apple.com, direct
 host, gsp10-ssl-cn.ls.apple.com, direct
+host, gsp11-cn.ls.apple.com, direct
 host, gsp12-cn.ls.apple.com, direct
 host, gsp13-cn.ls.apple.com, direct
 host, gsp4-cn.ls.apple.com, direct
@@ -112716,8 +112718,6 @@ host, hellowebfonts.oss-cn-beijing.aliyuncs.com, direct
 host, hospital.pku.edu.cn, direct
 host, i.dell.com, direct
 host, i.pki.goog, direct
-host, icloud-cdn.icloud.com.akadns.net, direct
-host, icloud.cdn-apple.com, direct
 host, images-cn-8.ssl-images-amazon.com, direct
 host, images-cn.ssl-images-amazon.com, direct
 host, images.apple.com.edgekey.net.globalredir.akadns.net, direct
@@ -112815,10 +112815,8 @@ host, ntp5.tencent.com, direct
 host, ntp6.aliyun.com, direct
 host, ntp7.aliyun.com, direct
 host, o.pki.goog, direct
-host, ocsp-lb.apple.com.akadns.net, direct
 host, ocsp.apple.com, direct
 host, ocsp.pki.goog, direct
-host, ocsp2-lb.apple.com.akadns.net, direct
 host, ocsp2.apple.com, direct
 host, oemsoc.download.prss.microsoft.com, direct
 host, officecdn.microsoft.com, direct
@@ -112861,7 +112859,6 @@ host, p8-juejin.byteimg.com, direct
 host, p9-juejin.byteimg.com, direct
 host, pagead-googlehosted.l.google.com, direct
 host, pancake.apple.com, direct
-host, pancake.cdn-apple.com.akadns.net, direct
 host, pba0.apple.com, direct
 host, pd-nk.itunes.apple.com, direct
 host, pd.itunes.apple.com, direct
@@ -112894,7 +112891,6 @@ host, redirector.xn--ngstr-lra8j.com, direct
 host, refresh-bkg.activation-v2.kaspersky.com, direct
 host, res-1.cdn.office.net, direct
 host, res.cdn.office.net, direct
-host, reserve-prime.apple.com, direct
 host, s.mzstatic.com, direct
 host, s00.upd.kaspersky.com, direct
 host, s01.upd.kaspersky.com, direct

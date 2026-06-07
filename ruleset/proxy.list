@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-06-06T23:34:06.393Z
+# Generated at: 2026-06-07T23:34:38.990Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -16558,6 +16558,7 @@ host-suffix, notepad-plus-plus.org, proxy
 host-suffix, noticias-rt.com, proxy
 host-suffix, notimundo.press, proxy
 host-suffix, notion-static.com, proxy
+host-suffix, notion-status.com, proxy
 host-suffix, notion.com, proxy
 host-suffix, notion.new, proxy
 host-suffix, notion.site, proxy
