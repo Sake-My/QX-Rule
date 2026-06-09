@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-06-08T23:43:56.365Z
+# Generated at: 2026-06-09T23:49:07.141Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -12061,6 +12061,7 @@ host-suffix, infocert.digital, proxy
 host-suffix, infocert.it, proxy
 host-suffix, infoglobo.com.br, proxy
 host-suffix, infolinker.com.tw, proxy
+host-suffix, infoq.com, proxy
 host-suffix, infoq.jp, proxy
 host-suffix, informs.org, proxy
 host-suffix, infosec.exchange, proxy
@@ -16801,6 +16802,7 @@ host-suffix, nwxs8.com, proxy
 host-suffix, nxta.org, proxy
 host-suffix, nxtdig.com.hk, proxy
 host-suffix, nxtdig.com.tw, proxy
+host-suffix, nxtv.jp, proxy
 host-suffix, nyaa.eu, proxy
 host-suffix, nyaa.net, proxy
 host-suffix, nyaa.si, proxy
@@ -22658,6 +22660,9 @@ host-suffix, uncyclopedia.tw, proxy
 host-suffix, underhentai.net, proxy
 host-suffix, underlords.com, proxy
 host-suffix, underwoodammo.com, proxy
+host-suffix, unext-info.jp, proxy
+host-suffix, unext.co.jp, proxy
+host-suffix, unext.jp, proxy
 host-suffix, unfiltered.news, proxy
 host-suffix, unholyknight.com, proxy
 host-suffix, unidraw.io, proxy
