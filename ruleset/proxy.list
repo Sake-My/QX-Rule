@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-06-10T23:54:16.258Z
+# Generated at: 2026-06-11T23:58:50.999Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -6942,6 +6942,7 @@ host-suffix, doseofporn.com, proxy
 host-suffix, dot-mac.de, proxy
 host-suffix, dot.net, proxy
 host-suffix, dot.sb, proxy
+host-suffix, dota2.com, proxy
 host-suffix, dotcernpilot.info, proxy
 host-suffix, dotdeb.org, proxy
 host-suffix, dotfacebook.com, proxy
@@ -13876,6 +13877,8 @@ host-suffix, livefilestore.com, proxy
 host-suffix, livehdcams.com, proxy
 host-suffix, livejasmin.com, proxy
 host-suffix, livejasminbabes.net, proxy
+host-suffix, livejournal.com, proxy
+host-suffix, livejournal.net, proxy
 host-suffix, liveleak.com, proxy
 host-suffix, livemint.com, proxy
 host-suffix, livemodels.co, proxy
@@ -16973,6 +16976,7 @@ host-suffix, oktech.ru, proxy
 host-suffix, okx-dns.com, proxy
 host-suffix, okx-dns1.com, proxy
 host-suffix, okx-dns2.com, proxy
+host-suffix, okx.ac, proxy
 host-suffix, okx.cab, proxy
 host-suffix, okx.com, proxy
 host-suffix, old.honeynet.org, proxy
@@ -22842,6 +22846,7 @@ host-suffix, uymaarip.com, proxy
 host-suffix, v-av.com, proxy
 host-suffix, v-has.com, proxy
 host-suffix, v.gd, proxy
+host-suffix, v.ps, proxy
 host-suffix, v2.help, proxy
 host-suffix, v2.hysteria.network, proxy
 host-suffix, v2ex.com, proxy
@@ -22870,6 +22875,7 @@ host-suffix, valoryirene.com, proxy
 host-suffix, value-domain.com, proxy
 host-suffix, value-server.com, proxy
 host-suffix, valuegb.com, proxy
+host-suffix, valve.net, proxy
 host-suffix, valvesoftware.com, proxy
 host-suffix, vamo.com, proxy
 host-suffix, vamzakaz.ru, proxy
@@ -23751,6 +23757,7 @@ host-suffix, vporn.com, proxy
 host-suffix, vpornvideos.com, proxy
 host-suffix, vpro.com, proxy
 host-suffix, vpro.net, proxy
+host-suffix, vps.hosting, proxy
 host-suffix, vpsxb.net, proxy
 host-suffix, vrbgay.com, proxy
 host-suffix, vrcams.io, proxy
@@ -24880,6 +24887,16 @@ host-suffix, xt.com, proxy
 host-suffix, xt.pub, proxy
 host-suffix, xtapes.to, proxy
 host-suffix, xtegvk.xyz, proxy
+host-suffix, xtom.au, proxy
+host-suffix, xtom.com, proxy
+host-suffix, xtom.de, proxy
+host-suffix, xtom.ee, proxy
+host-suffix, xtom.hk, proxy
+host-suffix, xtom.jp, proxy
+host-suffix, xtom.nl, proxy
+host-suffix, xtom.sg, proxy
+host-suffix, xtom.social, proxy
+host-suffix, xtom.us, proxy
 host-suffix, xtracloud.net, proxy
 host-suffix, xtube.com, proxy
 host-suffix, xtubebdsm.com, proxy

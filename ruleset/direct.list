@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-06-10T23:54:16.258Z
+# Generated at: 2026-06-11T23:58:50.999Z
 # Source: Loyalsoldier/v2ray-rules-dat release/direct-list.txt
 # Description: geosite:cn
 # Policy: direct
@@ -3307,6 +3307,7 @@ host-suffix, 263y.com, direct
 host-suffix, 264006.com, direct
 host-suffix, 264321.com, direct
 host-suffix, 264400.com, direct
+host-suffix, 265.com, direct
 host-suffix, 26582.vip, direct
 host-suffix, 26595.com, direct
 host-suffix, 265g.com, direct
@@ -112494,7 +112495,6 @@ host-suffix, zzzyy.com, direct
 host-suffix, zzzyyy.com, direct
 host-suffix, zzzzaaaa.com, direct
 host-suffix, zzzzzz.me, direct
-host, 265.com, direct
 host, 2mdn-cn.net, direct
 host, 2mdn.net, direct
 host, a1.mzstatic.com, direct
@@ -113048,6 +113048,7 @@ host, www.entrust.cn, direct
 host, www.gstatic.com, direct
 host, www.microsoft.com, direct
 host, www.pxcc.com, direct
+host, www.recaptcha-cn.net, direct
 host, www.recaptcha.net, direct
 host, www.support.apple.com, direct
 host, www4-static.gog-statics.com, direct
