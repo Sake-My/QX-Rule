@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-06-11T23:58:50.999Z
+# Generated at: 2026-06-12T23:58:14.796Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -16636,6 +16636,7 @@ host-suffix, nsfw.xxx, proxy
 host-suffix, nsfw247.to, proxy
 host-suffix, nsfwmemes.com, proxy
 host-suffix, nsimg.net, proxy
+host-suffix, nspk.ru, proxy
 host-suffix, ntc.party, proxy
 host-suffix, ntd.com, proxy
 host-suffix, ntd.tv, proxy
