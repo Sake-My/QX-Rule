@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-06-12T23:58:14.796Z
+# Generated at: 2026-06-13T23:37:58.936Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -9336,18 +9336,31 @@ host-suffix, fusker.xxx, proxy
 host-suffix, futanarihq.com, proxy
 host-suffix, futhead.com, proxy
 host-suffix, futpromos.com, proxy
+host-suffix, futu.cn, proxy
+host-suffix, futu.link, proxy
+host-suffix, futu5.com, proxy
+host-suffix, futuau.com, proxy
+host-suffix, futuesop.com, proxy
 host-suffix, futufin.com, proxy
 host-suffix, futuhk.com, proxy
+host-suffix, futuhk1.com, proxy
+host-suffix, futuhk2.com, proxy
 host-suffix, futuhkapp.com, proxy
 host-suffix, futuhn.com, proxy
 host-suffix, futuholdings.com, proxy
 host-suffix, futunited.com, proxy
+host-suffix, futuniuniu.com, proxy
+host-suffix, futunn.com, proxy
+host-suffix, futuoa.com, proxy
 host-suffix, future-cs.ru, proxy
 host-suffix, futuremessage.org, proxy
 host-suffix, futureofbritishmanufacturing.com, proxy
 host-suffix, futureofbusinesssurvey.org, proxy
 host-suffix, futureofmaktingthings.com, proxy
 host-suffix, futureshop.ca, proxy
+host-suffix, futusg.com, proxy
+host-suffix, futustatic.com, proxy
+host-suffix, fututrade.com, proxy
 host-suffix, fuxporn.com, proxy
 host-suffix, fuzokudx.com, proxy
 host-suffix, fw.cm, proxy
@@ -13612,6 +13625,7 @@ host-suffix, lantern.io, proxy
 host-suffix, lanternal.com, proxy
 host-suffix, laogai.org, proxy
 host-suffix, laogairesearch.org, proxy
+host-suffix, laohu8.com, proxy
 host-suffix, laosijifuli9009.top, proxy
 host-suffix, laowang.vip, proxy
 host-suffix, lapriere.jp, proxy
@@ -13975,11 +13989,13 @@ host-suffix, londonmithraeum.com, proxy
 host-suffix, londonreal.tv, proxy
 host-suffix, lonestarnaughtygirls.com, proxy
 host-suffix, longbridge.cloud, proxy
+host-suffix, longbridge.cn, proxy
 host-suffix, longbridge.com, proxy
 host-suffix, longbridge.global, proxy
 host-suffix, longbridge.hk, proxy
 host-suffix, longbridge.sg, proxy
 host-suffix, longbridgeapp.com, proxy
+host-suffix, longbridgehk.com, proxy
 host-suffix, longmabook.com, proxy
 host-suffix, longmabookcn.com, proxy
 host-suffix, longman.ch, proxy
@@ -20425,6 +20441,7 @@ host-suffix, skysports.fr, proxy
 host-suffix, skysports.ie, proxy
 host-suffix, skysportsonline.com, proxy
 host-suffix, skysportsracing.com, proxy
+host-suffix, skytigris.cn, proxy
 host-suffix, skyvegas.com, proxy
 host-suffix, skyxvpn.com, proxy
 host-suffix, sl99mod.buzz, proxy
@@ -21972,6 +21989,8 @@ host-suffix, tidelift.com, proxy
 host-suffix, tiendabestbuy.com, proxy
 host-suffix, tiffany-towers.com, proxy
 host-suffix, tig-ol-bitties.live, proxy
+host-suffix, tigerbbs.cn, proxy
+host-suffix, tigerbbs.com, proxy
 host-suffix, tigervpn.com, proxy
 host-suffix, tik-tokapi.com, proxy
 host-suffix, tiktok-minis.com, proxy
@@ -24627,6 +24646,7 @@ host-suffix, xianjian.tw, proxy
 host-suffix, xiaofu.me, proxy
 host-suffix, xiaogirls.com, proxy
 host-suffix, xiaohexie.com, proxy
+host-suffix, xiaohu8.com, proxy
 host-suffix, xiaolan.me, proxy
 host-suffix, xiaoma.org, proxy
 host-suffix, xiaomi.eu, proxy
@@ -26434,6 +26454,7 @@ host, steampipe-kr.akamaized.net, proxy
 host, steampipe-partner.akamaized.net, proxy
 host, steampipe.akamaized.net, proxy
 host, steamstore-a.akamaihd.net, proxy
+host, steamugcquincy.blob.core.windows.net, proxy
 host, steamusercontent-a.akamaihd.net, proxy
 host, steamuserimages-a.akamaihd.net, proxy
 host, steamvideo-a.akamaihd.net, proxy
