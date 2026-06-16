@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-06-16T00:08:12.096Z
+# Generated at: 2026-06-16T23:53:45.646Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -5094,6 +5094,7 @@ host-suffix, celebforum.co, proxy
 host-suffix, celebgramme.com, proxy
 host-suffix, celebmasta.live, proxy
 host-suffix, celebritygay.com, proxy
+host-suffix, celebritymoviearchive.com, proxy
 host-suffix, celebritynakeds.com, proxy
 host-suffix, celebrityslips.com, proxy
 host-suffix, celebritystorysite.com, proxy
@@ -9093,6 +9094,7 @@ host-suffix, foxweatherwatch.com, proxy
 host-suffix, fpacebook.com, proxy
 host-suffix, fpmt.org, proxy
 host-suffix, fpmtmexico.org, proxy
+host-suffix, fpo.xxx, proxy
 host-suffix, fptolia.com, proxy
 host-suffix, fqcebook.com, proxy
 host-suffix, fqrouter.com, proxy
@@ -9207,6 +9209,8 @@ host-suffix, freevpn.me, proxy
 host-suffix, freewallpaper4.me, proxy
 host-suffix, freewechat.com, proxy
 host-suffix, freeweibo.com, proxy
+host-suffix, freexh.blog, proxy
+host-suffix, freexh.live, proxy
 host-suffix, freexvideos.org, proxy
 host-suffix, freexxx.best, proxy
 host-suffix, freexxx.win, proxy
@@ -17843,6 +17847,7 @@ host-suffix, pikpak.me, proxy
 host-suffix, pikpakdrive.com, proxy
 host-suffix, pillbeatsblackfridaysale.com, proxy
 host-suffix, pimg.tw, proxy
+host-suffix, pimpbunny.com, proxy
 host-suffix, pin-cong.com, proxy
 host-suffix, pin.it, proxy
 host-suffix, pin6.com, proxy
@@ -18501,6 +18506,7 @@ host-suffix, powershape.com, proxy
 host-suffix, powershellgallery.com, proxy
 host-suffix, powersrv.de, proxy
 host-suffix, powersunitedvr.com, proxy
+host-suffix, powfans.com, proxy
 host-suffix, pp-soc.com, proxy
 host-suffix, pp6.info, proxy
 host-suffix, ppaypal.com, proxy
@@ -19917,6 +19923,7 @@ host-suffix, seqingwangzhan.pro, proxy
 host-suffix, seqingx.com, proxy
 host-suffix, sequence.com, proxy
 host-suffix, ser7.cc, proxy
+host-suffix, serakon.com, proxy
 host-suffix, serbiporno.net, proxy
 host-suffix, serialssolutions.com, proxy
 host-suffix, serlucap.lol, proxy
@@ -23845,6 +23852,7 @@ host-suffix, vscode-cdn.net, proxy
 host-suffix, vscode-unpkg.net, proxy
 host-suffix, vscode.dev, proxy
 host-suffix, vsemrabota.ru, proxy
+host-suffix, vsex.in, proxy
 host-suffix, vsezoo.com, proxy
 host-suffix, vsphere.com, proxy
 host-suffix, vsphere.net, proxy
@@ -24668,6 +24676,7 @@ host-suffix, xhamster19.com, proxy
 host-suffix, xhamster2.com, proxy
 host-suffix, xhamster3.com, proxy
 host-suffix, xhamsterlive.com, proxy
+host-suffix, xhapp.live, proxy
 host-suffix, xhcdn.com, proxy
 host-suffix, xhnews.live, proxy
 host-suffix, xhot.pro, proxy
@@ -26081,6 +26090,7 @@ host, cbsservice.aws.syncbak.com, proxy
 host, cdn-spotify-experiments.conductrics.com, proxy
 host, cdn.js7k.com, proxy
 host, cdngarenanow-a.akamaihd.net, proxy
+host, chatscc-hamivideo2.cdn.hinet.net, proxy
 host, chinapower.csis.org, proxy
 host, cisco.evergage.com, proxy
 host, ciscolivehls-i.akamaihd.net, proxy
@@ -26162,6 +26172,7 @@ host, ebay-25-assets.s3-us-west-1.amazonaws.com, proxy
 host, ecapi-pchome.cdn.hinet.net, proxy
 host, edu.tinkoff.ru, proxy
 host, education.tbank.ru, proxy
+host, efe8f8a4-abd5-44c9-bf5c-cd217442c52f.t.ssp.hinet.net, proxy
 host, elib.maruzen.co.jp, proxy
 host, epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com, proxy
 host, ereg.adobe.com, proxy
@@ -26217,6 +26228,7 @@ host, himalaya-exchange.zendesk.com, proxy
 host, hl2rcv.adobe.com, proxy
 host, hlrcv.stage.adobe.com, proxy
 host, hls-amt.itunes.apple.com, proxy
+host, hls-hamivideo.cdn.hinet.net, proxy
 host, hls.itunes.apple.com, proxy
 host, holoxx.f5.si, proxy
 host, homebrew.bintray.com, proxy
@@ -26386,6 +26398,7 @@ host, rsshub2.asailor.org, proxy
 host, rtm.tnt-ea.com, proxy
 host, sa78gs.wpc.edgecastcdn.net, proxy
 host, sberpro.vedomosti.ru, proxy
+host, scc-hamivideo.cdn.hinet.net, proxy
 host, scc.ott.hinet.net, proxy
 host, scholar.google.ae, proxy
 host, scholar.google.at, proxy
@@ -26495,6 +26508,7 @@ host, steamusercontent-a.akamaihd.net, proxy
 host, steamuserimages-a.akamaihd.net, proxy
 host, steamvideo-a.akamaihd.net, proxy
 host, straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com, proxy
+host, t.ssp.hinet.net, proxy
 host, t21.nikkei.co.jp, proxy
 host, t21ipau.nikkei.co.jp, proxy
 host, teamviewer.com.cdn.cloudflare.net, proxy
@@ -26596,6 +26610,7 @@ host, vsmarketplacebadge.apphb.com, proxy
 host, wb-agora-hydra-file-storage-k1.s3.amazonaws.com, proxy
 host, webchannel-alkalimakersuite-pa.clients6.google.com, proxy
 host, weblive-hamivideo.cdn.hinet.net, proxy
+host, weblivea-hamivideo.cdn.hinet.net, proxy
 host, webvodad-hamivideo.cdn.hinet.net, proxy
 host, widgets.stripst.com, proxy
 host, wip.adobe.com, proxy
