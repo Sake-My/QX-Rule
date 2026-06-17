@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-06-16T23:53:45.646Z
+# Generated at: 2026-06-17T23:55:05.645Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -1848,6 +1848,7 @@ host-suffix, appbridge.io, proxy
 host-suffix, appbridge.it, proxy
 host-suffix, appcenter.ms, proxy
 host-suffix, appcloud.com, proxy
+host-suffix, appconsent.io, proxy
 host-suffix, appdomain.cloud, proxy
 host-suffix, appdynamics.co.uk, proxy
 host-suffix, appdynamics.com, proxy
@@ -2743,6 +2744,7 @@ host-suffix, awwcn.buzz, proxy
 host-suffix, awwcn.xyz, proxy
 host-suffix, awxcdn.com, proxy
 host-suffix, axbdoll.com.tw, proxy
+host-suffix, axept.io, proxy
 host-suffix, axios.com, proxy
 host-suffix, axureformac.com, proxy
 host-suffix, ayabank.com, proxy
@@ -5055,6 +5057,7 @@ host-suffix, cdjp.org, proxy
 host-suffix, cdkworkshop.com, proxy
 host-suffix, cdmatech.com, proxy
 host-suffix, cdn-apple.com, proxy
+host-suffix, cdn-cookieyes.com, proxy
 host-suffix, cdn-telegram.org, proxy
 host-suffix, cdn-terapeak.com, proxy
 host-suffix, cdn-tinkoff.ru, proxy
@@ -5776,6 +5779,7 @@ host-suffix, conoha.jp, proxy
 host-suffix, conquerwithcharacter.com, proxy
 host-suffix, conscrypt.com, proxy
 host-suffix, conscrypt.org, proxy
+host-suffix, consentmanager.net, proxy
 host-suffix, consentpro.com, proxy
 host-suffix, constructware.com, proxy
 host-suffix, consul.io, proxy
@@ -5785,9 +5789,11 @@ host-suffix, contechacademy.com, proxy
 host-suffix, contentful.com, proxy
 host-suffix, contest.com, proxy
 host-suffix, convrgencegame.com, proxy
+host-suffix, cookiebot.com, proxy
 host-suffix, cookiechoices.org, proxy
 host-suffix, cookielaw.org, proxy
 host-suffix, cookiepro.com, proxy
+host-suffix, cookieyes.com, proxy
 host-suffix, cool-comics.com, proxy
 host-suffix, cool18.com, proxy
 host-suffix, cool3c.com, proxy
@@ -21269,7 +21275,6 @@ host-suffix, supanimegames.com, proxy
 host-suffix, supchina.com, proxy
 host-suffix, superadultgames.com, proxy
 host-suffix, supercell.com, proxy
-host-suffix, supercell.helpshift.com, proxy
 host-suffix, supercell.net, proxy
 host-suffix, supercellcreators.com, proxy
 host-suffix, supercellgames.com, proxy
@@ -21676,6 +21681,7 @@ host-suffix, terapeak.info, proxy
 host-suffix, teraperk.com, proxy
 host-suffix, terk.nl, proxy
 host-suffix, termius.com, proxy
+host-suffix, termly.io, proxy
 host-suffix, termux.com, proxy
 host-suffix, termux.dev, proxy
 host-suffix, termux.org, proxy
@@ -22339,6 +22345,7 @@ host-suffix, truefi.io, proxy
 host-suffix, truenas.com, proxy
 host-suffix, trunest.com, proxy
 host-suffix, trust-provider.com, proxy
+host-suffix, trustarc.com, proxy
 host-suffix, trustcor.ca, proxy
 host-suffix, trustcor.com, proxy
 host-suffix, trustdoc.ch, proxy
@@ -26508,6 +26515,8 @@ host, steamusercontent-a.akamaihd.net, proxy
 host, steamuserimages-a.akamaihd.net, proxy
 host, steamvideo-a.akamaihd.net, proxy
 host, straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com, proxy
+host, supercell.helpshift.com, proxy
+host, supercell.zendesk.com, proxy
 host, t.ssp.hinet.net, proxy
 host, t21.nikkei.co.jp, proxy
 host, t21ipau.nikkei.co.jp, proxy
