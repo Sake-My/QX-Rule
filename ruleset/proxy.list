@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-06-17T23:55:05.645Z
+# Generated at: 2026-06-19T00:07:44.123Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -683,6 +683,7 @@ host-suffix, accomable.com, proxy
 host-suffix, account-paypal.info, proxy
 host-suffix, account-paypal.net, proxy
 host-suffix, account-paypal.org, proxy
+host-suffix, accountboy.com, proxy
 host-suffix, accountkit.com, proxy
 host-suffix, accountpaypal.com, proxy
 host-suffix, accountpaypal.net, proxy
@@ -6563,6 +6564,7 @@ host-suffix, devv.ai, proxy
 host-suffix, dewitwithdurex.com, proxy
 host-suffix, dexterhorn.com, proxy
 host-suffix, dezyred.com, proxy
+host-suffix, dfvpn.com, proxy
 host-suffix, dgaqp.com, proxy
 host-suffix, dgg.gg, proxy
 host-suffix, dgwav.com, proxy
@@ -9459,6 +9461,7 @@ host-suffix, gamesplanet.com, proxy
 host-suffix, gamesstack.com, proxy
 host-suffix, gametap.com, proxy
 host-suffix, gameuxmasterguide.com, proxy
+host-suffix, gamewtb.com, proxy
 host-suffix, gamez.com.tw, proxy
 host-suffix, gaming-notebooks.com, proxy
 host-suffix, gandhara.ru, proxy
@@ -9951,6 +9954,7 @@ host-suffix, gobuyonlinestore.net, proxy
 host-suffix, gockhuatviet.com, proxy
 host-suffix, godaddy, proxy
 host-suffix, godaddy.com, proxy
+host-suffix, godaddy.net, proxy
 host-suffix, godbolt.org, proxy
 host-suffix, godfootsteps.org, proxy
 host-suffix, godoc.org, proxy
@@ -21554,6 +21558,7 @@ host-suffix, taxitax.org, proxy
 host-suffix, taylorandfrancis.com, proxy
 host-suffix, taylorfrancis.com, proxy
 host-suffix, tb-esim.ru, proxy
+host-suffix, tb.pro, proxy
 host-suffix, tbank-online.com, proxy
 host-suffix, tbank.ru, proxy
 host-suffix, tbcollege.org, proxy
@@ -21969,6 +21974,7 @@ host-suffix, thumbnailseries.com, proxy
 host-suffix, thumbzilla.com, proxy
 host-suffix, thunderbird.net, proxy
 host-suffix, thunderbolttechnology.net, proxy
+host-suffix, thundermail.com, proxy
 host-suffix, thywords.com, proxy
 host-suffix, thz7.net, proxy
 host-suffix, thzu.cc, proxy
@@ -24479,6 +24485,7 @@ host-suffix, wrenchead.com, proxy
 host-suffix, writesonic.com, proxy
 host-suffix, ws-blau.com, proxy
 host-suffix, ws-tcg.com, proxy
+host-suffix, wsimg.com, proxy
 host-suffix, wsj.com, proxy
 host-suffix, wsj.jobs, proxy
 host-suffix, wsj.net, proxy
@@ -24868,6 +24875,7 @@ host-suffix, xn--ubt498knmf.com, proxy
 host-suffix, xn--uis17aj9kmuf.com, proxy
 host-suffix, xn--uis44a.xn--j6w193g, proxy
 host-suffix, xn--urs05q.jp, proxy
+host-suffix, xn--vuqv2cf7wzyig79c.com, proxy
 host-suffix, xn--wcv22d.hk, proxy
 host-suffix, xn--wcv22d.xn--j6w193g, proxy
 host-suffix, xn--wcvs22d.xn--j6w193g, proxy

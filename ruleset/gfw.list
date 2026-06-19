@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-06-17T23:55:05.645Z
+# Generated at: 2026-06-19T00:07:44.123Z
 # Source: Loyalsoldier/v2ray-rules-dat release/gfw.txt
 # Description: geosite:gfw
 # Policy: proxy
@@ -92,6 +92,7 @@ host-suffix, about.gitlab.com, proxy
 host-suffix, about.me, proxy
 host-suffix, abplive.com, proxy
 host-suffix, acast.com, proxy
+host-suffix, accountboy.com, proxy
 host-suffix, accountkit.com, proxy
 host-suffix, acevpn.com, proxy
 host-suffix, acg.mn, proxy
@@ -2446,6 +2447,7 @@ host-suffix, monitorchina.org, proxy
 host-suffix, monocloud.me, proxy
 host-suffix, monster.com, proxy
 host-suffix, moodyz.com, proxy
+host-suffix, moomoo.com, proxy
 host-suffix, moon.fm, proxy
 host-suffix, moonbbs.com, proxy
 host-suffix, moonbingo.com, proxy
@@ -4111,6 +4113,7 @@ host-suffix, xn--noss43i.com, proxy
 host-suffix, xn--oiq.cc, proxy
 host-suffix, xn--p8j9a0d9c9a.xn--q9jyb4c, proxy
 host-suffix, xn--u2u927b.com, proxy
+host-suffix, xn--vuqv2cf7wzyig79c.com, proxy
 host-suffix, xnpool.com, proxy
 host-suffix, xnxx.com, proxy
 host-suffix, xpud.org, proxy
