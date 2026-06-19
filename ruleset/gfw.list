@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-06-19T00:07:44.123Z
+# Generated at: 2026-06-19T23:34:00.673Z
 # Source: Loyalsoldier/v2ray-rules-dat release/gfw.txt
 # Description: geosite:gfw
 # Policy: proxy
@@ -18,6 +18,7 @@ host-suffix, 1688.com.au, proxy
 host-suffix, 173ng.com, proxy
 host-suffix, 18board.com, proxy
 host-suffix, 18comic.org, proxy
+host-suffix, 18mh.net, proxy
 host-suffix, 1984bbs.com, proxy
 host-suffix, 1991way.com, proxy
 host-suffix, 1e100.net, proxy
@@ -78,6 +79,7 @@ host-suffix, 9bis.net, proxy
 host-suffix, 9cache.com, proxy
 host-suffix, 9gag.com, proxy
 host-suffix, 9news.com.au, proxy
+host-suffix, 9oju31.launches.appsflyersdk.com, proxy
 host-suffix, a-normal-day.com, proxy
 host-suffix, a248.e.akamai.net, proxy
 host-suffix, aamacau.com, proxy
@@ -213,13 +215,18 @@ host-suffix, aoxvpn.com, proxy
 host-suffix, apartmentratings.com, proxy
 host-suffix, apartments.com, proxy
 host-suffix, apat1989.org, proxy
+host-suffix, api-gl.lbkrs.com, proxy
 host-suffix, api-secure.recaptcha.net, proxy
 host-suffix, api-verify.recaptcha.net, proxy
 host-suffix, api.ai, proxy
+host-suffix, api.futunn.com, proxy
+host-suffix, api.lbkrs.com, proxy
+host-suffix, api.moomoobull.com, proxy
 host-suffix, api.palworldgame.com, proxy
 host-suffix, api.pureapk.com, proxy
 host-suffix, api.recaptcha.net, proxy
 host-suffix, api.steampowered.com, proxy
+host-suffix, api5.futunn.com, proxy
 host-suffix, apiary.io, proxy
 host-suffix, apigee.com, proxy
 host-suffix, apk.support, proxy
@@ -397,6 +404,7 @@ host-suffix, bigjapanesesex.com, proxy
 host-suffix, bignews.org, proxy
 host-suffix, bigone.com, proxy
 host-suffix, bild.de, proxy
+host-suffix, bilinovel.com, proxy
 host-suffix, biliworld.com, proxy
 host-suffix, binance.com, proxy
 host-suffix, binance.org, proxy
@@ -661,6 +669,7 @@ host-suffix, cdjp.org, proxy
 host-suffix, cdn-images.mailchimp.com, proxy
 host-suffix, cdn-telegram.org, proxy
 host-suffix, cdn.arstechnica.net, proxy
+host-suffix, cdn.futustatic.com, proxy
 host-suffix, cdn.jwplayer.com, proxy
 host-suffix, cdn.printfriendly.com, proxy
 host-suffix, cdn.seatguru.com, proxy
@@ -684,6 +693,7 @@ host-suffix, centurys.net, proxy
 host-suffix, certificate-transparency.org, proxy
 host-suffix, certificate.revocationcheck.com, proxy
 host-suffix, cfr.org, proxy
+host-suffix, cg.play-analytics.com, proxy
 host-suffix, cgdepot.org, proxy
 host-suffix, change.org, proxy
 host-suffix, changp.com, proxy
@@ -1030,6 +1040,7 @@ host-suffix, dougscripts.com, proxy
 host-suffix, doujincafe.com, proxy
 host-suffix, dowjones.io, proxy
 host-suffix, download.dappcdn.com, proxy
+host-suffix, download.futunn.com, proxy
 host-suffix, dpool.top, proxy
 host-suffix, dpp.org.tw, proxy
 host-suffix, dpr.info, proxy
@@ -1345,7 +1356,36 @@ host-suffix, funkyimg.com, proxy
 host-suffix, furbo.org, proxy
 host-suffix, furinkan.com, proxy
 host-suffix, furrybar.com, proxy
+host-suffix, futu.cn, proxy
+host-suffix, futu.com, proxy
+host-suffix, futu.link, proxy
+host-suffix, futu0.com, proxy
+host-suffix, futu1.com, proxy
+host-suffix, futu2.com, proxy
+host-suffix, futu3.com, proxy
+host-suffix, futu4.com, proxy
+host-suffix, futu5.com, proxy
+host-suffix, futu6.com, proxy
+host-suffix, futu7.com, proxy
+host-suffix, futu8.com, proxy
+host-suffix, futu9.com, proxy
+host-suffix, futuau.com, proxy
+host-suffix, futubull.cn, proxy
+host-suffix, futuchain.com, proxy
+host-suffix, futuesop.com, proxy
+host-suffix, futufin.com, proxy
+host-suffix, futuhk.com, proxy
+host-suffix, futuhk2.com, proxy
+host-suffix, futuhkapp.com, proxy
+host-suffix, futuhn.com, proxy
+host-suffix, futuholdings.com, proxy
+host-suffix, futuinc.com, proxy
+host-suffix, futuniuniu.com, proxy
+host-suffix, futunn.com, proxy
 host-suffix, futuremessage.org, proxy
+host-suffix, futustatic.com, proxy
+host-suffix, fututrade.com, proxy
+host-suffix, fututrustee.com, proxy
 host-suffix, fw.cm, proxy
 host-suffix, fxcm-chinese.com, proxy
 host-suffix, fxnetworks.com, proxy
@@ -2049,6 +2089,7 @@ host-suffix, itasoftware.com, proxy
 host-suffix, itch.io, proxy
 host-suffix, itemfix.com, proxy
 host-suffix, itiger.com, proxy
+host-suffix, itigerup.com, proxy
 host-suffix, itshidden.com, proxy
 host-suffix, itweet.net, proxy
 host-suffix, iuhrdf.org, proxy
@@ -2187,12 +2228,15 @@ host-suffix, landofhope.tv, proxy
 host-suffix, lantern.io, proxy
 host-suffix, laogai.org, proxy
 host-suffix, laogairesearch.org, proxy
+host-suffix, laohu8.com, proxy
 host-suffix, laqingdan.net, proxy
 host-suffix, larsgeorge.com, proxy
 host-suffix, lastcombat.com, proxy
 host-suffix, lastfm.es, proxy
 host-suffix, lausan.hk, proxy
 host-suffix, lbank.info, proxy
+host-suffix, lbctrl.com, proxy
+host-suffix, lbkrs.com, proxy
 host-suffix, ldplayer.net, proxy
 host-suffix, ldplayer.tw, proxy
 host-suffix, le-vpn.com, proxy
@@ -2261,6 +2305,15 @@ host-suffix, localdomain.ws, proxy
 host-suffix, lockestek.com, proxy
 host-suffix, login.target.com, proxy
 host-suffix, logos.com.hk, proxy
+host-suffix, longbridge.cloud, proxy
+host-suffix, longbridge.com, proxy
+host-suffix, longbridge.global, proxy
+host-suffix, longbridge.hk, proxy
+host-suffix, longbridge.sg, proxy
+host-suffix, longbridgeapp.com, proxy
+host-suffix, longbridgehk.com, proxy
+host-suffix, longportapp.cn, proxy
+host-suffix, longportapp.com, proxy
 host-suffix, longtermly.net, proxy
 host-suffix, longtoes.com, proxy
 host-suffix, lookpic.com, proxy
@@ -2448,6 +2501,8 @@ host-suffix, monocloud.me, proxy
 host-suffix, monster.com, proxy
 host-suffix, moodyz.com, proxy
 host-suffix, moomoo.com, proxy
+host-suffix, moomooequity.com, proxy
+host-suffix, moomootrustee.com, proxy
 host-suffix, moon.fm, proxy
 host-suffix, moonbbs.com, proxy
 host-suffix, moonbingo.com, proxy
@@ -2688,6 +2743,13 @@ host-suffix, ooni.io, proxy
 host-suffix, ooni.org, proxy
 host-suffix, open.firstory.me, proxy
 host-suffix, openai.com, proxy
+host-suffix, openapi-quote.longbridge.cn, proxy
+host-suffix, openapi-quote.longbridge.com, proxy
+host-suffix, openapi-trade.longbridge.cn, proxy
+host-suffix, openapi-trade.longbridge.com, proxy
+host-suffix, openapi.futunn.com, proxy
+host-suffix, openapi.longbridge.cn, proxy
+host-suffix, openapi.longbridge.com, proxy
 host-suffix, openart.ai, proxy
 host-suffix, opencritic.com, proxy
 host-suffix, opendemocracy.net, proxy
@@ -2942,12 +3004,15 @@ host-suffix, qmp4.com, proxy
 host-suffix, qoos.com, proxy
 host-suffix, qq.co.za, proxy
 host-suffix, qstatus.com, proxy
+host-suffix, qtcard.futunn.com, proxy
+host-suffix, qtcardfthk.futufin.com, proxy
 host-suffix, qtrac.eu, proxy
 host-suffix, questvisual.com, proxy
 host-suffix, quitccp.org, proxy
 host-suffix, quiz.directory, proxy
 host-suffix, quora.com, proxy
 host-suffix, quoracdn.net, proxy
+host-suffix, quote.longbridge.global, proxy
 host-suffix, quran.com, proxy
 host-suffix, qz.com, proxy
 host-suffix, r-pool.net, proxy
@@ -3089,6 +3154,10 @@ host-suffix, saveuighur.org, proxy
 host-suffix, sbme.me, proxy
 host-suffix, sbti.unun.dev, proxy
 host-suffix, schema.org, proxy
+host-suffix, schwab.co.uk, proxy
+host-suffix, schwab.com, proxy
+host-suffix, schwab.com.cn, proxy
+host-suffix, schwab.com.hk, proxy
 host-suffix, scmp.com, proxy
 host-suffix, scramble.io, proxy
 host-suffix, scratch.mit.edu, proxy
@@ -3127,6 +3196,7 @@ host-suffix, sexinsex.net, proxy
 host-suffix, sf.net, proxy
 host-suffix, sfshibao.com, proxy
 host-suffix, sftuk.org, proxy
+host-suffix, sgqt0j.launches.appsflyersdk.com, proxy
 host-suffix, shadeyouvpn.com, proxy
 host-suffix, shadowsocks.be, proxy
 host-suffix, shadowsocks.com.hk, proxy
@@ -3151,6 +3221,7 @@ host-suffix, shodanhq.com, proxy
 host-suffix, shooshtime.com, proxy
 host-suffix, shopee.tw, proxy
 host-suffix, shopping.yahoo.co.jp, proxy
+host-suffix, shortconn.im.qcloud.com, proxy
 host-suffix, showwe.tw, proxy
 host-suffix, shutterstock.com, proxy
 host-suffix, shwchurch.org, proxy
@@ -3335,6 +3406,7 @@ host-suffix, supchina.com, proxy
 host-suffix, superpages.com, proxy
 host-suffix, supervpn.net, proxy
 host-suffix, superzooi.com, proxy
+host-suffix, support.futunn.com, proxy
 host-suffix, suprememastertv.com, proxy
 host-suffix, surfeasy.com, proxy
 host-suffix, surfeasy.com.au, proxy
@@ -3524,6 +3596,12 @@ host-suffix, tibettelegraph.com, proxy
 host-suffix, tibettimes.net, proxy
 host-suffix, tibettruth.com, proxy
 host-suffix, tibetwrites.org, proxy
+host-suffix, tigerbbs.cn, proxy
+host-suffix, tigerbbs.com, proxy
+host-suffix, tigerbrokers.com, proxy
+host-suffix, tigerbrokers.net, proxy
+host-suffix, tigerbrokers.nz, proxy
+host-suffix, tigerfintech.com, proxy
 host-suffix, tigervpn.com, proxy
 host-suffix, tiktok.com, proxy
 host-suffix, tiktokcdn-eu.com, proxy
@@ -3586,6 +3664,9 @@ host-suffix, totalvpn.com, proxy
 host-suffix, tou.tv, proxy
 host-suffix, tpi.org.tw, proxy
 host-suffix, tracfone.com, proxy
+host-suffix, trade.futunn.com, proxy
+host-suffix, trade.longportapp.com, proxy
+host-suffix, tradeup.com, proxy
 host-suffix, tradingview.com, proxy
 host-suffix, translate.goog, proxy
 host-suffix, transparency.org, proxy
@@ -3911,6 +3992,7 @@ host-suffix, wav.tv, proxy
 host-suffix, waveprotocol.org, proxy
 host-suffix, waybig.com, proxy
 host-suffix, waymo.com, proxy
+host-suffix, wbrks.com, proxy
 host-suffix, wd.bible, proxy
 host-suffix, wealth.com.tw, proxy
 host-suffix, wearn.com, proxy
@@ -4089,6 +4171,7 @@ host-suffix, xgmyd.com, proxy
 host-suffix, xhamster.com, proxy
 host-suffix, xianjian.tw, proxy
 host-suffix, xiaohexie.com, proxy
+host-suffix, xiaohu8.com, proxy
 host-suffix, xiaolan.me, proxy
 host-suffix, xiaoma.org, proxy
 host-suffix, xiaomi.eu, proxy
@@ -4228,6 +4311,8 @@ host-suffix, zhao.1984.city, proxy
 host-suffix, zhengjian.org, proxy
 host-suffix, zhengwunet.org, proxy
 host-suffix, zhenxiang.biz, proxy
+host-suffix, zhijianfengyi.cn, proxy
+host-suffix, zhijianfengyi.com, proxy
 host-suffix, zhizhu.top, proxy
 host-suffix, zhongguo.ca, proxy
 host-suffix, zhongguotese.net, proxy

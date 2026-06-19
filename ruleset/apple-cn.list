@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-06-19T00:07:44.123Z
+# Generated at: 2026-06-19T23:34:00.673Z
 # Source: Loyalsoldier/v2ray-rules-dat release/apple-cn.txt
 # Description: geosite:apple-cn
 # Policy: direct
@@ -108,6 +108,7 @@ host, is5.mzstatic.com, direct
 host, itunes-apple.com.akadns.net, direct
 host, itunes.apple.com, direct
 host, itunesconnect.apple.com, direct
+host, mensura.cdn-apple.com, direct
 host, mesu-cdn.apple.com.akadns.net, direct
 host, mesu-china.apple.com.akadns.net, direct
 host, mesu.apple.com, direct

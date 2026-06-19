@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-06-19T00:07:44.123Z
+# Generated at: 2026-06-19T23:34:00.673Z
 # Source: Loyalsoldier/v2ray-rules-dat release/direct-list.txt
 # Description: geosite:cn
 # Policy: direct
@@ -13823,6 +13823,7 @@ host-suffix, azt365.com, direct
 host-suffix, azuiblc.com, direct
 host-suffix, azure-wave.com, direct
 host-suffix, azure.cc, direct
+host-suffix, azureflame.cloud, direct
 host-suffix, azureflying.com, direct
 host-suffix, azuremigrate.download.prss.microsoft.com, direct
 host-suffix, azuremigratetest.download.prss.microsoft.com, direct
@@ -16420,6 +16421,7 @@ host-suffix, bjanjili.com, direct
 host-suffix, bjartmuseum.com, direct
 host-suffix, bjatv.com, direct
 host-suffix, bjbaidianfeng.com, direct
+host-suffix, bjbaifan.com, direct
 host-suffix, bjbalb.com, direct
 host-suffix, bjbaodao.net, direct
 host-suffix, bjbb.com, direct
@@ -18857,6 +18859,7 @@ host-suffix, cangdu.org, direct
 host-suffix, cangfengzhe.com, direct
 host-suffix, canghaiip.com, direct
 host-suffix, canghaimachine.com, direct
+host-suffix, cangjggame.com, direct
 host-suffix, canglanghospital.com, direct
 host-suffix, cangmang.xyz, direct
 host-suffix, cangoonline.com, direct
@@ -20474,6 +20477,7 @@ host-suffix, chacheku.com, direct
 host-suffix, chachengji.com, direct
 host-suffix, chacihai.com, direct
 host-suffix, chacuo.net, direct
+host-suffix, chadaodao.com, direct
 host-suffix, chadianhua.net, direct
 host-suffix, chadoc.com, direct
 host-suffix, chaej.com, direct
@@ -34401,6 +34405,7 @@ host-suffix, feierlaiedu.com, direct
 host-suffix, feiersmart.com, direct
 host-suffix, feifandesign.com, direct
 host-suffix, feifanindustry.com, direct
+host-suffix, feifanmi.com, direct
 host-suffix, feifantxt.com, direct
 host-suffix, feifantxt.net, direct
 host-suffix, feifdx.com, direct
@@ -75130,6 +75135,7 @@ host-suffix, qingmuxinli.com, direct
 host-suffix, qingnianlvxing.com, direct
 host-suffix, qingniantuzhai.com, direct
 host-suffix, qingnianwang.com, direct
+host-suffix, qingning88.com, direct
 host-suffix, qingpanduola.com, direct
 host-suffix, qingpin.vip, direct
 host-suffix, qingping.co, direct
@@ -92120,6 +92126,7 @@ host-suffix, uniostay.com, direct
 host-suffix, uniow.com, direct
 host-suffix, unipack-tech.com, direct
 host-suffix, uniproud.com, direct
+host-suffix, unisapps.com, direct
 host-suffix, uniscope.com, direct
 host-suffix, unisdigital.com, direct
 host-suffix, unisedu.com, direct
@@ -92354,7 +92361,6 @@ host-suffix, urumqimarathon.com, direct
 host-suffix, urumqimtr.com, direct
 host-suffix, us-ex.com, direct
 host-suffix, us-qianzheng.com, direct
-host-suffix, us.ci, direct
 host-suffix, us0.me, direct
 host-suffix, usa-gam.com, direct
 host-suffix, usa-idc.com, direct
