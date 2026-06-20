@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-06-19T23:34:00.673Z
+# Generated at: 2026-06-20T23:41:58.936Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -26262,6 +26262,8 @@ host, github-production-repository-image-32fea6.s3.amazonaws.com, proxy
 host, github-production-upload-manifest-file-7fdce7.s3.amazonaws.com, proxy
 host, github-production-user-asset-6210df.s3.amazonaws.com, proxy
 host, gitlab-assets.oss-cn-hongkong.aliyuncs.com, proxy
+host, gog-cdn-lumen.secure2.footprint.net, proxy
+host, gog-cdn.akamaized.net, proxy
 host, google-ohttp-relay-safebrowsing.fastly-edge.com, proxy
 host, hamivideo.hinet.net, proxy
 host, hammerandchisel.ssl.zendesk.com, proxy
