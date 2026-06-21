@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-06-20T23:41:58.936Z
+# Generated at: 2026-06-21T23:49:42.204Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -9981,8 +9981,10 @@ host-suffix, gofile.me, proxy
 host-suffix, gofucker.com, proxy
 host-suffix, gofuckmenow.com, proxy
 host-suffix, gofundme.com, proxy
+host-suffix, gog-services.com, proxy
 host-suffix, gog-statics.com, proxy
 host-suffix, gog.com, proxy
+host-suffix, gogalaxy.com, proxy
 host-suffix, gogettaxi.org, proxy
 host-suffix, gogle.com, proxy
 host-suffix, gogo-load.com, proxy
@@ -26765,6 +26767,7 @@ host, wwis-dubc1-vip97.adobe.com, proxy
 host, wwis-dubc1-vip98.adobe.com, proxy
 host, wwis-dubc1-vip99.adobe.com, proxy
 host, www-cdn.icloud.com.akadns.net, proxy
+host, www.microsoft.com, proxy
 host, www.quora.com.cdn.cloudflare.net, proxy
 host, yangzhi.app, proxy
 host, yt3.googleusercontent.com, proxy

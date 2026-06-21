@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-06-20T23:41:58.936Z
+# Generated at: 2026-06-21T23:49:42.204Z
 # Source: Loyalsoldier/v2ray-rules-dat release/china-list.txt
 # Description: felixonmars accelerated domains in China
 # Policy: direct
@@ -13904,6 +13904,7 @@ host-suffix, b-fairy.com, direct
 host-suffix, b-k-automation.com, direct
 host-suffix, b-raymedia.com, direct
 host-suffix, b.biz, direct
+host-suffix, b.c2r.ts.cdn.office.net, direct
 host-suffix, b01.net, direct
 host-suffix, b02f0d7f3745ba7c.com, direct
 host-suffix, b041e427810281.beer, direct
@@ -33661,6 +33662,7 @@ host-suffix, f-dou.com, direct
 host-suffix, f-insight.com, direct
 host-suffix, f-stack.org, direct
 host-suffix, f.biz, direct
+host-suffix, f.c2r.ts.cdn.office.net, direct
 host-suffix, f.cx, direct
 host-suffix, f008.com, direct
 host-suffix, f015dfc4510292.beer, direct
@@ -81101,6 +81103,7 @@ host-suffix, shejiyue.com, direct
 host-suffix, sheketiandi.com, direct
 host-suffix, shekou.com, direct
 host-suffix, shelive.net, direct
+host-suffix, shell.cdn.office.net, direct
 host-suffix, shellpub.com, direct
 host-suffix, shellsec.com, direct
 host-suffix, shelter-china.com, direct
@@ -84921,6 +84924,7 @@ host-suffix, staticfile.net, direct
 host-suffix, staticfile.org, direct
 host-suffix, statickksmg.com, direct
 host-suffix, statics.cc, direct
+host-suffix, statics.teams.cdn.office.net, direct
 host-suffix, staticsdd.com, direct
 host-suffix, staticsoe.com, direct
 host-suffix, staticsoem.com, direct
@@ -85634,6 +85638,7 @@ host-suffix, suqun-group.com, direct
 host-suffix, surely.cool, direct
 host-suffix, surerp.com, direct
 host-suffix, surface.download.prss.microsoft.com, direct
+host-suffix, surface.downloads.prss.microsoft.com, direct
 host-suffix, surfacetreatmentgroup.com, direct
 host-suffix, surfacetreatmenttechnology.com, direct
 host-suffix, surfcg.com, direct

@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-06-20T23:41:58.936Z
+# Generated at: 2026-06-21T23:49:42.204Z
 # Source: Loyalsoldier/v2ray-rules-dat release/direct-list.txt
 # Description: geosite:cn
 # Policy: direct
@@ -13833,6 +13833,7 @@ host-suffix, b-fairy.com, direct
 host-suffix, b-k-automation.com, direct
 host-suffix, b-raymedia.com, direct
 host-suffix, b.biz, direct
+host-suffix, b.c2r.ts.cdn.office.net, direct
 host-suffix, b01.net, direct
 host-suffix, b02f0d7f3745ba7c.com, direct
 host-suffix, b041e427810281.beer, direct
@@ -31092,6 +31093,7 @@ host-suffix, dxlfile.com, direct
 host-suffix, dxm-cdn.com, direct
 host-suffix, dxm-int.com, direct
 host-suffix, dxm-yibai.com, direct
+host-suffix, dxmbaoxian.com, direct
 host-suffix, dxmjinr.com, direct
 host-suffix, dxmjuhe.com, direct
 host-suffix, dxmlcf.com, direct
@@ -33611,6 +33613,7 @@ host-suffix, f-dou.com, direct
 host-suffix, f-insight.com, direct
 host-suffix, f-stack.org, direct
 host-suffix, f.biz, direct
+host-suffix, f.c2r.ts.cdn.office.net, direct
 host-suffix, f.cx, direct
 host-suffix, f008.com, direct
 host-suffix, f015dfc4510292.beer, direct
@@ -64803,6 +64806,7 @@ host-suffix, mcool.com, direct
 host-suffix, mcpemaster.com, direct
 host-suffix, mcpfks.com, direct
 host-suffix, mcpmaid.com, direct
+host-suffix, mcpworld.com, direct
 host-suffix, mcq93.app, direct
 host-suffix, mcqy.net, direct
 host-suffix, mcsafebox.com, direct
@@ -67771,6 +67775,7 @@ host-suffix, myspain.org, direct
 host-suffix, mysqil.com, direct
 host-suffix, mysql360.com, direct
 host-suffix, mysqlab.net, direct
+host-suffix, myssl-uri.com, direct
 host-suffix, myssl.com, direct
 host-suffix, mystarch.com, direct
 host-suffix, mysteel.com, direct
@@ -72523,6 +72528,7 @@ host-suffix, perfcode.com, direct
 host-suffix, perfect-input.com, direct
 host-suffix, perfect99.com, direct
 host-suffix, perfectdiary.com, direct
+host-suffix, perfectlingo.com, direct
 host-suffix, perfecttradinghk.com, direct
 host-suffix, perfectwatchen.com, direct
 host-suffix, perfertw.com, direct
@@ -73953,6 +73959,7 @@ host-suffix, pw-partners.com, direct
 host-suffix, pw1999.com, direct
 host-suffix, pw88.com, direct
 host-suffix, pwand.com, direct
+host-suffix, pwcinema.com, direct
 host-suffix, pwdding.icu, direct
 host-suffix, pwithe.com, direct
 host-suffix, pwjptdg.xyz, direct
@@ -81109,6 +81116,7 @@ host-suffix, shejiyue.com, direct
 host-suffix, sheketiandi.com, direct
 host-suffix, shekou.com, direct
 host-suffix, shelive.net, direct
+host-suffix, shell.cdn.office.net, direct
 host-suffix, shellpub.com, direct
 host-suffix, shellsec.com, direct
 host-suffix, shelter-china.com, direct
@@ -84921,6 +84929,7 @@ host-suffix, staticfile.net, direct
 host-suffix, staticfile.org, direct
 host-suffix, statickksmg.com, direct
 host-suffix, statics.cc, direct
+host-suffix, statics.teams.cdn.office.net, direct
 host-suffix, staticsdd.com, direct
 host-suffix, staticsoe.com, direct
 host-suffix, staticsoem.com, direct
@@ -85625,6 +85634,7 @@ host-suffix, suqun-group.com, direct
 host-suffix, surely.cool, direct
 host-suffix, surerp.com, direct
 host-suffix, surface.download.prss.microsoft.com, direct
+host-suffix, surface.downloads.prss.microsoft.com, direct
 host-suffix, surfacetreatmentgroup.com, direct
 host-suffix, surfacetreatmenttechnology.com, direct
 host-suffix, surfcg.com, direct
@@ -90568,6 +90578,7 @@ host-suffix, trust-one.com, direct
 host-suffix, trust400.com, direct
 host-suffix, trusta-lawyer.com, direct
 host-suffix, trustasia.com, direct
+host-suffix, trustasia.net, direct
 host-suffix, trustcn.com, direct
 host-suffix, trustdecision.com, direct
 host-suffix, trustedsign.com, direct
@@ -112013,6 +112024,10 @@ host, apps5.oingo.com, direct
 host, apptrailers.itunes.apple.com, direct
 host, auth.music.apple.com, direct
 host, avail.googleflights.net, direct
+host, azuremigrate.download.prss.microsoft.com, direct
+host, azuremigratetest.download.prss.microsoft.com, direct
+host, azurestackhub.download.prss.microsoft.com, direct
+host, azurestackhubuat.download.prss.microsoft.com, direct
 host, b.c2r.ts.cdn.office.net, direct
 host, bag-cdn.itunes-apple.com.akadns.net, direct
 host, bag.itunes.apple.com, direct
@@ -112020,16 +112035,14 @@ host, beacons.gcp.gvt2.com, direct
 host, beacons.gvt2.com, direct
 host, beacons2.gvt2.com, direct
 host, beacons3.gvt2.com, direct
-host, bg.v4.a.dl.ws.microsoft.com, direct
-host, bg4.v4.a.dl.ws.microsoft.com, direct
 host, bj1.api.bing.com, direct
 host, bookkeeper.itunes.apple.com, direct
-host, build.microsoft.com, direct
 host, c.admob.com, direct
 host, c.android.clients.google.com, direct
 host, c.pki.goog, direct
 host, cache-management-prod.google.com, direct
 host, cache.pack.google.com, direct
+host, cbdstest.download.prss.microsoft.com, direct
 host, cdn-cn.apple-mapkit.com, direct
 host, cdn-cn1.apple-mapkit.com, direct
 host, cdn-cn2.apple-mapkit.com, direct
@@ -112038,7 +112051,6 @@ host, cdn-cn4.apple-mapkit.com, direct
 host, cdn.ampproject.org, direct
 host, cdn.apple-mapkit.com, direct
 host, cdn.globalsigncdn.com.cdn.cloudflare.net, direct
-host, cdn.marketplaceimages.windowsphone.com, direct
 host, cdn1.apple-mapkit.com, direct
 host, cdn2.apple-mapkit.com, direct
 host, cdn3.apple-mapkit.com, direct
@@ -112076,6 +112088,8 @@ host, cn-smp-paymentservices.apple.com, direct
 host, cn.download.nvidia.com, direct
 host, cn.widevine.com, direct
 host, cn.windowssearch.com, direct
+host, collaborate.download.prss.microsoft.com, direct
+host, collaborateppe.download.prss.microsoft.com, direct
 host, communities.apple.com, direct
 host, configuration.apple.com, direct
 host, configuration.apple.com.akadns.net, direct
@@ -112103,7 +112117,6 @@ host, dc1.ksn.kaspersky-labs.com, direct
 host, dd-cdn.origin-apple.com.akadns.net, direct
 host, dds.dell.com, direct
 host, dejavu.apple.com, direct
-host, devblogs.microsoft.com, direct
 host, developer.microsoft.com, direct
 host, devimages-cdn.apple.com, direct
 host, devstreaming-cdn.apple.com, direct
@@ -112132,7 +112145,6 @@ host, dnl-16.geo.kaspersky.com, direct
 host, dnl-17.geo.kaspersky.com, direct
 host, dnl-18.geo.kaspersky.com, direct
 host, dnl-19.geo.kaspersky.com, direct
-host, docs.microsoft.com, direct
 host, doubleclick-cn.net, direct
 host, doubleclick.net, direct
 host, download.developer.apple.com, direct
@@ -112141,6 +112153,8 @@ host, download.mlcc.google.com, direct
 host, download.tensorflow.google.com, direct
 host, download.visualstudio.microsoft.com, direct
 host, downloaddispatch.itunes.apple.com, direct
+host, dreamspark.download.prss.microsoft.com, direct
+host, dreamsparkuat.download.prss.microsoft.com, direct
 host, ea2cn-dev-outlet.dell.com, direct
 host, ea2cn-prod-outlet.dell.com, direct
 host, ea2cn-staging-outlet.dell.com, direct
@@ -112156,7 +112170,6 @@ host, firebase-settings.crashlytics.com, direct
 host, fontfiles.googleapis.com, direct
 host, fonts.googleapis.com, direct
 host, fonts.gstatic.com, direct
-host, fs.microsoft.com, direct
 host, fta.dell.com, direct
 host, ftaapj.dell.com, direct
 host, ftaemea.dell.com, direct
@@ -112256,6 +112269,8 @@ host, is4-ssl.mzstatic.com, direct
 host, is4.mzstatic.com, direct
 host, is5-ssl.mzstatic.com, direct
 host, is5.mzstatic.com, direct
+host, itacademy.download.prss.microsoft.com, direct
+host, itacademyuat.download.prss.microsoft.com, direct
 host, itunes-apple.com.akadns.net, direct
 host, itunes.apple.com, direct
 host, itunesconnect.apple.com, direct
@@ -112286,16 +112301,25 @@ host, ksn-url-geo.kaspersky-labs.com, direct
 host, ksn-url.geoksn.kaspersky.com, direct
 host, ksn-verdict-geo.kaspersky-labs.com, direct
 host, ksn-verdict.geoksn.kaspersky.com, direct
-host, learn.microsoft.com, direct
+host, lex.download.prss.microsoft.com, direct
+host, lexuat.download.prss.microsoft.com, direct
 host, lv.queniujq.cn, direct
 host, maps.apple.com, direct
+host, mbs.download.prss.microsoft.com, direct
 host, mdr.ksn.kaspersky-labs.com, direct
+host, mensura.cdn-apple.com, direct
 host, mesu-cdn.apple.com.akadns.net, direct
 host, mesu-china.apple.com.akadns.net, direct
 host, mesu.apple.com, direct
 host, misc-assets.itunes.apple.com, direct
 host, ml.cdn-apple.com, direct
 host, moocs.unipus.cn, direct
+host, mpnbenefits.download.prss.microsoft.com, direct
+host, mpnbenefitsrtl.download.prss.microsoft.com, direct
+host, mpnbenefitsrtluat.download.prss.microsoft.com, direct
+host, msdn.download.prss.microsoft.com, direct
+host, msdprod-ad.download.prss.microsoft.com, direct
+host, msproduct.download.prss.microsoft.com, direct
 host, music.apple.com, direct
 host, musicstatus.music.apple.com, direct
 host, mvod.itunes.apple.com, direct
@@ -112322,10 +112346,14 @@ host, ocsp.apple.com, direct
 host, ocsp.pki.goog, direct
 host, ocsp2.apple.com, direct
 host, oemsoc.download.prss.microsoft.com, direct
+host, oemsocuat.download.prss.microsoft.com, direct
 host, officecdn.microsoft.com, direct
+host, officemkt.download.prss.microsoft.com, direct
+host, officemktuat.download.prss.microsoft.com, direct
 host, opencourse.pku.edu.cn, direct
 host, oscdn.apple.com, direct
 host, oscdn.origin-apple.com.akadns.net, direct
+host, osrelease.download.prss.microsoft.com, direct
 host, osxapps.itunes.apple.com, direct
 host, osxapps.itunes.g.aaplimg.com, direct
 host, p.cdn.persaas.dell.com, direct
@@ -112391,8 +112419,7 @@ host, redirector.offline-maps.gvt1.com, direct
 host, redirector.snap.gvt1.com, direct
 host, redirector.xn--ngstr-lra8j.com, direct
 host, refresh-bkg.activation-v2.kaspersky.com, direct
-host, res-1.cdn.office.net, direct
-host, res.cdn.office.net, direct
+host, rsm.download.prss.microsoft.com, direct
 host, s.mzstatic.com, direct
 host, s00.upd.kaspersky.com, direct
 host, s01.upd.kaspersky.com, direct
@@ -112458,6 +112485,8 @@ host, store.apple.com.edgekey.net, direct
 host, store.apple.com.edgekey.net.globalredir.akadns.net, direct
 host, store.storeimages.apple.com.akadns.net, direct
 host, store.storeimages.cdn-apple.com, direct
+host, storecorefulfillment.download.prss.microsoft.com, direct
+host, storeedge.microsoft.com, direct
 host, storeedgefd.dsx.mp.microsoft.com, direct
 host, streamingaudio.itunes.apple.com, direct
 host, study.163.com, direct
@@ -112465,6 +112494,7 @@ host, su.itunes.apple.com, direct
 host, support-china.apple-support.akadns.net, direct
 host, support.apple.com, direct
 host, supportassist.dell.com, direct
+host, surface.download.prss.microsoft.com, direct
 host, surface.downloads.prss.microsoft.com, direct
 host, swallow-apple-com.v.aaplimg.com, direct
 host, swallow.apple.com, direct
@@ -112497,6 +112527,8 @@ host, uplaypc-s-ubisoft.cdn.ubi.com, direct
 host, upp.itunes.apple.com, direct
 host, valid.apple.com, direct
 host, valid.origin-apple.com.akadns.net, direct
+host, vlportal.download.prss.microsoft.com, direct
+host, volic.download.prss.microsoft.com, direct
 host, vscode.download.prss.microsoft.com, direct
 host, vz.download.prss.microsoft.com, direct
 host, wear.googleapis.com, direct
@@ -112505,8 +112537,7 @@ host, weather-data.apple.com.akadns.net, direct
 host, weather-map.apple.com, direct
 host, weather-map2.apple.com, direct
 host, weatherkit.apple.com, direct
-host, wscont1.apps.microsoft.com, direct
-host, wscont2.apps.microsoft.com, direct
+host, windbg.download.prss.microsoft.com, direct
 host, www-csb.dell.com, direct
 host, www-google-analytics.l.google.com, direct
 host, www-googletagmanager.l.google.com, direct
@@ -112517,7 +112548,6 @@ host, www.dell.com, direct
 host, www.destinationurl.com, direct
 host, www.entrust.cn, direct
 host, www.gstatic.com, direct
-host, www.microsoft.com, direct
 host, www.pxcc.com, direct
 host, www.recaptcha-cn.net, direct
 host, www.recaptcha.net, direct
