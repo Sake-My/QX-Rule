@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-06-22T23:48:27.918Z
+# Generated at: 2026-06-23T23:34:27.689Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -1408,6 +1408,7 @@ host-suffix, allpornsitespass.com, proxy
 host-suffix, allspyclips.com, proxy
 host-suffix, allswingersclubs.org, proxy
 host-suffix, allthefallen.moe, proxy
+host-suffix, almalinux.org, proxy
 host-suffix, alohatube.com, proxy
 host-suffix, alotporn.com, proxy
 host-suffix, alphabet.asia, proxy
@@ -4649,6 +4650,7 @@ host-suffix, bustynudebabes.com, proxy
 host-suffix, bustyoldsluts.com, proxy
 host-suffix, bustysammieblack.com, proxy
 host-suffix, busu.org, proxy
+host-suffix, busybox.net, proxy
 host-suffix, buy-from-shanghai.com, proxy
 host-suffix, buyaapl.com, proxy
 host-suffix, buyaapl.net, proxy
@@ -8038,6 +8040,7 @@ host-suffix, exmormon.org, proxy
 host-suffix, exoav.com, proxy
 host-suffix, exotic-ghana.com, proxy
 host-suffix, exoticuganda.com, proxy
+host-suffix, exp-tas.com, proxy
 host-suffix, expatshield.com, proxy
 host-suffix, expecthim.com, proxy
 host-suffix, expekt.com, proxy
@@ -9832,6 +9835,7 @@ host-suffix, gitbook.io, proxy
 host-suffix, gitgud.io, proxy
 host-suffix, github.ai, proxy
 host-suffix, github.blog, proxy
+host-suffix, github.career, proxy
 host-suffix, github.com, proxy
 host-suffix, github.community, proxy
 host-suffix, github.dev, proxy
@@ -13839,6 +13843,7 @@ host-suffix, licdn.com, proxy
 host-suffix, licensebuttons.net, proxy
 host-suffix, licenseparser.com, proxy
 host-suffix, life-global.org, proxy
+host-suffix, lifeatspotify.com, proxy
 host-suffix, lifemiles.com, proxy
 host-suffix, lifeselector.com, proxy
 host-suffix, lifestyle-tec.ru, proxy
@@ -14344,6 +14349,7 @@ host-suffix, manhuntdaily.com, proxy
 host-suffix, manhwa24h.com, proxy
 host-suffix, manhwahentai.me, proxy
 host-suffix, maniakey.homes, proxy
+host-suffix, manjaro.org, proxy
 host-suffix, manorama.com, proxy
 host-suffix, manoramanews.com, proxy
 host-suffix, manoramaonline.com, proxy
@@ -19394,6 +19400,7 @@ host-suffix, rocksdb.org, proxy
 host-suffix, rocksextube.com, proxy
 host-suffix, rockstargames.com, proxy
 host-suffix, rockstarnorth.com, proxy
+host-suffix, rockylinux.org, proxy
 host-suffix, rojo.com, proxy
 host-suffix, roku.com, proxy
 host-suffix, rokutime.com, proxy
@@ -20913,6 +20920,7 @@ host-suffix, spotifycdn.net, proxy
 host-suffix, spotifycharts.com, proxy
 host-suffix, spotifycodes.com, proxy
 host-suffix, spotifyforbrands.com, proxy
+host-suffix, spotifyforvendors.com, proxy
 host-suffix, spotifyjobs.com, proxy
 host-suffix, spraynwash.com, proxy
 host-suffix, spreadprivacy.com, proxy
@@ -23892,7 +23900,10 @@ host-suffix, vscale.io, proxy
 host-suffix, vscale.ru, proxy
 host-suffix, vscode-cdn.net, proxy
 host-suffix, vscode-unpkg.net, proxy
+host-suffix, vscode-webview.net, proxy
 host-suffix, vscode.dev, proxy
+host-suffix, vscodeedu.app, proxy
+host-suffix, vscodeedu.com, proxy
 host-suffix, vsemrabota.ru, proxy
 host-suffix, vsex.in, proxy
 host-suffix, vsezoo.com, proxy
