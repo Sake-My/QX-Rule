@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-06-23T23:34:27.689Z
+# Generated at: 2026-06-24T23:39:25.691Z
 # Source: Loyalsoldier/v2ray-rules-dat release/gfw.txt
 # Description: geosite:gfw
 # Policy: proxy
@@ -1428,6 +1428,7 @@ host-suffix, generated.photos, proxy
 host-suffix, genius.com, proxy
 host-suffix, geph.io, proxy
 host-suffix, get.app, proxy
+host-suffix, get.dappcdn.com, proxy
 host-suffix, get.dev, proxy
 host-suffix, get.how, proxy
 host-suffix, get.page, proxy
