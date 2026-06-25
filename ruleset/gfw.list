@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-06-24T23:39:25.691Z
+# Generated at: 2026-06-25T23:49:54.523Z
 # Source: Loyalsoldier/v2ray-rules-dat release/gfw.txt
 # Description: geosite:gfw
 # Policy: proxy
@@ -875,6 +875,7 @@ host-suffix, crazypool.org, proxy
 host-suffix, crazyshit.com, proxy
 host-suffix, crbug.com, proxy
 host-suffix, crchina.org, proxy
+host-suffix, creader.com, proxy
 host-suffix, creaders.net, proxy
 host-suffix, creativelab5.com, proxy
 host-suffix, cristyli.com, proxy

@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-06-24T23:39:25.691Z
+# Generated at: 2026-06-25T23:49:54.523Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -5904,6 +5904,7 @@ host-suffix, crazyxxx3dworld.org, proxy
 host-suffix, crazyxxxworld.com, proxy
 host-suffix, crbug.com, proxy
 host-suffix, crchina.org, proxy
+host-suffix, creader.com, proxy
 host-suffix, creaders.net, proxy
 host-suffix, creamasia.com, proxy
 host-suffix, creamlemon.info, proxy
@@ -26215,7 +26216,6 @@ host, dlmobilegarena-a.akamaihd.net, proxy
 host, dmqdd6hw24ucf.cloudfront.net, proxy
 host, docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com, proxy
 host, docker-pinata-support.s3.amazonaws.com, proxy
-host, download.visualstudio.microsoft.com, proxy
 host, dqd0jw5gvbchn.cloudfront.net, proxy
 host, dqrpb9wgowsf5.cloudfront.net, proxy
 host, ds-linear-abematv.akamaized.net, proxy

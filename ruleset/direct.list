@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-06-24T23:39:25.691Z
+# Generated at: 2026-06-25T23:49:54.523Z
 # Source: Loyalsoldier/v2ray-rules-dat release/direct-list.txt
 # Description: geosite:cn
 # Policy: direct
@@ -111886,6 +111886,7 @@ host, a2.mzstatic.com, direct
 host, a3.mzstatic.com, direct
 host, a4.mzstatic.com, direct
 host, a5.mzstatic.com, direct
+host, account-cn.alibabacloud.com, direct
 host, activate.activation-v2.kaspersky.com, direct
 host, activation-v2.geo.kaspersky.com, direct
 host, activation-v2.kaspersky.com, direct
@@ -111908,6 +111909,7 @@ host, amp-api.music.apple.com, direct
 host, aod-ssl.itunes.apple.com, direct
 host, aod.itunes.apple.com, direct
 host, api-edge.apps.apple.com, direct
+host, api.alibabacloud.com, direct
 host, app-analytics-services.com, direct
 host, app-measurement-cn.com, direct
 host, app-measurement.com, direct
@@ -111981,6 +111983,7 @@ host, clientperipherals.dell.com, direct
 host, clientservices.googleapis.com, direct
 host, cma.itunes.apple.com, direct
 host, cn-smp-paymentservices.apple.com, direct
+host, cn.alibabacloud.com, direct
 host, cn.download.nvidia.com, direct
 host, cn.widevine.com, direct
 host, cn.windowssearch.com, direct
@@ -112374,6 +112377,7 @@ host, staging-databe.floonet.goog, direct
 host, staging.databe.floonet.goog, direct
 host, static.gc.apple.com, direct
 host, statics.teams.cdn.office.net, direct
+host, status.alibabacloud.com, direct
 host, stocks-sparkline-lb.apple.com.akadns.net, direct
 host, stocks-sparkline.apple.com, direct
 host, store.apple.com, direct
