@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-06-26T23:40:57.389Z
+# Generated at: 2026-06-27T23:32:56.936Z
 # Source: Loyalsoldier/v2ray-rules-dat release/gfw.txt
 # Description: geosite:gfw
 # Policy: proxy
@@ -136,6 +136,7 @@ host-suffix, aiosearch.com, proxy
 host-suffix, aiph.net, proxy
 host-suffix, airconsole.com, proxy
 host-suffix, airitilibrary.com, proxy
+host-suffix, airuniversity.af.edu, proxy
 host-suffix, airvpn.org, proxy
 host-suffix, ait.org.tw, proxy
 host-suffix, aiweiweiblog.com, proxy
@@ -1409,6 +1410,7 @@ host-suffix, gaoming.net, proxy
 host-suffix, gaopi.net, proxy
 host-suffix, gartlive.com, proxy
 host-suffix, garudalinux.org, proxy
+host-suffix, gate.com, proxy
 host-suffix, gate.io, proxy
 host-suffix, gatecoin.com, proxy
 host-suffix, gather.com, proxy
@@ -1787,6 +1789,7 @@ host-suffix, gtv.org, proxy
 host-suffix, gtv1.org, proxy
 host-suffix, gu-chu-sum.org, proxy
 host-suffix, guaguass.com, proxy
+host-suffix, guangming.com.my, proxy
 host-suffix, guishan.org, proxy
 host-suffix, gumroad.com, proxy
 host-suffix, gunsamerica.com, proxy
@@ -1877,6 +1880,7 @@ host-suffix, hkgolden.com, proxy
 host-suffix, hkgpao.com, proxy
 host-suffix, hklts.org.hk, proxy
 host-suffix, hkmap.live, proxy
+host-suffix, hkong.hk, proxy
 host-suffix, hkopentv.com, proxy
 host-suffix, hkpeanut.com, proxy
 host-suffix, hkreporter.com, proxy
@@ -2181,6 +2185,7 @@ host-suffix, kenengba.com, proxy
 host-suffix, kepard.com, proxy
 host-suffix, kex.com, proxy
 host-suffix, keycdn.com, proxy
+host-suffix, kfor.com, proxy
 host-suffix, khatrimaza.org, proxy
 host-suffix, kichiku-doujinko.com, proxy
 host-suffix, kik.com, proxy
@@ -2433,6 +2438,7 @@ host-suffix, mfxmedia.com, proxy
 host-suffix, mgoon.com, proxy
 host-suffix, mgstage.com, proxy
 host-suffix, mh4u.org, proxy
+host-suffix, mhwindow.org, proxy
 host-suffix, microvpn.com, proxy
 host-suffix, mihua.org, proxy
 host-suffix, mij.rip, proxy
@@ -2817,6 +2823,7 @@ host-suffix, pbs.org, proxy
 host-suffix, pbworks.com, proxy
 host-suffix, pbxes.com, proxy
 host-suffix, pbxes.org, proxy
+host-suffix, pcgamesn.com, proxy
 host-suffix, pcgamestorrents.com, proxy
 host-suffix, pcij.org, proxy
 host-suffix, pct.org.tw, proxy
@@ -2835,6 +2842,7 @@ host-suffix, peoplenews.tw, proxy
 host-suffix, peopo.org, proxy
 host-suffix, perfect-privacy.com, proxy
 host-suffix, periscope.tv, proxy
+host-suffix, perma.cc, proxy
 host-suffix, perplexity.ai, proxy
 host-suffix, pewresearch.org, proxy
 host-suffix, phayul.com, proxy
@@ -3083,6 +3091,7 @@ host-suffix, rentry.co, proxy
 host-suffix, renyurenquan.org, proxy
 host-suffix, resilio.com, proxy
 host-suffix, resistchina.org, proxy
+host-suffix, restofworld.org, proxy
 host-suffix, retweetrank.com, proxy
 host-suffix, reuters.com, proxy
 host-suffix, reutersmedia.net, proxy
@@ -3318,6 +3327,7 @@ host-suffix, southmongolia.org, proxy
 host-suffix, southnews.com.tw, proxy
 host-suffix, southpark.cc.com, proxy
 host-suffix, sowers.org.hk, proxy
+host-suffix, spaceforce.mil, proxy
 host-suffix, spaces.hightail.com, proxy
 host-suffix, spacex.com, proxy
 host-suffix, spankbang.com, proxy
@@ -3409,6 +3419,7 @@ host-suffix, superpages.com, proxy
 host-suffix, supervpn.net, proxy
 host-suffix, superzooi.com, proxy
 host-suffix, support.futunn.com, proxy
+host-suffix, supremecourt.gov, proxy
 host-suffix, suprememastertv.com, proxy
 host-suffix, surfeasy.com, proxy
 host-suffix, surfeasy.com.au, proxy
@@ -3520,6 +3531,7 @@ host-suffix, thehansindia.com, proxy
 host-suffix, thehindu.com, proxy
 host-suffix, thehun.net, proxy
 host-suffix, theinitium.com, proxy
+host-suffix, theintercept.com, proxy
 host-suffix, thenewslens.com, proxy
 host-suffix, thepiratebay.org, proxy
 host-suffix, theporndude.com, proxy
@@ -3677,6 +3689,7 @@ host-suffix, trendsmap.com, proxy
 host-suffix, tronscan.org, proxy
 host-suffix, trouw.nl, proxy
 host-suffix, trt.net.tr, proxy
+host-suffix, trtworld.com, proxy
 host-suffix, truebuddha-md.org, proxy
 host-suffix, trustwallet.com, proxy
 host-suffix, truthsocial.com, proxy
@@ -3772,6 +3785,7 @@ host-suffix, twitturk.com, proxy
 host-suffix, twitturly.com, proxy
 host-suffix, twkan.com, proxy
 host-suffix, twreporter.org, proxy
+host-suffix, twstalker.com, proxy
 host-suffix, twt.tl, proxy
 host-suffix, twtkr.com, proxy
 host-suffix, twttr.com, proxy
@@ -3986,6 +4000,7 @@ host-suffix, wanz-factory.com, proxy
 host-suffix, warroom.org, proxy
 host-suffix, waselpro.com, proxy
 host-suffix, washingtonpost.com, proxy
+host-suffix, washingtontimes.com, proxy
 host-suffix, watchinese.com, proxy
 host-suffix, watchmygf.net, proxy
 host-suffix, watchout.tw, proxy
@@ -4207,6 +4222,7 @@ host-suffix, xskywalker.com, proxy
 host-suffix, xt.com, proxy
 host-suffix, xt.pub, proxy
 host-suffix, xtube.com, proxy
+host-suffix, xuan.com.my, proxy
 host-suffix, xuchao.net, proxy
 host-suffix, xuchao.org, proxy
 host-suffix, xuehua.us, proxy
