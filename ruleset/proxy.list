@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-06-30T23:42:46.888Z
+# Generated at: 2026-07-01T23:50:09.535Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -3684,6 +3684,7 @@ host-suffix, blacksonblondes.com, proxy
 host-suffix, blackstonespoliceservice.com, proxy
 host-suffix, blacktowhite.net, proxy
 host-suffix, blackvpn.com, proxy
+host-suffix, blanc.ru, proxy
 host-suffix, blaoshi.cc, proxy
 host-suffix, blast.io, proxy
 host-suffix, blazor.net, proxy
@@ -4370,6 +4371,7 @@ host-suffix, bossagency.co.uk, proxy
 host-suffix, boswp.com, proxy
 host-suffix, botanwang.com, proxy
 host-suffix, botframework.com, proxy
+host-suffix, botim.me, proxy
 host-suffix, botmechanic.io, proxy
 host-suffix, botorch.org, proxy
 host-suffix, botstop.com, proxy
@@ -11192,6 +11194,9 @@ host-suffix, horizontal-llc.com, proxy
 host-suffix, horizontal-systems.com, proxy
 host-suffix, horizontalglue.com, proxy
 host-suffix, horizontalsystems.com, proxy
+host-suffix, hornet.com, proxy
+host-suffix, hornetapp.com, proxy
+host-suffix, hornetx.com, proxy
 host-suffix, hornyasianmilfs.com, proxy
 host-suffix, hornybitches.org, proxy
 host-suffix, hornybutt.com, proxy
@@ -13936,6 +13941,7 @@ host-suffix, listennotes.com, proxy
 host-suffix, listentoyoutube.com, proxy
 host-suffix, listinganalytics.net, proxy
 host-suffix, litbus-anime.com, proxy
+host-suffix, litecoin.org, proxy
 host-suffix, litenews.hk, proxy
 host-suffix, literatumonline.com, proxy
 host-suffix, literotica.com, proxy
@@ -16206,7 +16212,9 @@ host-suffix, netflixinvestor.com, proxy
 host-suffix, netflixtechblog.com, proxy
 host-suffix, netlify.app, proxy
 host-suffix, netlify.com, proxy
+host-suffix, netlifydns.com, proxy
 host-suffix, netlifystatus.com, proxy
+host-suffix, netlifyusercontent.com, proxy
 host-suffix, netlock.hu, proxy
 host-suffix, netme.cc, proxy
 host-suffix, netname.com.br, proxy
@@ -16749,6 +16757,7 @@ host-suffix, ntdtv.se, proxy
 host-suffix, ntdtvla.com, proxy
 host-suffix, ntdvideo.tw, proxy
 host-suffix, ntdvn.com, proxy
+host-suffix, ntl.fyi, proxy
 host-suffix, ntnews.com.au, proxy
 host-suffix, ntp-os01.ocn.ad.jp, proxy
 host-suffix, ntp-tk01.ocn.ad.jp, proxy
@@ -21648,6 +21657,7 @@ host-suffix, technogym.ru, proxy
 host-suffix, technogym.su, proxy
 host-suffix, technologyandsociety.org, proxy
 host-suffix, techradar.com, proxy
+host-suffix, techspot.com, proxy
 host-suffix, techstreet.com, proxy
 host-suffix, techtimes.com, proxy
 host-suffix, techtudo.com, proxy
@@ -26097,6 +26107,7 @@ host, 3dns.adobe.com, proxy
 host, a.ppy.sh, proxy
 host, a4e8s8k3.map2.ssl.hwcdn.net, proxy
 host, abematv.akamaized.net, proxy
+host, acd89244c803f7181.awsglobalaccelerator.com, proxy
 host, activate-sea.adobe.com, proxy
 host, activate-sjc0.adobe.com, proxy
 host, activate.adobe.com, proxy
@@ -26110,6 +26121,7 @@ host, adobe-dns-3.adobe.com, proxy
 host, adobe-dns-4.adobe.com, proxy
 host, adobe-dns.adobe.com, proxy
 host, adobeereg.com, proxy
+host, afa7f374f51cc8991.awsglobalaccelerator.com, proxy
 host, ai.google.dev, proxy
 host, alkalicore-pa.clients6.google.com, proxy
 host, alkalimakersuite-pa.clients6.google.com, proxy
