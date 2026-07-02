@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-07-01T23:50:09.535Z
+# Generated at: 2026-07-02T23:34:11.663Z
 # Source: Loyalsoldier/v2ray-rules-dat release/gfw.txt
 # Description: geosite:gfw
 # Policy: proxy
@@ -4020,6 +4020,7 @@ host-suffix, webmproject.org, proxy
 host-suffix, webpkgcache.com, proxy
 host-suffix, webrtc.org, proxy
 host-suffix, websdr.org, proxy
+host-suffix, webshare.io, proxy
 host-suffix, website.new, proxy
 host-suffix, webwarper.net, proxy
 host-suffix, wechatlawsuit.com, proxy

@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-07-01T23:50:09.535Z
+# Generated at: 2026-07-02T23:34:11.663Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -5824,6 +5824,7 @@ host-suffix, coomer.su, proxy
 host-suffix, coova.com, proxy
 host-suffix, coova.net, proxy
 host-suffix, coova.org, proxy
+host-suffix, copilot.com, proxy
 host-suffix, copro.pw, proxy
 host-suffix, copy-manga.com, proxy
 host-suffix, copy20.com, proxy
@@ -24157,6 +24158,7 @@ host-suffix, webpass.net, proxy
 host-suffix, webpkgcache.com, proxy
 host-suffix, webrtc.org, proxy
 host-suffix, websdr.org, proxy
+host-suffix, webshare.io, proxy
 host-suffix, website.new, proxy
 host-suffix, webtoons.com, proxy
 host-suffix, webtoonscorp.com, proxy
@@ -26412,6 +26414,7 @@ host, onekey.zendesk.com, proxy
 host, oneocsp.microsoft.com, proxy
 host, ood.opsource.net, proxy
 host, openaiapi-site.azureedge.net, proxy
+host, openaiassets.blob.core.windows.net, proxy
 host, openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net, proxy
 host, openaicom.imgix.net, proxy
 host, openaicomproductionae4b.blob.core.windows.net, proxy
