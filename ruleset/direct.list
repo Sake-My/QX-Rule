@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-07-03T23:32:25.460Z
+# Generated at: 2026-07-04T23:28:52.636Z
 # Source: Loyalsoldier/v2ray-rules-dat release/direct-list.txt
 # Description: geosite:cn
 # Policy: direct
@@ -12258,6 +12258,7 @@ host-suffix, anqingonline.com, direct
 host-suffix, anqingzhiyun.com, direct
 host-suffix, anqn.com, direct
 host-suffix, anqu.com, direct
+host-suffix, anquan, direct
 host-suffix, anquan.info, direct
 host-suffix, anquan.org, direct
 host-suffix, anquanbao.com, direct
@@ -32481,7 +32482,6 @@ host-suffix, embryform.com, direct
 host-suffix, embryochina.com, direct
 host-suffix, embsky.com, direct
 host-suffix, emby.men, direct
-host-suffix, emby.yun, direct
 host-suffix, embyvip.org, direct
 host-suffix, emcbj.com, direct
 host-suffix, emcdir.com, direct
@@ -81785,6 +81785,7 @@ host-suffix, shouhuigroup.com, direct
 host-suffix, shouhuisoft.com, direct
 host-suffix, shouhuojiyun.com, direct
 host-suffix, shouhuola.com, direct
+host-suffix, shouji, direct
 host-suffix, shouji.com, direct
 host-suffix, shouji.racing, direct
 host-suffix, shouji10086.com, direct
@@ -82692,6 +82693,7 @@ host-suffix, simuwang.com, direct
 host-suffix, simwe.com, direct
 host-suffix, simxhs.com, direct
 host-suffix, sin0sites.com, direct
+host-suffix, sina, direct
 host-suffix, sina-cf.com, direct
 host-suffix, sina.com, direct
 host-suffix, sina.lt, direct
@@ -94567,6 +94569,7 @@ host-suffix, weibanan.com, direct
 host-suffix, weibang.vip, direct
 host-suffix, weibangong.com, direct
 host-suffix, weibanzhushou.com, direct
+host-suffix, weibo, direct
 host-suffix, weibo.com, direct
 host-suffix, weibo.tv, direct
 host-suffix, weibocdn.com, direct
@@ -99287,6 +99290,7 @@ host-suffix, xihaxueche.com, direct
 host-suffix, xihazsww.com, direct
 host-suffix, xihegp.com, direct
 host-suffix, xiherencai.com, direct
+host-suffix, xihuan, direct
 host-suffix, xihuan.me, direct
 host-suffix, xihusgh.com, direct
 host-suffix, xiimoon.com, direct
@@ -100580,6 +100584,7 @@ host-suffix, xn--8y0a063a, direct
 host-suffix, xn--91-y60d638c.xyz, direct
 host-suffix, xn--9et52u, direct
 host-suffix, xn--9kr72kqwe.com, direct
+host-suffix, xn--9krt00a, direct
 host-suffix, xn--9myo55bi8l.com, direct
 host-suffix, xn--9pr56vfna007k.com, direct
 host-suffix, xn--9pry86bq5ex68c.org, direct
@@ -105887,6 +105892,7 @@ host-suffix, yumingguwen.com, direct
 host-suffix, yumingyouhui.com, direct
 host-suffix, yummy.tech, direct
 host-suffix, yumstone.com, direct
+host-suffix, yun, direct
 host-suffix, yun-ac.com, direct
 host-suffix, yun-dns.com, direct
 host-suffix, yun-gu.com, direct
@@ -111933,6 +111939,7 @@ host, edge.geo.kaspersky.com, direct
 host, emoi-cncdn.bing.com, direct
 host, end-api.shallow.ink, direct
 host, end.shallow.ink, direct
+host, entitlements-edge.itunes.apple.com, direct
 host, experiments.apple.com, direct
 host, f.c2r.ts.cdn.office.net, direct
 host, fcs.dell.com, direct
@@ -111941,6 +111948,7 @@ host, firebase-settings.crashlytics.com, direct
 host, fontfiles.googleapis.com, direct
 host, fonts.googleapis.com, direct
 host, fonts.gstatic.com, direct
+host, fpinit.itunes.apple.com, direct
 host, fta.dell.com, direct
 host, ftaapj.dell.com, direct
 host, ftaemea.dell.com, direct

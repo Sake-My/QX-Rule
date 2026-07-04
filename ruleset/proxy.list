@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-07-03T23:32:25.460Z
+# Generated at: 2026-07-04T23:28:52.636Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -1890,6 +1890,7 @@ host-suffix, apple-pay.rs, proxy
 host-suffix, apple-pay.wang, proxy
 host-suffix, apple-store.net, proxy
 host-suffix, apple-store.wang, proxy
+host-suffix, apple-studies.com, proxy
 host-suffix, apple-usa.net, proxy
 host-suffix, apple-watch.com.ru, proxy
 host-suffix, apple.ae, proxy
@@ -2392,6 +2393,7 @@ host-suffix, atlasonepoint.com, proxy
 host-suffix, atlassian-dev.net, proxy
 host-suffix, atlassian.com, proxy
 host-suffix, atlassian.net, proxy
+host-suffix, atmeta.com, proxy
 host-suffix, atnext.com, proxy
 host-suffix, atokara.jp, proxy
 host-suffix, atom.io, proxy
@@ -2771,6 +2773,7 @@ host-suffix, aziani.com, proxy
 host-suffix, azirevpn.com, proxy
 host-suffix, aznude.com, proxy
 host-suffix, azure, proxy
+host-suffix, azure-api.net, proxy
 host-suffix, azure-devices-int.net, proxy
 host-suffix, azure-devices.net, proxy
 host-suffix, azure-dns.com, proxy
@@ -2808,6 +2811,7 @@ host-suffix, azureplanetscale.net, proxy
 host-suffix, azureserviceprofiler.com, proxy
 host-suffix, azuresmartspaces.net, proxy
 host-suffix, azurestackvalidation.com, proxy
+host-suffix, azurestaticapps.net, proxy
 host-suffix, azurewebsites.net, proxy
 host-suffix, b-cdn.net, proxy
 host-suffix, b-eroland.net, proxy
@@ -26340,7 +26344,6 @@ host, img-prod-cms-rt-microsoft-com.akamaized.net, proxy
 host, img-s-msn-com.akamaized.net, proxy
 host, impala-media-production.s3.amazonaws.com, proxy
 host, imperial.insendi.com, proxy
-host, ingest.apple-studies.com, proxy
 host, lastfm.freetls.fastly.net, proxy
 host, lazer.ppy.sh, proxy
 host, lgcscc-hamivideo2.cdn.hinet.net, proxy
