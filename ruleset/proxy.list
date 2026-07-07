@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-07-06T23:35:04.410Z
+# Generated at: 2026-07-07T23:27:28.857Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -8862,6 +8862,8 @@ host-suffix, flowfront.net, proxy
 host-suffix, flowgpt.com, proxy
 host-suffix, flowhongkong.net, proxy
 host-suffix, flowtype.org, proxy
+host-suffix, flowwow-images.com, proxy
+host-suffix, flowwow.com, proxy
 host-suffix, fluffychat.im, proxy
 host-suffix, fluidfxapp.com, proxy
 host-suffix, fluidpreview.com, proxy
@@ -9363,6 +9365,8 @@ host-suffix, funimation.com, proxy
 host-suffix, funkyimg.com, proxy
 host-suffix, funnyfacebook.org, proxy
 host-suffix, funnyordie.com, proxy
+host-suffix, funpay.com, proxy
+host-suffix, funpay.ru, proxy
 host-suffix, funshemale.com, proxy
 host-suffix, fuq.com, proxy
 host-suffix, fuqqt.com, proxy
@@ -20208,6 +20212,7 @@ host-suffix, sfmcompile.club, proxy
 host-suffix, sforce.com, proxy
 host-suffix, sfshibao.com, proxy
 host-suffix, sftuk.org, proxy
+host-suffix, sfunpay.com, proxy
 host-suffix, sfx.ms, proxy
 host-suffix, sg120.me, proxy
 host-suffix, sg1lib.org, proxy
@@ -22140,6 +22145,7 @@ host-suffix, tilda.ru, proxy
 host-suffix, tilda.ws, proxy
 host-suffix, tildaapi.com, proxy
 host-suffix, tildacdn.com, proxy
+host-suffix, tildacdn.net, proxy
 host-suffix, tiltbrush.com, proxy
 host-suffix, timdir.com, proxy
 host-suffix, time-messenger.ru, proxy

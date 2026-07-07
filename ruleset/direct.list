@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-07-06T23:35:04.410Z
+# Generated at: 2026-07-07T23:27:28.857Z
 # Source: Loyalsoldier/v2ray-rules-dat release/direct-list.txt
 # Description: geosite:cn
 # Policy: direct
@@ -91052,6 +91052,7 @@ host-suffix, twtstudio.com, direct
 host-suffix, twty.vip, direct
 host-suffix, twwtn.com, direct
 host-suffix, twyuxin.com, direct
+host-suffix, twyxh.com, direct
 host-suffix, twyxi.com, direct
 host-suffix, twzilla.com, direct
 host-suffix, twzui6.com, direct
@@ -111277,6 +111278,7 @@ host-suffix, zwzsh.net, direct
 host-suffix, zwzyzx.com, direct
 host-suffix, zx-tour.com, direct
 host-suffix, zx-xcx.com, direct
+host-suffix, zx.com, direct
 host-suffix, zx0093.com, direct
 host-suffix, zx017.com, direct
 host-suffix, zx017.net, direct
