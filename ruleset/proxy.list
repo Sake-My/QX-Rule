@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-07-10T23:26:18.648Z
+# Generated at: 2026-07-11T23:22:17.945Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -3389,6 +3389,9 @@ host-suffix, bestbuystores.com, proxy
 host-suffix, bestbuytradein.com, proxy
 host-suffix, bestbuyus.com, proxy
 host-suffix, bestcamsites.net, proxy
+host-suffix, bestchange.com, proxy
+host-suffix, bestchange.net, proxy
+host-suffix, bestchange.ru, proxy
 host-suffix, bestclouddrive.com, proxy
 host-suffix, bestdori.com, proxy
 host-suffix, besterpornos.com, proxy
@@ -5941,6 +5944,7 @@ host-suffix, critiquebrainz.org, proxy
 host-suffix, crixet.com, proxy
 host-suffix, crmdynint-gcc.com, proxy
 host-suffix, crmdynint.com, proxy
+host-suffix, crocoblock.com, proxy
 host-suffix, crocotube.com, proxy
 host-suffix, cromite.org, proxy
 host-suffix, crossborderexpansion.com, proxy
@@ -6306,6 +6310,7 @@ host-suffix, delcamp.net, proxy
 host-suffix, delcamtv.com, proxy
 host-suffix, delcamuniversity.com, proxy
 host-suffix, delcamusa.com, proxy
+host-suffix, delets.online, proxy
 host-suffix, delicious.com.au, proxy
 host-suffix, dell, proxy
 host-suffix, dell.ac, proxy
@@ -9723,6 +9728,7 @@ host-suffix, getpocket.com, proxy
 host-suffix, getporn.tv, proxy
 host-suffix, getprintersupports.com, proxy
 host-suffix, getscorecash.com, proxy
+host-suffix, getsentry.com, proxy
 host-suffix, getsession.org, proxy
 host-suffix, getsexgames.com, proxy
 host-suffix, getsynapse.io, proxy
@@ -10618,6 +10624,8 @@ host-suffix, hao21.xyz, proxy
 host-suffix, hao62.xyz, proxy
 host-suffix, haori888.com, proxy
 host-suffix, haplorrhini.com, proxy
+host-suffix, happ.info, proxy
+host-suffix, happ.su, proxy
 host-suffix, happymeal.co.nz, proxy
 host-suffix, happymeal.com, proxy
 host-suffix, happymeal.com.au, proxy
@@ -15595,6 +15603,7 @@ host-suffix, motherless.com, proxy
 host-suffix, motiongraphicsandmore.com, proxy
 host-suffix, motionpictureser.com, proxy
 host-suffix, moto.com, proxy
+host-suffix, motocms.com, proxy
 host-suffix, motolia.com, proxy
 host-suffix, motopress.com, proxy
 host-suffix, motorola.ca, proxy
@@ -17160,6 +17169,7 @@ host-suffix, onekey-asset.com, proxy
 host-suffix, onekey.so, proxy
 host-suffix, onekeycn.com, proxy
 host-suffix, oneme.ru, proxy
+host-suffix, onemoment.cc, proxy
 host-suffix, onemozilla.org, proxy
 host-suffix, onenote.com, proxy
 host-suffix, onenote.net, proxy
@@ -17550,6 +17560,7 @@ host-suffix, paxful.com, proxy
 host-suffix, paxlicense.org, proxy
 host-suffix, paydiant.com, proxy
 host-suffix, payecom.ru, proxy
+host-suffix, payget.pro, proxy
 host-suffix, paygonline.com, proxy
 host-suffix, payhulu.com, proxy
 host-suffix, paylike.com, proxy
@@ -18047,6 +18058,7 @@ host-suffix, plasticlabs.com, proxy
 host-suffix, plastics-cadcam.com, proxy
 host-suffix, platiecom.ru, proxy
 host-suffix, platinumlinks.org, proxy
+host-suffix, platov.co, proxy
 host-suffix, play-asia.com, proxy
 host-suffix, play-bmm.shop, proxy
 host-suffix, play-bmmer.buzz, proxy
@@ -19039,6 +19051,8 @@ host-suffix, rakutenadvertising.com, proxy
 host-suffix, rakutengiftcards.ca, proxy
 host-suffix, rakuya.com.tw, proxy
 host-suffix, ramcity.com.au, proxy
+host-suffix, ramon.cash, proxy
+host-suffix, ramon.money, proxy
 host-suffix, randyblue.com, proxy
 host-suffix, rapefilms.net, proxy
 host-suffix, rapetube.me, proxy
@@ -19987,6 +20001,7 @@ host-suffix, sensualgirls.org, proxy
 host-suffix, sensualmothers.com, proxy
 host-suffix, sensueel.net, proxy
 host-suffix, sentry-cdn.com, proxy
+host-suffix, sentry.dev, proxy
 host-suffix, sentry.io, proxy
 host-suffix, senzuritv.net, proxy
 host-suffix, seo-dash.net, proxy
@@ -21738,6 +21753,7 @@ host-suffix, tellme.pw, proxy
 host-suffix, tellmewhygame.com, proxy
 host-suffix, temetube.xyz, proxy
 host-suffix, temp-mail.org, proxy
+host-suffix, templatemonster.com, proxy
 host-suffix, temu.com, proxy
 host-suffix, tenbin.ai, proxy
 host-suffix, tenbyfotolia.com, proxy
