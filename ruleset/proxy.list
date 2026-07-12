@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-07-11T23:22:17.945Z
+# Generated at: 2026-07-12T23:22:59.374Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -24107,6 +24107,7 @@ host-suffix, wballiance.com, proxy
 host-suffix, wbautomation.ru, proxy
 host-suffix, wbautomation.tech, proxy
 host-suffix, wbbasket.ru, proxy
+host-suffix, wbcontent.net, proxy
 host-suffix, wbd.ms, proxy
 host-suffix, wbdnbo.net, proxy
 host-suffix, wbdubna.ru, proxy
