@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-07-12T23:22:59.374Z
+# Generated at: 2026-07-13T23:24:10.616Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -1300,7 +1300,6 @@ host-suffix, alefbank.com, proxy
 host-suffix, alexa.com, proxy
 host-suffix, alexanderstreet.com, proxy
 host-suffix, alfa.me, proxy
-host-suffix, alfabank.oavdo.amc, proxy
 host-suffix, alfabank.ru, proxy
 host-suffix, alfabank.st, proxy
 host-suffix, alfadirect.ru, proxy
@@ -5195,6 +5194,7 @@ host-suffix, chat.lmsys.org, proxy
 host-suffix, chatango.com, proxy
 host-suffix, chatgpt.com, proxy
 host-suffix, chatgpt.livekit.cloud, proxy
+host-suffix, chatgpt.site, proxy
 host-suffix, chatgptvideo.xyz, proxy
 host-suffix, chatgptvideob.buzz, proxy
 host-suffix, chatpdf.com, proxy
@@ -10055,7 +10055,6 @@ host-suffix, gongyichuangyi.net, proxy
 host-suffix, gonike.com, proxy
 host-suffix, gonzo-movies.com, proxy
 host-suffix, gonzo.com, proxy
-host-suffix, goo, proxy
 host-suffix, goo.gl, proxy
 host-suffix, goo.ne.jp, proxy
 host-suffix, gooblox.com, proxy
@@ -12293,7 +12292,6 @@ host-suffix, intagram.com, proxy
 host-suffix, intagrm.com, proxy
 host-suffix, intc.com, proxy
 host-suffix, integral7.com, proxy
-host-suffix, intel, proxy
 host-suffix, intel-research.net, proxy
 host-suffix, intel-university-collaboration.net, proxy
 host-suffix, intel.ac, proxy
@@ -13468,6 +13466,7 @@ host-suffix, khatrimaza.org, proxy
 host-suffix, khotruyentranhx.com, proxy
 host-suffix, kichiku-doujinko.com, proxy
 host-suffix, kichikuou.com, proxy
+host-suffix, kick.com, proxy
 host-suffix, kickporn.com, proxy
 host-suffix, kickshatchannel.com, proxy
 host-suffix, kicksnike1.com, proxy
@@ -13594,7 +13593,6 @@ host-suffix, kompozer.net, proxy
 host-suffix, konachan.com, proxy
 host-suffix, konachan.net, proxy
 host-suffix, konachan.wjcodes.com, proxy
-host-suffix, konami, proxy
 host-suffix, konami-igaming.online, proxy
 host-suffix, konami.co.jp, proxy
 host-suffix, konami.com, proxy
@@ -26459,11 +26457,7 @@ host, play-edge.itunes.apple.com, proxy
 host, poshtestgallery.cloudapp.net, proxy
 host, ppl-ai-file-upload.s3.amazonaws.com, proxy
 host, pplx-res.cloudinary.com, proxy
-host, practivate.adobe, proxy
 host, practivate.adobe.com, proxy
-host, practivate.adobe.ipp, proxy
-host, practivate.adobe.newoa, proxy
-host, practivate.adobe.ntp, proxy
 host, prd-priconne-redive.akamaized.net, proxy
 host, preprod-publicca.googleapis.com, proxy
 host, prodforza.blob.core.windows.net, proxy

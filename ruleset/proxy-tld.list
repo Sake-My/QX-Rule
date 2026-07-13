@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-07-12T23:22:59.374Z
+# Generated at: 2026-07-13T23:24:10.616Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-tld-list.txt
 # Description: proxy TLD list
 # Policy: proxy
@@ -27,7 +27,6 @@ host-suffix, gle, proxy
 host-suffix, gmail, proxy
 host-suffix, gmo, proxy
 host-suffix, godaddy, proxy
-host-suffix, goo, proxy
 host-suffix, goog, proxy
 host-suffix, google, proxy
 host-suffix, gucci, proxy
@@ -38,11 +37,9 @@ host-suffix, hotmail, proxy
 host-suffix, hsbc, proxy
 host-suffix, ibm, proxy
 host-suffix, imdb, proxy
-host-suffix, intel, proxy
 host-suffix, intuit, proxy
 host-suffix, java, proxy
 host-suffix, kindle, proxy
-host-suffix, konami, proxy
 host-suffix, microsoft, proxy
 host-suffix, mini, proxy
 host-suffix, mit, proxy

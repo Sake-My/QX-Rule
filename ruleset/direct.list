@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-07-12T23:22:59.374Z
+# Generated at: 2026-07-13T23:24:10.616Z
 # Source: Loyalsoldier/v2ray-rules-dat release/direct-list.txt
 # Description: geosite:cn
 # Policy: direct
@@ -30714,6 +30714,7 @@ host-suffix, duliangaotu.com, direct
 host-suffix, dulife.com, direct
 host-suffix, dulifei.com, direct
 host-suffix, dullr.com, direct
+host-suffix, dulupay.com, direct
 host-suffix, dulwich.org, direct
 host-suffix, dumall.com, direct
 host-suffix, dumanhua.com, direct
@@ -106837,6 +106838,7 @@ host-suffix, yzs.com, direct
 host-suffix, yzs.io, direct
 host-suffix, yzsbh.com, direct
 host-suffix, yzsfuer.com, direct
+host-suffix, yzsgo.com, direct
 host-suffix, yzshkjxx.com, direct
 host-suffix, yzshyzz.com, direct
 host-suffix, yzsljz.com, direct
