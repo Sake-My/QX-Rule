@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-07-13T23:24:10.616Z
+# Generated at: 2026-07-14T23:23:07.672Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -4289,6 +4289,7 @@ host-suffix, bnext.com.tw, proxy
 host-suffix, bnn.co, proxy
 host-suffix, bnrmetal.com, proxy
 host-suffix, bntrace.com, proxy
+host-suffix, bnxz.net, proxy
 host-suffix, boardreader.com, proxy
 host-suffix, boboporn.com, proxy
 host-suffix, boboporn.net, proxy
@@ -4732,6 +4733,7 @@ host-suffix, bynet.co.il, proxy
 host-suffix, bypasscensorship.org, proxy
 host-suffix, byrut.org, proxy
 host-suffix, byspotify.com, proxy
+host-suffix, bystys.tech, proxy
 host-suffix, bytedapm.com, proxy
 host-suffix, byteoversea.com, proxy
 host-suffix, bytick.com, proxy
@@ -13891,7 +13893,14 @@ host-suffix, lightyearvpn.com, proxy
 host-suffix, lih.kg, proxy
 host-suffix, lihkg.com, proxy
 host-suffix, lihksnap.com, proxy
+host-suffix, like-video.com, proxy
 host-suffix, like.com, proxy
+host-suffix, like.video, proxy
+host-suffix, likee.com, proxy
+host-suffix, likee.video, proxy
+host-suffix, likeeapp.ru, proxy
+host-suffix, likeevideo.com, proxy
+host-suffix, likeevideo.ru, proxy
 host-suffix, likeseiyu.com, proxy
 host-suffix, liketruyen.net, proxy
 host-suffix, liketwice.com, proxy
@@ -17391,6 +17400,7 @@ host-suffix, ovpn.com, proxy
 host-suffix, ow.ly, proxy
 host-suffix, owl.li, proxy
 host-suffix, owltail.com, proxy
+host-suffix, owxd.xyz, proxy
 host-suffix, oxfordaasc.com, proxy
 host-suffix, oxfordartonline.com, proxy
 host-suffix, oxfordbibliographies.com, proxy
@@ -23004,6 +23014,7 @@ host-suffix, uwants.com, proxy
 host-suffix, uweb.ru, proxy
 host-suffix, uwpcommunitytoolkit.com, proxy
 host-suffix, uxthemes.com, proxy
+host-suffix, uxzw.club, proxy
 host-suffix, uyghur-j.org, proxy
 host-suffix, uyghuraa.org, proxy
 host-suffix, uyghuramerican.org, proxy
@@ -25871,6 +25882,7 @@ host-suffix, yt.be, proxy
 host-suffix, ytimg.com, proxy
 host-suffix, ytn.co.kr, proxy
 host-suffix, yuanming.net, proxy
+host-suffix, yucf.top, proxy
 host-suffix, yuenuge113.xyz, proxy
 host-suffix, yuenuge18.cc, proxy
 host-suffix, yugioh-card.com, proxy
@@ -26151,6 +26163,7 @@ host, adobe-dns-4.adobe.com, proxy
 host, adobe-dns.adobe.com, proxy
 host, adobeereg.com, proxy
 host, afa7f374f51cc8991.awsglobalaccelerator.com, proxy
+host, agb9r0ad.qllfkl.com, proxy
 host, ai.google.dev, proxy
 host, alkalicore-pa.clients6.google.com, proxy
 host, alkalimakersuite-pa.clients6.google.com, proxy
@@ -26228,42 +26241,60 @@ host, copilotprodattachments.blob.core.windows.net, proxy
 host, crl.microsoft.com, proxy
 host, crl.versign.net, proxy
 host, csis-prod.s3.amazonaws.com, proxy
+host, d1d0w7op819ely.cloudfront.net, proxy
+host, d1fijc56o1fzod.cloudfront.net, proxy
 host, d1g1f25tn8m2e6.cloudfront.net, proxy
 host, d1k2us671qcoau.cloudfront.net, proxy
 host, d1m7jfoe9zdc1j.cloudfront.net, proxy
 host, d1mhjrowxxagfy.cloudfront.net, proxy
 host, d1ndex63qxojbr.cloudfront.net, proxy
+host, d1nu566dreq9vj.cloudfront.net, proxy
 host, d1oca24q5dwo6d.cloudfront.net, proxy
+host, d1ugi9qonif2a2.cloudfront.net, proxy
 host, d1unuk07s6td74.cloudfront.net, proxy
 host, d1v5ir2lpwr8os.cloudfront.net, proxy
 host, d1w2poirtb3as9.cloudfront.net, proxy
 host, d1xhnb4ptk05mw.cloudfront.net, proxy
 host, d1ymi26ma8va5x.cloudfront.net, proxy
+host, d20g4xwarzxagx.cloudfront.net, proxy
 host, d22qjgkvxw22r6.cloudfront.net, proxy
 host, d25xi40x97liuc.cloudfront.net, proxy
+host, d26rnz3bwp7rlk.cloudfront.net, proxy
 host, d27xxe7juh1us6.cloudfront.net, proxy
+host, d28odxiw1asdj8.cloudfront.net, proxy
 host, d29vzk4ow07wi7.cloudfront.net, proxy
 host, d2aba1wr3818hz.cloudfront.net, proxy
 host, d2anahhhmp1ffz.cloudfront.net, proxy
+host, d2be40xdoc0in8.cloudfront.net, proxy
 host, d2dylwb3shzel1.cloudfront.net, proxy
 host, d2e2de1etea730.cloudfront.net, proxy
+host, d2fg91fzjsrcv1.cloudfront.net, proxy
+host, d2j7e8uopcv07.cloudfront.net, proxy
 host, d2nvs31859zcd8.cloudfront.net, proxy
 host, d2um2qdswy1tb0.cloudfront.net, proxy
+host, d2v9yioq9zuuq2.cloudfront.net, proxy
 host, d2vjef5jvl6bfs.cloudfront.net, proxy
 host, d2xmjdvx03ij56.cloudfront.net, proxy
+host, d31dormfno8pk4.cloudfront.net, proxy
 host, d33wubrfki0l68.cloudfront.net, proxy
 host, d36nr0u3xmc4mm.cloudfront.net, proxy
 host, d3aqoihi2n8ty8.cloudfront.net, proxy
 host, d3c27h4odz752x.cloudfront.net, proxy
+host, d3lh5kkip965lj.cloudfront.net, proxy
+host, d3nwj80emtnjeo.cloudfront.net, proxy
 host, d3r7nsslvs6aaf.cloudfront.net, proxy
+host, d3ucl0eqgl80l5.cloudfront.net, proxy
 host, d3vd9lfkzbru3h.cloudfront.net, proxy
 host, d6d4ismr40iw.cloudfront.net, proxy
 host, d6tizftlrpuof.cloudfront.net, proxy
+host, d96jfp62lg3kj.cloudfront.net, proxy
 host, daily-cloudcode-pa.googleapis.com, proxy
 host, databank.worldbank.org, proxy
 host, database.asahi.com, proxy
 host, datarouter.apps.netherrealm.com, proxy
+host, dcb0z5ovq92mz.cloudfront.net, proxy
 host, ddacn6pr5v0tl.cloudfront.net, proxy
+host, ddpjwstwtpszg.cloudfront.net, proxy
 host, default.exp-tas.com, proxy
 host, dell.my.site.com, proxy
 host, deribit.cdn.prismic.io, proxy
@@ -26284,6 +26315,7 @@ host, dqrpb9wgowsf5.cloudfront.net, proxy
 host, ds-linear-abematv.akamaized.net, proxy
 host, ds-vod-abematv.akamaized.net, proxy
 host, ds0h3roq6wcgc.cloudfront.net, proxy
+host, dstnzhnatv9pz.cloudfront.net, proxy
 host, dtlgalleryint.cloudapp.net, proxy
 host, dykkng5hnh52u.cloudfront.net, proxy
 host, e122475.dscg.akamaiedge.net, proxy
@@ -26345,6 +26377,7 @@ host, google-ohttp-relay-safebrowsing.fastly-edge.com, proxy
 host, hamivideo.hinet.net, proxy
 host, hammerandchisel.ssl.zendesk.com, proxy
 host, hb.imgix.net, proxy
+host, hb4bbbbb.pmhcjk.com, proxy
 host, heads-ak-spotify-com.akamaized.net, proxy
 host, heads4-ak-spotify-com.akamaized.net, proxy
 host, himalaya-exchange.zendesk.com, proxy
@@ -26398,6 +26431,7 @@ host, mwf-service.akamaized.net, proxy
 host, na1r.services.adobe.com, proxy
 host, nab.demdex.net, proxy
 host, nationalaustraliaban.tt.omtrdc.net, proxy
+host, nbbb1bb7.pmhcjk.com, proxy
 host, netflix.com.edgesuite.net, proxy
 host, notary-submissions-prod.s3-accelerate.amazonaws.com, proxy
 host, notary-submissions-prod.s3.us-west-2.amazonaws.com, proxy
@@ -26489,6 +26523,7 @@ host, public-us-pingsx.api.clonoth.com, proxy
 host, publicca.googleapis.com, proxy
 host, push-apple.com.akadns.net, proxy
 host, pvr-hamivideo.cdn.hinet.net, proxy
+host, q676790b.pmhcjk.com, proxy
 host, qualcomm.sc.omtrdc.net, proxy
 host, rink.hockeyapp.net, proxy
 host, roblox-load-generator-configuration.s3.us-east-2.amazonaws.com, proxy
