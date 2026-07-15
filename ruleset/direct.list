@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-07-14T23:23:07.672Z
+# Generated at: 2026-07-15T23:26:16.366Z
 # Source: Loyalsoldier/v2ray-rules-dat release/direct-list.txt
 # Description: geosite:cn
 # Policy: direct
@@ -112017,7 +112017,6 @@ host, swscan.apple.com, direct
 host, sylvan.apple.com, direct
 host, sync.itunes.apple.com, direct
 host, tac.googleapis.com, direct
-host, tesla-cdn.thron.cn, direct
 host, tf-feedback.itunes.apple.com, direct
 host, time.amazonaws.cn, direct
 host, time.izatcloud.net, direct

@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-07-14T23:23:07.672Z
+# Generated at: 2026-07-15T23:26:16.366Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -2801,6 +2801,7 @@ host-suffix, azuredns-prd.info, proxy
 host-suffix, azuredns-prd.org, proxy
 host-suffix, azureedge-test.net, proxy
 host-suffix, azureedge.net, proxy
+host-suffix, azureedge.us, proxy
 host-suffix, azurefd.net, proxy
 host-suffix, azureiotcentral.com, proxy
 host-suffix, azureiotsolutions.com, proxy
@@ -5833,6 +5834,7 @@ host-suffix, coomer.su, proxy
 host-suffix, coova.com, proxy
 host-suffix, coova.net, proxy
 host-suffix, coova.org, proxy
+host-suffix, copilot-stg.com, proxy
 host-suffix, copilot.com, proxy
 host-suffix, copro.pw, proxy
 host-suffix, copy-manga.com, proxy
@@ -14848,6 +14850,7 @@ host-suffix, mgstage.com, proxy
 host-suffix, mh4u.org, proxy
 host-suffix, mhcb.ru, proxy
 host-suffix, mhcbr.ru, proxy
+host-suffix, mhgui.com, proxy
 host-suffix, mhhanman.xyz, proxy
 host-suffix, mhqwe.xyz, proxy
 host-suffix, mhradio.org, proxy
@@ -21153,6 +21156,7 @@ host-suffix, starfieldtech.com, proxy
 host-suffix, starfox.com, proxy
 host-suffix, stargazer-games.com, proxy
 host-suffix, stark-verlag.ch, proxy
+host-suffix, starlink.com, proxy
 host-suffix, starott.com, proxy
 host-suffix, starp2p.com, proxy
 host-suffix, starplus.com, proxy
@@ -26668,7 +26672,6 @@ host, t.ssp.hinet.net, proxy
 host, t21.nikkei.co.jp, proxy
 host, t21ipau.nikkei.co.jp, proxy
 host, teamviewer.com.cdn.cloudflare.net, proxy
-host, tesla-cdn.thron.com, proxy
 host, thumbnail-hamivideo.cdn.hinet.net, proxy
 host, time-a-b.nist.gov, proxy
 host, time-a-g.nist.gov, proxy
