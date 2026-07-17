@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-07-16T23:22:50.280Z
+# Generated at: 2026-07-17T23:13:43.851Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -16254,6 +16254,7 @@ host-suffix, netsurf-browser.org, proxy
 host-suffix, nettyinternet.com, proxy
 host-suffix, netvideogirls.com, proxy
 host-suffix, netvigator.com, proxy
+host-suffix, netxh.blog, proxy
 host-suffix, netzerobuildings.com, proxy
 host-suffix, netzerobuildingstudio.com, proxy
 host-suffix, neuerporno.com, proxy
@@ -18902,6 +18903,7 @@ host-suffix, qmov.net, proxy
 host-suffix, qmp4.com, proxy
 host-suffix, qmttqg3k.me, proxy
 host-suffix, qnap.com, proxy
+host-suffix, qnapsupport.net, proxy
 host-suffix, qobuz.com, proxy
 host-suffix, qoder.com, proxy
 host-suffix, qombol.com, proxy
