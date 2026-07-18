@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-07-17T23:13:43.851Z
+# Generated at: 2026-07-18T23:24:02.082Z
 # Source: Loyalsoldier/v2ray-rules-dat release/gfw.txt
 # Description: geosite:gfw
 # Policy: proxy
@@ -18,6 +18,7 @@ host-suffix, 1688.com.au, proxy
 host-suffix, 173ng.com, proxy
 host-suffix, 18board.com, proxy
 host-suffix, 18comic.org, proxy
+host-suffix, 18comic.vip, proxy
 host-suffix, 18mh.net, proxy
 host-suffix, 1984bbs.com, proxy
 host-suffix, 1991way.com, proxy
