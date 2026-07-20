@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-07-19T23:25:34.639Z
+# Generated at: 2026-07-20T23:28:29.422Z
 # Source: Loyalsoldier/v2ray-rules-dat release/gfw.txt
 # Description: geosite:gfw
 # Policy: proxy
@@ -788,6 +788,7 @@ host-suffix, civilmedia.tw, proxy
 host-suffix, civitai.com, proxy
 host-suffix, cixiaoya.club, proxy
 host-suffix, ck101.com, proxy
+host-suffix, clashyun.com, proxy
 host-suffix, classicalguitarblog.net, proxy
 host-suffix, claude.ai, proxy
 host-suffix, claude.com, proxy
@@ -3441,6 +3442,7 @@ host-suffix, synapse.org, proxy
 host-suffix, syncback.com, proxy
 host-suffix, synergyse.com, proxy
 host-suffix, syosetu.com, proxy
+host-suffix, sysub.com, proxy
 host-suffix, t-g.com, proxy
 host-suffix, t.co, proxy
 host-suffix, t.me, proxy

@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-07-19T23:25:34.639Z
+# Generated at: 2026-07-20T23:28:29.422Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -3354,6 +3354,7 @@ host-suffix, berlincompanions.com, proxy
 host-suffix, berlinerbericht.de, proxy
 host-suffix, berlintwitterwall.com, proxy
 host-suffix, best-sex-games.com, proxy
+host-suffix, best2pay.net, proxy
 host-suffix, best4bim.com, proxy
 host-suffix, bestbeats4u.com, proxy
 host-suffix, bestbhy.com, proxy
@@ -5495,6 +5496,7 @@ host-suffix, clashmini.com, proxy
 host-suffix, clashofclans.com, proxy
 host-suffix, clashroyale.com, proxy
 host-suffix, clashroyaleapp.com, proxy
+host-suffix, clashyun.com, proxy
 host-suffix, clasporno.org, proxy
 host-suffix, classicalguitarblog.net, proxy
 host-suffix, classicnike.com, proxy
@@ -8102,6 +8104,8 @@ host-suffix, f-dro1d.org, proxy
 host-suffix, f-droid.com, proxy
 host-suffix, f-droid.org, proxy
 host-suffix, f-secure.com, proxy
+host-suffix, f1.com, proxy
+host-suffix, f1tv.com, proxy
 host-suffix, f2pool.com, proxy
 host-suffix, f5pf.com, proxy
 host-suffix, f6.dev, proxy
@@ -8930,6 +8934,7 @@ host-suffix, form.new, proxy
 host-suffix, formit360.com, proxy
 host-suffix, formitfactory.com, proxy
 host-suffix, forms.new, proxy
+host-suffix, formula1.com, proxy
 host-suffix, forpojie.pics, proxy
 host-suffix, forshtadt.ru, proxy
 host-suffix, fortawesome.com, proxy
@@ -11645,6 +11650,7 @@ host-suffix, hustlercash.com, proxy
 host-suffix, hutao.cloud, proxy
 host-suffix, hutianyi.net, proxy
 host-suffix, hutpromos.com, proxy
+host-suffix, hva.im, proxy
 host-suffix, hwayue.org.tw, proxy
 host-suffix, hwgo.com, proxy
 host-suffix, hwslabs.com, proxy
@@ -19131,8 +19137,10 @@ host-suffix, rbmavericks.com, proxy
 host-suffix, rbnainternational.com, proxy
 host-suffix, rbplc.com, proxy
 host-suffix, rbrandlibrary.com, proxy
+host-suffix, rbsgate.com, proxy
 host-suffix, rbsgr.com, proxy
 host-suffix, rbspeakup.com, proxy
+host-suffix, rbsuat.com, proxy
 host-suffix, rbth.com, proxy
 host-suffix, rbx.com, proxy
 host-suffix, rbxcdn.com, proxy
@@ -21527,6 +21535,7 @@ host-suffix, synologyupdate.com, proxy
 host-suffix, syosetu.com, proxy
 host-suffix, sysinternals.com, proxy
 host-suffix, system76.com, proxy
+host-suffix, sysub.com, proxy
 host-suffix, syzbj36.xyz, proxy
 host-suffix, szabadeuropa.hu, proxy
 host-suffix, szcheapmonsterheadphones.com, proxy
@@ -26711,6 +26720,7 @@ host, time5.facebook.com, proxy
 host, tlmr-hamivideo2.cdn.hinet.net, proxy
 host, tmdb-image-prod.b-cdn.net, proxy
 host, tmdb-web-image-prod.b-cdn.net, proxy
+host, trojan-gfw.github.io, proxy
 host, tv.applemusic.com, proxy
 host, tvcastlive-hamivideo.cdn.hinet.net, proxy
 host, ubisoft-orbit-savegames.s3.amazonaws.com, proxy
@@ -26880,6 +26890,7 @@ host, wwis-dubc1-vip99.adobe.com, proxy
 host, www-cdn.icloud.com.akadns.net, proxy
 host, www.microsoft.com, proxy
 host, www.quora.com.cdn.cloudflare.net, proxy
+host, xtls.github.io, proxy
 host, yangzhi.app, proxy
 host, yt3.googleusercontent.com, proxy
 host, zeenews-fonts.s3.amazonaws.com, proxy
