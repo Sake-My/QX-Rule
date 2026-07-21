@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-07-20T23:28:29.422Z
+# Generated at: 2026-07-21T23:26:25.179Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -25999,6 +25999,7 @@ host-suffix, zenit.ru, proxy
 host-suffix, zenlesszonezero.com, proxy
 host-suffix, zenmate.com, proxy
 host-suffix, zenmate.com.ru, proxy
+host-suffix, zenmux.ai, proxy
 host-suffix, zenodo.org, proxy
 host-suffix, zeplin.dev, proxy
 host-suffix, zeplin.io, proxy

@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-07-20T23:28:29.422Z
+# Generated at: 2026-07-21T23:26:25.179Z
 # Source: Loyalsoldier/v2ray-rules-dat release/gfw.txt
 # Description: geosite:gfw
 # Policy: proxy
@@ -4321,6 +4321,7 @@ host-suffix, zdnet.com.tw, proxy
 host-suffix, zello.com, proxy
 host-suffix, zenmate.com, proxy
 host-suffix, zenmate.com.ru, proxy
+host-suffix, zenmux.ai, proxy
 host-suffix, zerohedge.com, proxy
 host-suffix, zeronet.io, proxy
 host-suffix, zh-hans.cfsh99.com, proxy
