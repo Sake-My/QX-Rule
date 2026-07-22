@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-07-21T23:26:25.179Z
+# Generated at: 2026-07-22T23:27:52.750Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -22269,6 +22269,7 @@ host-suffix, tohoku-bank.co.jp, proxy
 host-suffix, tok.media, proxy
 host-suffix, token.im, proxy
 host-suffix, tokenlon.im, proxy
+host-suffix, tokenplus.app, proxy
 host-suffix, tokyo-hot.com, proxy
 host-suffix, tokyo-porn-tube.com, proxy
 host-suffix, tokyo-sports.co.jp, proxy
