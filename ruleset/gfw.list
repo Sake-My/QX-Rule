@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-07-23T23:25:42.869Z
+# Generated at: 2026-07-24T23:30:15.363Z
 # Source: Loyalsoldier/v2ray-rules-dat release/gfw.txt
 # Description: geosite:gfw
 # Policy: proxy
@@ -776,6 +776,7 @@ host-suffix, ci-en.jp, proxy
 host-suffix, cia.gov, proxy
 host-suffix, cici.com, proxy
 host-suffix, ciciai.com, proxy
+host-suffix, circle19.org, proxy
 host-suffix, cirosantilli.com, proxy
 host-suffix, citizencn.com, proxy
 host-suffix, citizenlab.ca, proxy
@@ -2178,6 +2179,7 @@ host-suffix, kanshifang.com, proxy
 host-suffix, kantie.org, proxy
 host-suffix, kaotic.com, proxy
 host-suffix, karayou.com, proxy
+host-suffix, kards.com, proxy
 host-suffix, kathmandupost.com, proxy
 host-suffix, kawaiikawaii.jp, proxy
 host-suffix, kawase.com, proxy
