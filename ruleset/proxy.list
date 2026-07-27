@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-07-26T23:26:41.184Z
+# Generated at: 2026-07-27T23:32:10.347Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -9886,6 +9886,7 @@ host-suffix, githubhackathon.com, proxy
 host-suffix, githubnext.com, proxy
 host-suffix, githubpreview.dev, proxy
 host-suffix, githubstatus.com, proxy
+host-suffix, githubsupport.com, proxy
 host-suffix, githubuniverse.com, proxy
 host-suffix, githubusercontent.com, proxy
 host-suffix, gitlab-static.net, proxy
@@ -22501,6 +22502,7 @@ host-suffix, truyenkk1.com, proxy
 host-suffix, truyentranh86.com, proxy
 host-suffix, truyenwk.com, proxy
 host-suffix, try.rw, proxy
+host-suffix, tryai.dev, proxy
 host-suffix, tryalias.com, proxy
 host-suffix, tryboobs.com, proxy
 host-suffix, trycloudflare.com, proxy

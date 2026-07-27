@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-07-26T23:26:41.184Z
+# Generated at: 2026-07-27T23:32:10.347Z
 # Source: Loyalsoldier/v2ray-rules-dat release/gfw.txt
 # Description: geosite:gfw
 # Policy: proxy
@@ -3700,6 +3700,7 @@ host-suffix, trtworld.com, proxy
 host-suffix, truebuddha-md.org, proxy
 host-suffix, trustwallet.com, proxy
 host-suffix, truthsocial.com, proxy
+host-suffix, tryai.dev, proxy
 host-suffix, tryheart.jp, proxy
 host-suffix, tsdr.uspto.gov, proxy
 host-suffix, tt1069.com, proxy
