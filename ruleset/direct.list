@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-07-27T23:32:10.347Z
+# Generated at: 2026-07-28T23:27:54.778Z
 # Source: Loyalsoldier/v2ray-rules-dat release/direct-list.txt
 # Description: geosite:cn
 # Policy: direct
@@ -100297,6 +100297,7 @@ host-suffix, xmmtu.com, direct
 host-suffix, xmmuye.com, direct
 host-suffix, xmnjdwx.com, direct
 host-suffix, xmocloud01.com, direct
+host-suffix, xmoj.tech, direct
 host-suffix, xmonecode.com, direct
 host-suffix, xmos.tv, direct
 host-suffix, xmov.ai, direct
