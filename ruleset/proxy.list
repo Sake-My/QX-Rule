@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-07-29T23:28:52.300Z
+# Generated at: 2026-07-30T23:30:03.653Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -1814,6 +1814,7 @@ host-suffix, api.moomoobull.com, proxy
 host-suffix, api.news, proxy
 host-suffix, api.palworldgame.com, proxy
 host-suffix, apiary.io, proxy
+host-suffix, apiauto.ru, proxy
 host-suffix, apibay.org, proxy
 host-suffix, apigee.com, proxy
 host-suffix, apina.biz, proxy
@@ -2470,6 +2471,7 @@ host-suffix, auth0.com, proxy
 host-suffix, authorxml.com, proxy
 host-suffix, authpass.app, proxy
 host-suffix, authy.com, proxy
+host-suffix, auto.ru, proxy
 host-suffix, autocad-schulungen.com, proxy
 host-suffix, autocad.com, proxy
 host-suffix, autocad360.com, proxy
@@ -2608,6 +2610,7 @@ host-suffix, autokreditbank.ru, proxy
 host-suffix, automaton-media.com, proxy
 host-suffix, automobile.fr, proxy
 host-suffix, automotive-cadcam.com, proxy
+host-suffix, autoru.me, proxy
 host-suffix, autosketch.com, proxy
 host-suffix, autumn-jade.com, proxy
 host-suffix, auxdubai.com, proxy
@@ -2710,6 +2713,7 @@ host-suffix, avstar5.com, proxy
 host-suffix, avstar6.com, proxy
 host-suffix, avstar8.com, proxy
 host-suffix, avstar9.com, proxy
+host-suffix, avto.ru, proxy
 host-suffix, avwong.com, proxy
 host-suffix, avwto.com, proxy
 host-suffix, avxde.org, proxy
@@ -5291,6 +5295,8 @@ host-suffix, cherrypanpan.com, proxy
 host-suffix, cherrypimps.com, proxy
 host-suffix, cherrypornhd.com, proxy
 host-suffix, cherrysave.com, proxy
+host-suffix, chess.com, proxy
+host-suffix, chesscomfiles.com, proxy
 host-suffix, chhongbi.org, proxy
 host-suffix, chianxv.buzz, proxy
 host-suffix, chibabank.co.jp, proxy
@@ -5407,6 +5413,9 @@ host-suffix, chyoa.com, proxy
 host-suffix, ci-en.jp, proxy
 host-suffix, ci-en.net, proxy
 host-suffix, cia.gov, proxy
+host-suffix, cian.ru, proxy
+host-suffix, cian.site, proxy
+host-suffix, ciangroup.ru, proxy
 host-suffix, ciattackers.com, proxy
 host-suffix, cici.com, proxy
 host-suffix, ciciai.com, proxy
@@ -5619,6 +5628,7 @@ host-suffix, clubtubes.com, proxy
 host-suffix, clusterconnection.com, proxy
 host-suffix, clyp.it, proxy
 host-suffix, clzz2.xyz, proxy
+host-suffix, cm.expert, proxy
 host-suffix, cmcn.org, proxy
 host-suffix, cmegroup.com, proxy
 host-suffix, cmhalq.com, proxy
@@ -6900,6 +6910,7 @@ host-suffix, dmcdn.net, proxy
 host-suffix, dmed.technology, proxy
 host-suffix, dmgmediaprivacy.co.uk, proxy
 host-suffix, dmhy.org, proxy
+host-suffix, dmir.ru, proxy
 host-suffix, dmit.io, proxy
 host-suffix, dmit.sh, proxy
 host-suffix, dml-lang.org, proxy
@@ -7121,6 +7132,7 @@ host-suffix, drkogyi.com, proxy
 host-suffix, drmario-world.com, proxy
 host-suffix, drnastran.com, proxy
 host-suffix, drobbox.pro, proxy
+host-suffix, drom.ru, proxy
 host-suffix, dronedj.com, proxy
 host-suffix, dropbooks.tv, proxy
 host-suffix, dropbox-dns.com, proxy
@@ -13842,6 +13854,7 @@ host-suffix, letsfuckme.net, proxy
 host-suffix, letsjerk.cc, proxy
 host-suffix, letsmoveforabetterworld.com, proxy
 host-suffix, lettherebeporn.com, proxy
+host-suffix, level-plus.net, proxy
 host-suffix, levelsex.com, proxy
 host-suffix, lewdthots.com, proxy
 host-suffix, lewdvrgames.com, proxy
@@ -17003,6 +17016,7 @@ host-suffix, nytimes.com, proxy
 host-suffix, nytimg.com, proxy
 host-suffix, nytstyle.com, proxy
 host-suffix, o-courier.ru, proxy
+host-suffix, o-uchi.ru, proxy
 host-suffix, o2action.co.kr, proxy
 host-suffix, o3.ru, proxy
 host-suffix, o365weve-dev.com, proxy
@@ -18591,6 +18605,7 @@ host-suffix, potato.im, proxy
 host-suffix, potatso.com, proxy
 host-suffix, potenza.jp, proxy
 host-suffix, potvpn.com, proxy
+host-suffix, poudobnee.com, proxy
 host-suffix, pourquoi.tw, proxy
 host-suffix, povpornonly.com, proxy
 host-suffix, povr.com, proxy
@@ -19160,6 +19175,7 @@ host-suffix, rcinet.ca, proxy
 host-suffix, rcl07.xyz, proxy
 host-suffix, rclon.com, proxy
 host-suffix, rd.com, proxy
+host-suffix, rdrom.ru, proxy
 host-suffix, rds-yes.buzz, proxy
 host-suffix, rdtcdn.com, proxy
 host-suffix, re25.vip, proxy
@@ -19232,6 +19248,7 @@ host-suffix, realteengirls.com, proxy
 host-suffix, realtor.com, proxy
 host-suffix, realtype.co.jp, proxy
 host-suffix, realtype.jp, proxy
+host-suffix, realtyverif.ru, proxy
 host-suffix, realvision.com, proxy
 host-suffix, realviz.com, proxy
 host-suffix, realzoomovies.com, proxy
@@ -22811,6 +22828,7 @@ host-suffix, ubuntuforums.org, proxy
 host-suffix, uc-japan.org, proxy
 host-suffix, uchi.ru, proxy
 host-suffix, uchicago.edu, proxy
+host-suffix, uchilk.ru, proxy
 host-suffix, ucla.edu, proxy
 host-suffix, ucoz.ae, proxy
 host-suffix, ucoz.club, proxy
@@ -23057,6 +23075,7 @@ host-suffix, v-av.com, proxy
 host-suffix, v-has.com, proxy
 host-suffix, v.gd, proxy
 host-suffix, v.ps, proxy
+host-suffix, v.recipes, proxy
 host-suffix, v2.help, proxy
 host-suffix, v2.hysteria.network, proxy
 host-suffix, v2ex.com, proxy
@@ -24907,6 +24926,7 @@ host-suffix, xn----8sbaroledu6bi7j.com, proxy
 host-suffix, xn----8sbeoy5bze.com, proxy
 host-suffix, xn----8sbkfzespdwig.xn--p1ai, proxy
 host-suffix, xn----8sbwjbxyd.xn--p1ai, proxy
+host-suffix, xn----otbzjdu.xn--p1ai, proxy
 host-suffix, xn--096-4g6em5t.com, proxy
 host-suffix, xn--11xs86f.icu, proxy
 host-suffix, xn--1jqvh729avzfcy2d8ummib.com, proxy
@@ -24927,6 +24947,8 @@ host-suffix, xn--74q434dwff.com, proxy
 host-suffix, xn--74q434dwff.net, proxy
 host-suffix, xn--7hv594h.com, proxy
 host-suffix, xn--80a9a4b.xn--p1ai, proxy
+host-suffix, xn--80aaafbpzn5blfby1p.xn--p1ai, proxy
+host-suffix, xn--80aaeib8abrryx4k.xn--p1ai, proxy
 host-suffix, xn--80aafgovrgbc7am.xn--p1ai, proxy
 host-suffix, xn--80acbjgmges7ca.xn--p1ai, proxy
 host-suffix, xn--80acbjgsdq2cl.xn--p1ai, proxy
@@ -25624,6 +25646,7 @@ host-suffix, ymail.com, proxy
 host-suffix, ymhsf.top, proxy
 host-suffix, ymhsf1.top, proxy
 host-suffix, ync.ne.jp, proxy
+host-suffix, yndx.net, proxy
 host-suffix, ynoproject.net, proxy
 host-suffix, yo-star.com, proxy
 host-suffix, yo1health.com, proxy
@@ -26449,6 +26472,7 @@ host, medone-education.thieme.com, proxy
 host, misa-prod.s3.ap-northeast-1.amazonaws.com, proxy
 host, mobilelive-hamivideo.cdn.hinet.net, proxy
 host, mozilla-ohttp.fastly-edge.com, proxy
+host, mozilla.map.fastly.net, proxy
 host, mscrl.microsoft.com, proxy
 host, msh.amazon.co.uk, proxy
 host, mtalk-dev.google.com, proxy

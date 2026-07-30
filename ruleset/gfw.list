@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-07-29T23:28:52.300Z
+# Generated at: 2026-07-30T23:30:03.653Z
 # Source: Loyalsoldier/v2ray-rules-dat release/gfw.txt
 # Description: geosite:gfw
 # Policy: proxy
@@ -2264,6 +2264,7 @@ host-suffix, lenwhite.com, proxy
 host-suffix, leonardo.ai, proxy
 host-suffix, lesoir.be, proxy
 host-suffix, letscorp.net, proxy
+host-suffix, level-plus.net, proxy
 host-suffix, lexica.art, proxy
 host-suffix, lhakar.org, proxy
 host-suffix, li.taipei, proxy
@@ -3882,6 +3883,7 @@ host-suffix, uyghurstudies.org, proxy
 host-suffix, uyghurtribunal.com, proxy
 host-suffix, uygur.fc2web.com, proxy
 host-suffix, uymaarip.com, proxy
+host-suffix, v.recipes, proxy
 host-suffix, v2.help, proxy
 host-suffix, v2.hysteria.network, proxy
 host-suffix, v2ex.com, proxy
