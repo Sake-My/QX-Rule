@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-07-31T23:27:51.384Z
+# Generated at: 2026-08-01T23:26:33.467Z
 # Source: Loyalsoldier/v2ray-rules-dat release/gfw.txt
 # Description: geosite:gfw
 # Policy: proxy
@@ -2683,6 +2683,7 @@ host-suffix, ntd.tv, proxy
 host-suffix, ntdtv.com, proxy
 host-suffix, ntdtv.com.tw, proxy
 host-suffix, ntdtv.cz, proxy
+host-suffix, nthlink.com, proxy
 host-suffix, nuexpo.com, proxy
 host-suffix, nurgo-software.com, proxy
 host-suffix, nusatrip.com, proxy

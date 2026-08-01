@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-07-31T23:27:51.384Z
+# Generated at: 2026-08-01T23:26:33.467Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -729,6 +729,7 @@ host-suffix, acrobat.com, proxy
 host-suffix, acs.org, proxy
 host-suffix, actalis.com, proxy
 host-suffix, actalis.it, proxy
+host-suffix, actifio.com, proxy
 host-suffix, activelearnprimary.co.uk, proxy
 host-suffix, activelearnprimary.com.au, proxy
 host-suffix, activematter.game, proxy
@@ -13090,7 +13091,10 @@ host-suffix, jessicaturner.com, proxy
 host-suffix, jetbrains.ai, proxy
 host-suffix, jetbrains.cloud, proxy
 host-suffix, jetbrains.com, proxy
+host-suffix, jetbrains.dev, proxy
 host-suffix, jetbrains.net, proxy
+host-suffix, jetbrains.org, proxy
+host-suffix, jetbrains.ru, proxy
 host-suffix, jetbrains.space, proxy
 host-suffix, jetbrains.team, proxy
 host-suffix, jetfuelapp.com, proxy
@@ -13645,6 +13649,8 @@ host-suffix, korewaeroi.com, proxy
 host-suffix, korona.com, proxy
 host-suffix, koshelek.app, proxy
 host-suffix, kostenlosepornoclips.com, proxy
+host-suffix, kotl.in, proxy
+host-suffix, kotlinconf.com, proxy
 host-suffix, kotlinlang.org, proxy
 host-suffix, koubaibu.jp, proxy
 host-suffix, koukoku.jp, proxy
@@ -13671,6 +13677,7 @@ host-suffix, ksescortclub.com, proxy
 host-suffix, kspcoin.com, proxy
 host-suffix, ksyp10.com, proxy
 host-suffix, ktech.team, proxy
+host-suffix, ktor.io, proxy
 host-suffix, ktvu.com, proxy
 host-suffix, ktzhk.com, proxy
 host-suffix, ku77.xyz, proxy
@@ -15986,6 +15993,7 @@ host-suffix, myhulu.com, proxy
 host-suffix, myicloud.net, proxy
 host-suffix, myiphide.com, proxy
 host-suffix, myipod.net, proxy
+host-suffix, myjetbrains.com, proxy
 host-suffix, myjkwd.com, proxy
 host-suffix, myjs.tw, proxy
 host-suffix, mykomica.org, proxy
@@ -16814,6 +16822,7 @@ host-suffix, ntdtv.se, proxy
 host-suffix, ntdtvla.com, proxy
 host-suffix, ntdvideo.tw, proxy
 host-suffix, ntdvn.com, proxy
+host-suffix, nthlink.com, proxy
 host-suffix, ntl.fyi, proxy
 host-suffix, ntnews.com.au, proxy
 host-suffix, ntp-os01.ocn.ad.jp, proxy
@@ -17331,6 +17340,7 @@ host-suffix, openweathermap.org, proxy
 host-suffix, openweave.io, proxy
 host-suffix, openwebster.com, proxy
 host-suffix, openwrt.org, proxy
+host-suffix, openxla.org, proxy
 host-suffix, opera.com, proxy
 host-suffix, opinionjournal.com, proxy
 host-suffix, oppai-doga.info, proxy
@@ -21642,6 +21652,7 @@ host-suffix, taleofthenight.com, proxy
 host-suffix, talkatone.com, proxy
 host-suffix, talkboxapp.com, proxy
 host-suffix, talkcc.com, proxy
+host-suffix, talkingkotlin.com, proxy
 host-suffix, talkonly.net, proxy
 host-suffix, talksport.com, proxy
 host-suffix, tamilsexvideos.cc, proxy
