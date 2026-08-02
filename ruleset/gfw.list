@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-08-01T23:26:33.467Z
+# Generated at: 2026-08-02T23:26:58.957Z
 # Source: Loyalsoldier/v2ray-rules-dat release/gfw.txt
 # Description: geosite:gfw
 # Policy: proxy
@@ -692,6 +692,7 @@ host-suffix, centauro.com.br, proxy
 host-suffix, centerforhumanreprod.com, proxy
 host-suffix, centralnation.com, proxy
 host-suffix, centurys.net, proxy
+host-suffix, cerebras.ai, proxy
 host-suffix, certificate-transparency.org, proxy
 host-suffix, certificate.revocationcheck.com, proxy
 host-suffix, cfr.org, proxy
@@ -772,6 +773,7 @@ host-suffix, chrome.com, proxy
 host-suffix, chromecast.com, proxy
 host-suffix, chromeexperiments.com, proxy
 host-suffix, chromestatus.com, proxy
+host-suffix, cht.com.tw, proxy
 host-suffix, ci-en.jp, proxy
 host-suffix, cia.gov, proxy
 host-suffix, cici.com, proxy
@@ -2528,7 +2530,6 @@ host-suffix, mosavi.io, proxy
 host-suffix, motherless.com, proxy
 host-suffix, movements.org, proxy
 host-suffix, moviefap.com, proxy
-host-suffix, mozilla.ai, proxy
 host-suffix, mpettis.com, proxy
 host-suffix, mpfinance.com, proxy
 host-suffix, mpinews.com, proxy
@@ -2998,7 +2999,6 @@ host-suffix, puffinbrowser.com, proxy
 host-suffix, pullfolio.co, proxy
 host-suffix, pure18.com, proxy
 host-suffix, pureconcepts.net, proxy
-host-suffix, puredns.org, proxy
 host-suffix, pureinsight.org, proxy
 host-suffix, purepdf.com, proxy
 host-suffix, purevpn.com, proxy
@@ -3043,7 +3043,6 @@ host-suffix, radio.co, proxy
 host-suffix, radio.garden, proxy
 host-suffix, radioaustralia.net.au, proxy
 host-suffix, radiohilight.net, proxy
-host-suffix, radiojar.com, proxy
 host-suffix, radioline.co, proxy
 host-suffix, radiovaticana.org, proxy
 host-suffix, radiovncr.com, proxy
@@ -3156,7 +3155,6 @@ host-suffix, sadpanda.us, proxy
 host-suffix, safechat.com, proxy
 host-suffix, safeguarddefenders.com, proxy
 host-suffix, safervpn.com, proxy
-host-suffix, sagernet.org, proxy
 host-suffix, saintyculture.com, proxy
 host-suffix, sakuralive.com, proxy
 host-suffix, salvation.org.hk, proxy
@@ -4150,7 +4148,6 @@ host-suffix, www.ajsands.com, proxy
 host-suffix, www.antd.org, proxy
 host-suffix, www.aolnews.com, proxy
 host-suffix, www.bing.com, proxy
-host-suffix, www.clashverge.dev, proxy
 host-suffix, www.cmoinc.org, proxy
 host-suffix, www.dmm.com, proxy
 host-suffix, www.eastturkistan.net, proxy
