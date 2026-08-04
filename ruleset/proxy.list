@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-08-03T23:32:34.707Z
+# Generated at: 2026-08-04T23:30:41.607Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -6310,6 +6310,8 @@ host-suffix, deepfreeze.net, proxy
 host-suffix, deepfreeze.tech, proxy
 host-suffix, deepl.com, proxy
 host-suffix, deepmind.com, proxy
+host-suffix, deepwiki.com, proxy
+host-suffix, deepwiki.org, proxy
 host-suffix, deezer.com, proxy
 host-suffix, definebabe.com, proxy
 host-suffix, definefetish.com, proxy
@@ -8899,8 +8901,11 @@ host-suffix, fluidfxapp.com, proxy
 host-suffix, fluidpreview.com, proxy
 host-suffix, flutter.dev, proxy
 host-suffix, flutterapp.com, proxy
+host-suffix, fly.dev, proxy
+host-suffix, fly.io, proxy
 host-suffix, flyflv.com, proxy
 host-suffix, flyingjizz.com, proxy
+host-suffix, flyio.net, proxy
 host-suffix, flypool.org, proxy
 host-suffix, flyvpn.com, proxy
 host-suffix, flyyindh-cc.sbs, proxy
@@ -9925,6 +9930,7 @@ host-suffix, glasamerike.net, proxy
 host-suffix, glass8.eu, proxy
 host-suffix, gle, proxy
 host-suffix, gleline.com, proxy
+host-suffix, glitchwave.com, proxy
 host-suffix, global-sci.org, proxy
 host-suffix, globaledu.org, proxy
 host-suffix, globaljihad.net, proxy
@@ -17469,14 +17475,17 @@ host-suffix, ozodlik.org, proxy
 host-suffix, ozon-credit.ru, proxy
 host-suffix, ozon-dostavka.ru, proxy
 host-suffix, ozon-tech.ru, proxy
+host-suffix, ozon.app, proxy
 host-suffix, ozon.by, proxy
 host-suffix, ozon.com, proxy
 host-suffix, ozon.com.by, proxy
 host-suffix, ozon.com.kz, proxy
 host-suffix, ozon.dev, proxy
 host-suffix, ozon.express, proxy
+host-suffix, ozon.global, proxy
 host-suffix, ozon.kz, proxy
 host-suffix, ozon.li, proxy
+host-suffix, ozon.market, proxy
 host-suffix, ozon.ru, proxy
 host-suffix, ozon.tech, proxy
 host-suffix, ozon.tm, proxy
@@ -19684,6 +19693,7 @@ host-suffix, rutracker.nl, proxy
 host-suffix, rutracker.org, proxy
 host-suffix, rutrk.org, proxy
 host-suffix, rutube.ru, proxy
+host-suffix, rutube.sport, proxy
 host-suffix, rutubelist.ru, proxy
 host-suffix, ruvideos.net, proxy
 host-suffix, rwb.ru, proxy
@@ -19691,6 +19701,7 @@ host-suffix, rwbautomation.ru, proxy
 host-suffix, rwbautomation.tech, proxy
 host-suffix, rwbgeo.ru, proxy
 host-suffix, rxhj.net, proxy
+host-suffix, rym.fm, proxy
 host-suffix, ryokoyomiuri.co.jp, proxy
 host-suffix, ryukyubank.co.jp, proxy
 host-suffix, rzr.to, proxy
@@ -20732,6 +20743,7 @@ host-suffix, snjulebu.com, proxy
 host-suffix, snk-corp.co.jp, proxy
 host-suffix, snk-corp.info, proxy
 host-suffix, snkplaymore.info, proxy
+host-suffix, snmc.io, proxy
 host-suffix, snow.me, proxy
 host-suffix, snowcorp.com, proxy
 host-suffix, snowmiku.com, proxy
@@ -20801,6 +20813,8 @@ host-suffix, solutionstation.com, proxy
 host-suffix, solv.finance, proxy
 host-suffix, solveforx.com, proxy
 host-suffix, somee.com, proxy
+host-suffix, sonematic.net, proxy
+host-suffix, sonemic.com, proxy
 host-suffix, songjianjun.com, proxy
 host-suffix, sonorousporn.com, proxy
 host-suffix, sony, proxy
