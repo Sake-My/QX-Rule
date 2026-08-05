@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-08-04T23:30:41.607Z
+# Generated at: 2026-08-05T23:27:18.985Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -211,6 +211,7 @@ host-suffix, 2025copy.com, proxy
 host-suffix, 2047.name, proxy
 host-suffix, 2047.one, proxy
 host-suffix, 2049bbs.xyz, proxy
+host-suffix, 20thcenturystudios.com, proxy
 host-suffix, 20thcenturystudios.com.au, proxy
 host-suffix, 20thcenturystudios.com.br, proxy
 host-suffix, 20thcenturystudios.jp, proxy
@@ -240,10 +241,14 @@ host-suffix, 2beeg.me, proxy
 host-suffix, 2bit8.com, proxy
 host-suffix, 2buybeatsbydre.com, proxy
 host-suffix, 2ch.hk, proxy
+host-suffix, 2ch.life, proxy
 host-suffix, 2ch.net, proxy
+host-suffix, 2ch.org, proxy
+host-suffix, 2ch.su, proxy
 host-suffix, 2chav.com, proxy
 host-suffix, 2dgen.com, proxy
 host-suffix, 2drdrebeats.com, proxy
+host-suffix, 2dust.link, proxy
 host-suffix, 2gayboys.com, proxy
 host-suffix, 2gis.ae, proxy
 host-suffix, 2gis.am, proxy
@@ -632,6 +637,7 @@ host-suffix, abc.net.au, proxy
 host-suffix, abc.xyz, proxy
 host-suffix, abcheadphones.com, proxy
 host-suffix, abclider.com, proxy
+host-suffix, abcnews.com, proxy
 host-suffix, abeatsbydrdre.com, proxy
 host-suffix, abebooks.co.uk, proxy
 host-suffix, abebooks.com, proxy
@@ -1638,6 +1644,7 @@ host-suffix, amlg.io, proxy
 host-suffix, amnesty.org, proxy
 host-suffix, amnesty.org.hk, proxy
 host-suffix, amnestyusa.org, proxy
+host-suffix, amnezia.org, proxy
 host-suffix, amodoll.com, proxy
 host-suffix, amourangels.com, proxy
 host-suffix, amp.dev, proxy
@@ -2887,6 +2894,7 @@ host-suffix, baltimorebmw.com, proxy
 host-suffix, baltnews.com, proxy
 host-suffix, baltnews.lt, proxy
 host-suffix, bamgrid.com, proxy
+host-suffix, bamtech.net, proxy
 host-suffix, bamtoki.com, proxy
 host-suffix, banan.tv, proxy
 host-suffix, banana-vpn.com, proxy
@@ -4743,7 +4751,6 @@ host-suffix, byrut.org, proxy
 host-suffix, byspotify.com, proxy
 host-suffix, bystys.tech, proxy
 host-suffix, bytedapm.com, proxy
-host-suffix, byteoversea.com, proxy
 host-suffix, bytick.com, proxy
 host-suffix, c-est-simple.com, proxy
 host-suffix, c-ij.com, proxy
@@ -5505,10 +5512,13 @@ host-suffix, clannad-movie.jp, proxy
 host-suffix, claravenger.com, proxy
 host-suffix, clarivate.com, proxy
 host-suffix, clash.com, proxy
+host-suffix, clashmi.app, proxy
 host-suffix, clashmini.com, proxy
 host-suffix, clashofclans.com, proxy
+host-suffix, clashparty.org, proxy
 host-suffix, clashroyale.com, proxy
 host-suffix, clashroyaleapp.com, proxy
+host-suffix, clashverge.dev, proxy
 host-suffix, clashyun.com, proxy
 host-suffix, clasporno.org, proxy
 host-suffix, classicalguitarblog.net, proxy
@@ -5571,9 +5581,11 @@ host-suffix, cloudflare-gateway.com, proxy
 host-suffix, cloudflare-ipfs.com, proxy
 host-suffix, cloudflare-quic.com, proxy
 host-suffix, cloudflare-terms-of-service-abuse.com, proxy
+host-suffix, cloudflare.app, proxy
 host-suffix, cloudflare.com, proxy
 host-suffix, cloudflare.dev, proxy
 host-suffix, cloudflare.net, proxy
+host-suffix, cloudflare.pay, proxy
 host-suffix, cloudflare.tv, proxy
 host-suffix, cloudflareaccess.com, proxy
 host-suffix, cloudflareapps.com, proxy
@@ -6494,7 +6506,6 @@ host-suffix, deltacredit.ru, proxy
 host-suffix, deluxe.com.hk, proxy
 host-suffix, delvenetworks.com, proxy
 host-suffix, demandware.com, proxy
-host-suffix, demdex.net, proxy
 host-suffix, demo.unlock-music.dev, proxy
 host-suffix, democracy.earth, proxy
 host-suffix, demonoid.is, proxy
@@ -6545,6 +6556,7 @@ host-suffix, destinationbim.com, proxy
 host-suffix, detaliczny.com, proxy
 host-suffix, detentiongirls.com, proxy
 host-suffix, detodosparatodos.org, proxy
+host-suffix, detpress.com, proxy
 host-suffix, dettol-prize.com, proxy
 host-suffix, dettol.at, proxy
 host-suffix, dettol.be, proxy
@@ -6819,7 +6831,9 @@ host-suffix, disney.ro, proxy
 host-suffix, disney.ru, proxy
 host-suffix, disney.se, proxy
 host-suffix, disney.sg, proxy
+host-suffix, disneyaccount.com, proxy
 host-suffix, disneyadsales.com, proxy
+host-suffix, disneyanimation.com, proxy
 host-suffix, disneyarena.com, proxy
 host-suffix, disneyaulani.com, proxy
 host-suffix, disneybaby.com, proxy
@@ -6835,6 +6849,7 @@ host-suffix, disneyinternational.com, proxy
 host-suffix, disneyinternationalhd.com, proxy
 host-suffix, disneyjunior.com, proxy
 host-suffix, disneyjuniortreataday.com, proxy
+host-suffix, disneylandparis.com, proxy
 host-suffix, disneylatino.com, proxy
 host-suffix, disneymagicmoments.co.il, proxy
 host-suffix, disneymagicmoments.co.uk, proxy
@@ -6856,11 +6871,13 @@ host-suffix, disneynow.com, proxy
 host-suffix, disneypeoplesurveys.com, proxy
 host-suffix, disneyplus.bn5x.net, proxy
 host-suffix, disneyplus.com, proxy
+host-suffix, disneyprivacycenter.com, proxy
 host-suffix, disneyredirects.com, proxy
 host-suffix, disneysrivieraresort.com, proxy
 host-suffix, disneystore.com, proxy
 host-suffix, disneystreaming.com, proxy
 host-suffix, disneysubscription.com, proxy
+host-suffix, disneytermsofuse.com, proxy
 host-suffix, disneytickets.co.uk, proxy
 host-suffix, disneyturkiye.com.tr, proxy
 host-suffix, disneytvajobs.com, proxy
@@ -8858,6 +8875,7 @@ host-suffix, flathub.org, proxy
 host-suffix, flatmates.com.au, proxy
 host-suffix, flatpak.org, proxy
 host-suffix, flatt.tech, proxy
+host-suffix, flclashx.app, proxy
 host-suffix, fldz8.buzz, proxy
 host-suffix, flecheinthepeche.fr, proxy
 host-suffix, fleshbot.com, proxy
@@ -8894,6 +8912,7 @@ host-suffix, flowfront.net, proxy
 host-suffix, flowgpt.com, proxy
 host-suffix, flowhongkong.net, proxy
 host-suffix, flowtype.org, proxy
+host-suffix, flowvy.io, proxy
 host-suffix, flowwow-images.com, proxy
 host-suffix, flowwow.com, proxy
 host-suffix, fluffychat.im, proxy
@@ -9228,6 +9247,7 @@ host-suffix, freefacebook.net, proxy
 host-suffix, freefacebookads.net, proxy
 host-suffix, freefblikes.com, proxy
 host-suffix, freefbx.com, proxy
+host-suffix, freeform.com, proxy
 host-suffix, freegao.com, proxy
 host-suffix, freegaypornhdtube.com, proxy
 host-suffix, freegaysexgames.com, proxy
@@ -11221,6 +11241,7 @@ host-suffix, honawalaan.com, proxy
 host-suffix, honestpornreviews.com, proxy
 host-suffix, hongjie10.xyz, proxy
 host-suffix, hongjie11.xyz, proxy
+host-suffix, hongkongdisneyland.com, proxy
 host-suffix, hongkongdoll.tv, proxy
 host-suffix, hongkongdollvideo.org, proxy
 host-suffix, hongkongfp.com, proxy
@@ -12177,6 +12198,7 @@ host-suffix, incloak.com, proxy
 host-suffix, inclusivegrowthscore.com, proxy
 host-suffix, incommon-rsa.org, proxy
 host-suffix, incredibox.fr, proxy
+host-suffix, incy.cc, proxy
 host-suffix, ind.sh, proxy
 host-suffix, indazn.com, proxy
 host-suffix, indaznlab.com, proxy
@@ -13407,6 +13429,7 @@ host-suffix, kards.com, proxy
 host-suffix, karechat.ai, proxy
 host-suffix, karger.com, proxy
 host-suffix, karinahart.com, proxy
+host-suffix, karing.app, proxy
 host-suffix, karlajames.com, proxy
 host-suffix, karmahelp.ru, proxy
 host-suffix, karta-banka-rf.ru, proxy
@@ -14214,6 +14237,7 @@ host-suffix, luanlunmv.cc, proxy
 host-suffix, lubetube.com, proxy
 host-suffix, lucahmelayu.club, proxy
 host-suffix, lucasentertainment.com, proxy
+host-suffix, lucasfilm.com, proxy
 host-suffix, luckydesigner.space, proxy
 host-suffix, luckyissue.com, proxy
 host-suffix, luckymobile.ca, proxy
@@ -16193,6 +16217,7 @@ host-suffix, nbtvpn.com, proxy
 host-suffix, nbys.tv, proxy
 host-suffix, nbys1.tv, proxy
 host-suffix, nbyy.tv, proxy
+host-suffix, ncbi.nlm.nih.gov, proxy
 host-suffix, nchrd.org, proxy
 host-suffix, ncl.edu.tw, proxy
 host-suffix, ncloud.com, proxy
@@ -16222,6 +16247,7 @@ host-suffix, negoziomonsterbeats.com, proxy
 host-suffix, neicad.com, proxy
 host-suffix, neiexplicit.com, proxy
 host-suffix, neifea.com, proxy
+host-suffix, neigbuy.com, proxy
 host-suffix, neimotion.com, proxy
 host-suffix, neinastranincad.com, proxy
 host-suffix, neisoftware.com, proxy
@@ -16806,6 +16832,7 @@ host-suffix, nsfw.xxx, proxy
 host-suffix, nsfw247.to, proxy
 host-suffix, nsfwmemes.com, proxy
 host-suffix, nsimg.net, proxy
+host-suffix, nsloon.com, proxy
 host-suffix, nspk.ru, proxy
 host-suffix, ntc.party, proxy
 host-suffix, ntd.com, proxy
@@ -17235,6 +17262,7 @@ host-suffix, oneteamconference.com, proxy
 host-suffix, onetrust.com, proxy
 host-suffix, onevps.com, proxy
 host-suffix, oneworldmanystories.com, proxy
+host-suffix, onexray.com, proxy
 host-suffix, onfinality.io, proxy
 host-suffix, onindiansex.com, proxy
 host-suffix, oninstagram.com, proxy
@@ -18072,6 +18100,7 @@ host-suffix, pivotalinitiative.com, proxy
 host-suffix, piwheels.org, proxy
 host-suffix, pixanalytics.com, proxy
 host-suffix, pixapp.net, proxy
+host-suffix, pixar.com, proxy
 host-suffix, pixate.com, proxy
 host-suffix, pixeldrain.com, proxy
 host-suffix, pixelqi.com, proxy
@@ -18752,6 +18781,7 @@ host-suffix, privatevpn.com, proxy
 host-suffix, privilege.hk, proxy
 host-suffix, privilege.tw, proxy
 host-suffix, privoxy.org, proxy
+host-suffix, prizrak.app, proxy
 host-suffix, procopytips.com, proxy
 host-suffix, proctoscopeexam.com, proxy
 host-suffix, prod-my.games, proxy
@@ -19990,6 +20020,7 @@ host-suffix, seaporn.org, proxy
 host-suffix, search.aol.com, proxy
 host-suffix, search.com, proxy
 host-suffix, search.xxx, proxy
+host-suffix, searchlightpictures.com, proxy
 host-suffix, searx.me, proxy
 host-suffix, seasidestory.tokyo, proxy
 host-suffix, seattlefdc.com, proxy
@@ -20309,6 +20340,7 @@ host-suffix, sh83.xyz, proxy
 host-suffix, shadbase.com, proxy
 host-suffix, shadeyouvpn.com, proxy
 host-suffix, shadowcomplex.com, proxy
+host-suffix, shadowlaunch.com, proxy
 host-suffix, shadowslaves.com, proxy
 host-suffix, shadowsocks.be, proxy
 host-suffix, shadowsocks.com, proxy
@@ -21236,6 +21268,8 @@ host-suffix, starwarsgalacticstarcruiser.com, proxy
 host-suffix, starwarsjedifallenorder.com, proxy
 host-suffix, starwarskids.com, proxy
 host-suffix, starwarstheoldrepublic.com, proxy
+host-suffix, stash.wiki, proxy
+host-suffix, stash.ws, proxy
 host-suffix, stateofthemap.com, proxy
 host-suffix, stateofthemap.org, proxy
 host-suffix, static-cisco.com, proxy
@@ -22067,6 +22101,7 @@ host-suffix, thetype.com, proxy
 host-suffix, theuab.net, proxy
 host-suffix, theverge.com, proxy
 host-suffix, thevirtualsexreview.com, proxy
+host-suffix, thewaltdisneycompany.com, proxy
 host-suffix, theweek.com, proxy
 host-suffix, theweek.in, proxy
 host-suffix, thewgo.org, proxy
@@ -22325,6 +22360,7 @@ host-suffix, tokyo-porn-tube.com, proxy
 host-suffix, tokyo-sports.co.jp, proxy
 host-suffix, tokyo-tosho.net, proxy
 host-suffix, tokyocn.com, proxy
+host-suffix, tokyodisneyresort.jp, proxy
 host-suffix, tokyomotion.com, proxy
 host-suffix, tokyomotion.net, proxy
 host-suffix, tokyonightstyle.com, proxy
@@ -24099,6 +24135,7 @@ host-suffix, walmart-content.com, proxy
 host-suffix, walmart.com, proxy
 host-suffix, walmart.pharmacy, proxy
 host-suffix, walmartimages.com, proxy
+host-suffix, waltdisneystudios.com, proxy
 host-suffix, waltermartin.com, proxy
 host-suffix, waltermartin.org, proxy
 host-suffix, wana-tv.sbs, proxy
@@ -24325,6 +24362,7 @@ host-suffix, wfm.com, proxy
 host-suffix, wforum.com, proxy
 host-suffix, wgcdn.co, proxy
 host-suffix, wgcrowd.io, proxy
+host-suffix, wgtunnel.com, proxy
 host-suffix, whasil.xyz, proxy
 host-suffix, what-fan.net, proxy
 host-suffix, whatblocked.com, proxy
@@ -24540,6 +24578,7 @@ host-suffix, wirelessgroup.co.uk, proxy
 host-suffix, wirelessreach.com, proxy
 host-suffix, wiremoneytoirelandwithxoomeasierandcheaper.com, proxy
 host-suffix, wireshark.org, proxy
+host-suffix, wiresock.net, proxy
 host-suffix, wise-research.com, proxy
 host-suffix, wise.com, proxy
 host-suffix, wisecoin.com, proxy
@@ -26378,6 +26417,7 @@ host, developers.facebook.com, proxy
 host, dfp6rglgjqszk.cloudfront.net, proxy
 host, dgeft87wbj63p.cloudfront.net, proxy
 host, discord-attachments-uploads-prd.storage.googleapis.com, proxy
+host, disneyplus.com.ssl.sc.omtrdc.net, proxy
 host, dl.begellhouse.com, proxy
 host, dlgarenanow-a.akamaihd.net, proxy
 host, dlmobilegarena-a.akamaihd.net, proxy
@@ -26488,9 +26528,11 @@ host, lmlicenses.wip4.adobe.com, proxy
 host, location.microsoft.com, proxy
 host, lolstatic-a.akamaihd.net, proxy
 host, m1.ppy.sh, proxy
+host, matsuridayo.github.io, proxy
 host, mdn.mozillademos.org, proxy
 host, media-rockstargames-com.akamaized.net, proxy
 host, medone-education.thieme.com, proxy
+host, metacubex.github.io, proxy
 host, misa-prod.s3.ap-northeast-1.amazonaws.com, proxy
 host, mobilelive-hamivideo.cdn.hinet.net, proxy
 host, mozilla-ohttp.fastly-edge.com, proxy
@@ -26504,8 +26546,6 @@ host, mtalk4.google.com, proxy
 host, muse.jhu.edu, proxy
 host, mwf-service.akamaized.net, proxy
 host, na1r.services.adobe.com, proxy
-host, nab.demdex.net, proxy
-host, nationalaustraliaban.tt.omtrdc.net, proxy
 host, nbbb1bb7.pmhcjk.com, proxy
 host, netflix.com.edgesuite.net, proxy
 host, notary-submissions-prod.s3-accelerate.amazonaws.com, proxy
@@ -26600,6 +26640,7 @@ host, push-apple.com.akadns.net, proxy
 host, pvr-hamivideo.cdn.hinet.net, proxy
 host, q676790b.pmhcjk.com, proxy
 host, qualcomm.sc.omtrdc.net, proxy
+host, rabbit-hole-1.gitbook.io, proxy
 host, rink.hockeyapp.net, proxy
 host, roblox-load-generator-configuration.s3.us-east-2.amazonaws.com, proxy
 host, roblox-poc.global.ssl.fastly.net, proxy
@@ -26743,6 +26784,7 @@ host, t.ssp.hinet.net, proxy
 host, t21.nikkei.co.jp, proxy
 host, t21ipau.nikkei.co.jp, proxy
 host, teamviewer.com.cdn.cloudflare.net, proxy
+host, throneproj.github.io, proxy
 host, thumbnail-hamivideo.cdn.hinet.net, proxy
 host, time-a-b.nist.gov, proxy
 host, time-a-g.nist.gov, proxy
