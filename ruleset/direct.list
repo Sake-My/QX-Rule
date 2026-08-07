@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-08-07T01:35:50.946Z
+# Generated at: 2026-08-07T23:02:48.446Z
 # Source: Loyalsoldier/v2ray-rules-dat release/direct-list.txt
 # Description: geosite:cn
 # Policy: direct
@@ -60649,6 +60649,7 @@ host-suffix, lifeup.vip, direct
 host-suffix, lifevc.com, direct
 host-suffix, lifevccdn.com, direct
 host-suffix, lifeweeker.com, direct
+host-suffix, lifexue.com, direct
 host-suffix, lifeyk.com, direct
 host-suffix, lifeyn.net, direct
 host-suffix, lifezb.com, direct
