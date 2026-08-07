@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-08-05T23:27:18.985Z
+# Generated at: 2026-08-07T01:35:50.946Z
 # Source: Loyalsoldier/v2ray-rules-dat release/gfw.txt
 # Description: geosite:gfw
 # Policy: proxy
@@ -300,7 +300,6 @@ host-suffix, atlanta168.com, proxy
 host-suffix, atnext.com, proxy
 host-suffix, auctions.yahoo.co.jp, proxy
 host-suffix, audacy.com, proxy
-host-suffix, auntology.fandom.com, proxy
 host-suffix, autodraw.com, proxy
 host-suffix, av.movie, proxy
 host-suffix, av01.tv, proxy
@@ -1211,6 +1210,7 @@ host-suffix, falundafaindia.org, proxy
 host-suffix, falunhr.org, proxy
 host-suffix, famunion.com, proxy
 host-suffix, fanbox.cc, proxy
+host-suffix, fandom.com, proxy
 host-suffix, fangeqiang.com, proxy
 host-suffix, fanglizhi.info, proxy
 host-suffix, fangong.org, proxy
@@ -1902,7 +1902,6 @@ host-suffix, holyspiritspeaks.org, proxy
 host-suffix, home.saxo, proxy
 host-suffix, homedepot.com, proxy
 host-suffix, homeservershow.com, proxy
-host-suffix, hongkong.fandom.com, proxy
 host-suffix, hongkongfp.com, proxy
 host-suffix, hongzhi.li, proxy
 host-suffix, honven.xyz, proxy
