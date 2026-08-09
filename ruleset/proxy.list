@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-08-08T22:54:56.932Z
+# Generated at: 2026-08-09T22:57:20.037Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -1060,6 +1060,7 @@ host-suffix, ai7995.site, proxy
 host-suffix, ai91porn.cc, proxy
 host-suffix, aiaa.org, proxy
 host-suffix, aiasahi.jp, proxy
+host-suffix, aihub.top, proxy
 host-suffix, aimei133.com, proxy
 host-suffix, aimsciences.org, proxy
 host-suffix, aiosearch.com, proxy
@@ -7997,6 +7998,7 @@ host-suffix, esetsoftware.com, proxy
 host-suffix, esforce.com, proxy
 host-suffix, esforce.ru, proxy
 host-suffix, esg.t91y.com, proxy
+host-suffix, esim.redteago.com, proxy
 host-suffix, eskimotube.com, proxy
 host-suffix, eslite.com, proxy
 host-suffix, esm.run, proxy
