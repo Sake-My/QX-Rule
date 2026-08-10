@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-08-09T22:57:20.037Z
+# Generated at: 2026-08-10T23:04:24.576Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -6890,6 +6890,7 @@ host-suffix, disquscdn.com, proxy
 host-suffix, disqusservice.com, proxy
 host-suffix, dit-inc.us, proxy
 host-suffix, divas.com.uy, proxy
+host-suffix, divdyn.com, proxy
 host-suffix, diwodiwo.xyz, proxy
 host-suffix, diyarbakirescort.com, proxy
 host-suffix, diyin.org, proxy
