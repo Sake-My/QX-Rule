@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-08-11T23:10:03.975Z
+# Generated at: 2026-08-12T23:08:10.319Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -4614,6 +4614,7 @@ host-suffix, buhidoh.net, proxy
 host-suffix, buicha.social, proxy
 host-suffix, building3dcontent.com, proxy
 host-suffix, builtfromebay.com, proxy
+host-suffix, builtwithnix.org, proxy
 host-suffix, bukkake-jav.com, proxy
 host-suffix, bullguard.com, proxy
 host-suffix, bullog.org, proxy
@@ -16065,6 +16066,7 @@ host-suffix, mymusclevideo.com, proxy
 host-suffix, mynavi.jp, proxy
 host-suffix, mynetname.net, proxy
 host-suffix, mynike.com, proxy
+host-suffix, mynixos.com, proxy
 host-suffix, myoctocat.com, proxy
 host-suffix, myparagliding.com, proxy
 host-suffix, mypearson.com, proxy
@@ -16759,7 +16761,15 @@ host-suffix, niusnews.com, proxy
 host-suffix, nivod.tv, proxy
 host-suffix, nivodi.tv, proxy
 host-suffix, nivodz.com, proxy
+host-suffix, nix-community.org, proxy
+host-suffix, nix.dev, proxy
+host-suffix, nix.store, proxy
+host-suffix, nixcon.org, proxy
+host-suffix, nixcon2017.org, proxy
+host-suffix, nixlang.com, proxy
 host-suffix, nixos.org, proxy
+host-suffix, nixos.wiki, proxy
+host-suffix, nixpkgs.org, proxy
 host-suffix, niziero.info, proxy
 host-suffix, njactb.org, proxy
 host-suffix, njav.tv, proxy
@@ -25630,6 +25640,7 @@ host-suffix, yandex.ee, proxy
 host-suffix, yandex.eu, proxy
 host-suffix, yandex.fi, proxy
 host-suffix, yandex.fr, proxy
+host-suffix, yandex.it, proxy
 host-suffix, yandex.jobs, proxy
 host-suffix, yandex.kg, proxy
 host-suffix, yandex.kz, proxy
@@ -26580,6 +26591,7 @@ host, mwf-service.akamaized.net, proxy
 host, na1r.services.adobe.com, proxy
 host, nbbb1bb7.pmhcjk.com, proxy
 host, netflix.com.edgesuite.net, proxy
+host, nix-community.github.io, proxy
 host, notary-submissions-prod.s3-accelerate.amazonaws.com, proxy
 host, notary-submissions-prod.s3.us-west-2.amazonaws.com, proxy
 host, notebooklm-pa.googleapis.com, proxy
