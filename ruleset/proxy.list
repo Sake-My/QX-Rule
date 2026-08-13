@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-08-12T23:08:10.319Z
+# Generated at: 2026-08-13T23:10:08.438Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -19630,6 +19630,7 @@ host-suffix, rsc.org, proxy
 host-suffix, rsdlmonitor.com, proxy
 host-suffix, rsf-chinese.org, proxy
 host-suffix, rsf.org, proxy
+host-suffix, rsg.ms, proxy
 host-suffix, rsg.sc, proxy
 host-suffix, rshb.ru, proxy
 host-suffix, rsk.co, proxy
@@ -19956,6 +19957,8 @@ host-suffix, sbti.unun.dev, proxy
 host-suffix, sbux.com.my, proxy
 host-suffix, sbuxcard.com, proxy
 host-suffix, sc-cdn.net, proxy
+host-suffix, sc-gw.com, proxy
+host-suffix, sc-static.net, proxy
 host-suffix, sc.com, proxy
 host-suffix, sca-tolo.info, proxy
 host-suffix, scala-lang.org, proxy
