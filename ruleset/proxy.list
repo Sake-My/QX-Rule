@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-08-14T22:46:35.542Z
+# Generated at: 2026-08-15T22:44:20.706Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -19754,6 +19754,7 @@ host-suffix, rutracker.me, proxy
 host-suffix, rutracker.net, proxy
 host-suffix, rutracker.nl, proxy
 host-suffix, rutracker.org, proxy
+host-suffix, rutracker.wiki, proxy
 host-suffix, rutrk.org, proxy
 host-suffix, rutube.ru, proxy
 host-suffix, rutube.sport, proxy
