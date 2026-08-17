@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-08-16T22:43:50.607Z
+# Generated at: 2026-08-17T22:47:15.844Z
 # Source: Loyalsoldier/v2ray-rules-dat release/gfw.txt
 # Description: geosite:gfw
 # Policy: proxy
@@ -2317,6 +2317,7 @@ host-suffix, liveleak.com, proxy
 host-suffix, livemint.com, proxy
 host-suffix, livestream.com, proxy
 host-suffix, livevideo.com, proxy
+host-suffix, livingatlas.arcgis.com, proxy
 host-suffix, livingstream.com, proxy
 host-suffix, lmarena.ai, proxy
 host-suffix, localbitcoins.com, proxy
