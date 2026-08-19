@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-08-18T22:47:15.951Z
+# Generated at: 2026-08-19T22:48:15.500Z
 # Source: Loyalsoldier/v2ray-rules-dat release/direct-list.txt
 # Description: geosite:cn
 # Policy: direct
@@ -110957,7 +110957,6 @@ host, adcdownload.apple.com, direct
 host, adcdownload.apple.com.akadns.net, direct
 host, admob-cn.com, direct
 host, adservice.google.com, direct
-host, afcs.dell.com, direct
 host, ai.zhaomi.cn, direct
 host, alibaba.cdn.steampipe.steamcontent.com, direct
 host, amp-api-edge-lb-cn.itunes-apple.com.akadns.net, direct
@@ -111043,7 +111042,6 @@ host, clickserver.googleads.com, direct
 host, client-api.itunes.apple.com, direct
 host, clientflow.apple.com, direct
 host, clientflow.apple.com.akadns.net, direct
-host, clientperipherals.dell.com, direct
 host, clientservices.googleapis.com, direct
 host, cma.itunes.apple.com, direct
 host, cn-smp-paymentservices.apple.com, direct
@@ -111070,7 +111068,6 @@ host, cstat.cdn-apple.com, direct
 host, ctdsb.clouddiffuse.xyz, direct
 host, ctldl.windowsupdate.com, direct
 host, cueme-api.quark.cn, direct
-host, customization-cdn.dell.com, direct
 host, dartsearch-cn.net, direct
 host, dc1-cert.ksn.kaspersky-labs.com, direct
 host, dc1-file.ksn.kaspersky-labs.com, direct
@@ -111078,14 +111075,12 @@ host, dc1-pp.ksn.kaspersky-labs.com, direct
 host, dc1-st.ksn.kaspersky-labs.com, direct
 host, dc1.ksn.kaspersky-labs.com, direct
 host, dd-cdn.origin-apple.com.akadns.net, direct
-host, dds.dell.com, direct
 host, dejavu.apple.com, direct
 host, developer.microsoft.com, direct
 host, devimages-cdn.apple.com, direct
 host, devstreaming-cdn.apple.com, direct
 host, dg-meta.video.google.com, direct
 host, discussionschinese.apple.com, direct
-host, dl.dell.com, direct
 host, dl.google.com, direct
 host, dl.l.google.com, direct
 host, dnl-00.geo.kaspersky.com, direct
@@ -111118,33 +111113,22 @@ host, download.visualstudio.microsoft.com, direct
 host, downloaddispatch.itunes.apple.com, direct
 host, dreamspark.download.prss.microsoft.com, direct
 host, dreamsparkuat.download.prss.microsoft.com, direct
-host, ea2cn-dev-outlet.dell.com, direct
-host, ea2cn-prod-outlet.dell.com, direct
-host, ea2cn-staging-outlet.dell.com, direct
 host, edge.geo.kaspersky.com, direct
-host, emoi-cncdn.bing.com, direct
 host, end-api.shallow.ink, direct
 host, end.shallow.ink, direct
 host, entitlements-edge.itunes.apple.com, direct
 host, experiments.apple.com, direct
 host, f.c2r.ts.cdn.office.net, direct
-host, fcs.dell.com, direct
 host, fides-pol.apple.com, direct
 host, firebase-settings.crashlytics.com, direct
 host, fontfiles.googleapis.com, direct
 host, fonts.googleapis.com, direct
 host, fonts.gstatic.com, direct
 host, fpinit.itunes.apple.com, direct
-host, fta.dell.com, direct
-host, ftaapj.dell.com, direct
-host, ftaemea.dell.com, direct
-host, ftasitapj.dell.com, direct
 host, g0.gstatic.com, direct
 host, g1.gstatic.com, direct
 host, g2.gstatic.com, direct
 host, g3.gstatic.com, direct
-host, gbxgateway-dev.dell.com, direct
-host, gbxgateway.dell.com, direct
 host, geetest.datasink.sensorsdata.cn, direct
 host, gog.qtlglb.com, direct
 host, gonglchuangl.net, direct
@@ -111198,7 +111182,6 @@ host, guzzoni.smoot.apple.com, direct
 host, hellofontpreview.oss-cn-beijing.aliyuncs.com, direct
 host, hellowebfonts.oss-cn-beijing.aliyuncs.com, direct
 host, hospital.pku.edu.cn, direct
-host, i.dell.com, direct
 host, i.pki.goog, direct
 host, images-cn-8.ssl-images-amazon.com, direct
 host, images-cn.ssl-images-amazon.com, direct
@@ -111290,7 +111273,6 @@ host, musicstatus.music.apple.com, direct
 host, mvod.itunes.apple.com, direct
 host, myapp.itunes.apple.com, direct
 host, myvs.download.prss.microsoft.com, direct
-host, nexus.dell.com, direct
 host, np-edge.itunes.apple.com, direct
 host, ntp.aliyun.com, direct
 host, ntp.tencent.com, direct
@@ -111321,7 +111303,6 @@ host, oscdn.origin-apple.com.akadns.net, direct
 host, osrelease.download.prss.microsoft.com, direct
 host, osxapps.itunes.apple.com, direct
 host, osxapps.itunes.g.aaplimg.com, direct
-host, p.cdn.persaas.dell.com, direct
 host, p00.upd.kaspersky.com, direct
 host, p01.upd.kaspersky.com, direct
 host, p02.upd.kaspersky.com, direct
@@ -111416,7 +111397,6 @@ host, s4.mzstatic.com, direct
 host, s5.mzstatic.com, direct
 host, safebrowsing-cache.google.com, direct
 host, safebrowsing.googleapis.com, direct
-host, scene7-cdn.dell.com, direct
 host, sdx.microsoft.com, direct
 host, se-edge.itunes.apple.com, direct
 host, se2.itunes.apple.com, direct
@@ -111430,11 +111410,7 @@ host, sf-api-token-service.itunes.apple.com, direct
 host, sh-pod2-smp-device.apple.com, direct
 host, shazam-insights.cdn-apple.com, direct
 host, shell.cdn.office.net, direct
-host, si.cdn.dell.com, direct
-host, sm.dell.com, direct
 host, smp-device-content.apple.com, direct
-host, snp.cdn.dell.com, direct
-host, snpi.dell.com, direct
 host, software.download.prss.microsoft.com, direct
 host, sp.itunes.apple.com, direct
 host, speedysub.music.apple.com, direct
@@ -111462,7 +111438,6 @@ host, study.163.com, direct
 host, su.itunes.apple.com, direct
 host, support-china.apple-support.akadns.net, direct
 host, support.apple.com, direct
-host, supportassist.dell.com, direct
 host, surface.download.prss.microsoft.com, direct
 host, surface.downloads.prss.microsoft.com, direct
 host, swallow-apple-com.v.aaplimg.com, direct
@@ -111486,14 +111461,12 @@ host, tj-pod1-smp-device.apple.com, direct
 host, tj-pod2-smp-device.apple.com, direct
 host, tj-pod3-smp-device.apple.com, direct
 host, tools.google.com, direct
-host, tp.louisvuitton.com, direct
 host, universal-activity-service.itunes.apple.com, direct
 host, update.crashlytics.com, direct
 host, update.googleapis.com, direct
 host, updates-http.cdn-apple.com, direct
 host, updates-http.cdn-apple.com.akadns.net, direct
 host, updates.cdn-apple.com, direct
-host, uplaypc-s-ubisoft.cdn.ubi.com, direct
 host, upp.itunes.apple.com, direct
 host, valid.apple.com, direct
 host, valid.origin-apple.com.akadns.net, direct
@@ -111508,13 +111481,10 @@ host, weather-map.apple.com, direct
 host, weather-map2.apple.com, direct
 host, weatherkit.apple.com, direct
 host, windbg.download.prss.microsoft.com, direct
-host, www-csb.dell.com, direct
 host, www-google-analytics.l.google.com, direct
 host, www-googletagmanager.l.google.com, direct
-host, www.amd.com, direct
 host, www.apple.com, direct
 host, www.apple.com.edgekey.net.globalredir.akadns.net, direct
-host, www.dell.com, direct
 host, www.destinationurl.com, direct
 host, www.entrust.cn, direct
 host, www.gstatic.com, direct

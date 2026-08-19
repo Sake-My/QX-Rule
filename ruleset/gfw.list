@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-08-18T22:47:15.951Z
+# Generated at: 2026-08-19T22:48:15.500Z
 # Source: Loyalsoldier/v2ray-rules-dat release/gfw.txt
 # Description: geosite:gfw
 # Policy: proxy
@@ -2734,6 +2734,7 @@ host-suffix, oklink.com, proxy
 host-suffix, okpool.me, proxy
 host-suffix, okx.com, proxy
 host-suffix, old.honeynet.org, proxy
+host-suffix, oldmapsonline.org, proxy
 host-suffix, olehdtv.com, proxy
 host-suffix, olelive.com, proxy
 host-suffix, olevod.com, proxy
