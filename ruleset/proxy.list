@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-08-20T22:52:06.899Z
+# Generated at: 2026-08-21T22:47:48.448Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -4489,6 +4489,7 @@ host-suffix, brew.sh, proxy
 host-suffix, brewmp.com, proxy
 host-suffix, briantreepayments.net, proxy
 host-suffix, briantreepayments.tv, proxy
+host-suffix, briarproject.org, proxy
 host-suffix, bridge-studio.co.uk, proxy
 host-suffix, bridgebim.com, proxy
 host-suffix, bridgestone, proxy

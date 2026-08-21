@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-08-20T22:52:06.899Z
+# Generated at: 2026-08-21T22:47:48.448Z
 # Source: Loyalsoldier/v2ray-rules-dat release/gfw.txt
 # Description: geosite:gfw
 # Policy: proxy
@@ -567,6 +567,7 @@ host-suffix, break.com, proxy
 host-suffix, breakgfw.com, proxy
 host-suffix, breakingtweets.com, proxy
 host-suffix, breakwall.net, proxy
+host-suffix, briarproject.org, proxy
 host-suffix, brill.com, proxy
 host-suffix, brizzly.com, proxy
 host-suffix, broadpressinc.com, proxy
@@ -709,6 +710,7 @@ host-suffix, character.ai, proxy
 host-suffix, chat.com, proxy
 host-suffix, chat.lmsys.org, proxy
 host-suffix, chatgpt.com, proxy
+host-suffix, chatgpt.site, proxy
 host-suffix, chatpdf.com, proxy
 host-suffix, chaturbate.com, proxy
 host-suffix, checkgfw.com, proxy
