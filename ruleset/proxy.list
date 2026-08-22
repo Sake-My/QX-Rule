@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-08-21T22:47:48.448Z
+# Generated at: 2026-08-22T22:45:00.942Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -11133,6 +11133,7 @@ host-suffix, hiporn.net, proxy
 host-suffix, hippyhillscomix.com, proxy
 host-suffix, hipzoom.net, proxy
 host-suffix, hiroshimabank.co.jp, proxy
+host-suffix, historylines.net, proxy
 host-suffix, historyofdota.com, proxy
 host-suffix, historyofdota.net, proxy
 host-suffix, historyofdota.org, proxy
@@ -13649,6 +13650,7 @@ host-suffix, kitakyushubank.co.jp, proxy
 host-suffix, kiwi.jp, proxy
 host-suffix, kiwi.kz, proxy
 host-suffix, kiwibrowser.com, proxy
+host-suffix, kiwix.org, proxy
 host-suffix, kiyobank.co.jp, proxy
 host-suffix, kk-whys.co.jp, proxy
 host-suffix, kk.stream, proxy
@@ -14770,6 +14772,7 @@ host-suffix, mcdonalds.se, proxy
 host-suffix, mcdonaldsapps.com, proxy
 host-suffix, mcdonaldsarabia.com, proxy
 host-suffix, mcdonaldsparties.co.nz, proxy
+host-suffix, mceindex.com, proxy
 host-suffix, mcisco.com, proxy
 host-suffix, mcpeaceofmind.com, proxy
 host-suffix, mcrouter.net, proxy

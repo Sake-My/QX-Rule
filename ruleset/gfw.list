@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-08-21T22:47:48.448Z
+# Generated at: 2026-08-22T22:45:00.942Z
 # Source: Loyalsoldier/v2ray-rules-dat release/gfw.txt
 # Description: geosite:gfw
 # Policy: proxy
@@ -1870,6 +1870,7 @@ host-suffix, himalayan-foundation.org, proxy
 host-suffix, himemix.com, proxy
 host-suffix, hindustantimes.com, proxy
 host-suffix, hinet.net, proxy
+host-suffix, historylines.net, proxy
 host-suffix, hitbtc.com, proxy
 host-suffix, hitomi.la, proxy
 host-suffix, hive.blog, proxy
@@ -2212,6 +2213,7 @@ host-suffix, kinmen.org.tw, proxy
 host-suffix, kinmen.travel, proxy
 host-suffix, kinokuniya.com, proxy
 host-suffix, kiwi.kz, proxy
+host-suffix, kiwix.org, proxy
 host-suffix, kk-whys.co.jp, proxy
 host-suffix, kkbox.com, proxy
 host-suffix, kknews.cc, proxy
@@ -2407,6 +2409,7 @@ host-suffix, mattwilcox.net, proxy
 host-suffix, maven.neoforged.net, proxy
 host-suffix, mcadforums.com, proxy
 host-suffix, mcaf.ee, proxy
+host-suffix, mceindex.com, proxy
 host-suffix, mcusercontent.com, proxy
 host-suffix, md-t.org, proxy
 host-suffix, me.me, proxy
@@ -3176,6 +3179,7 @@ host-suffix, savetibet.de, proxy
 host-suffix, savetibet.org, proxy
 host-suffix, savetibetstore.org, proxy
 host-suffix, saveuighur.org, proxy
+host-suffix, sb.sb, proxy
 host-suffix, sbme.me, proxy
 host-suffix, sbti.unun.dev, proxy
 host-suffix, schema.org, proxy
