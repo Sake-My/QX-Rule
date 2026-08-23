@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-08-22T22:45:00.942Z
+# Generated at: 2026-08-23T22:45:09.302Z
 # Source: Loyalsoldier/v2ray-rules-dat release/gfw.txt
 # Description: geosite:gfw
 # Policy: proxy
@@ -228,6 +228,7 @@ host-suffix, api.moomoobull.com, proxy
 host-suffix, api.palworldgame.com, proxy
 host-suffix, api.pureapk.com, proxy
 host-suffix, api.recaptcha.net, proxy
+host-suffix, api.shuaiapi.com, proxy
 host-suffix, api.steampowered.com, proxy
 host-suffix, api5.futunn.com, proxy
 host-suffix, apiary.io, proxy
@@ -4197,6 +4198,7 @@ host-suffix, x.co, proxy
 host-suffix, x.com, proxy
 host-suffix, x.company, proxy
 host-suffix, x3guide.com, proxy
+host-suffix, x86.fr, proxy
 host-suffix, xbabe.com, proxy
 host-suffix, xbookcn.com, proxy
 host-suffix, xbtce.com, proxy
