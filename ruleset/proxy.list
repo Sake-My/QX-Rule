@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-08-25T22:52:03.857Z
+# Generated at: 2026-08-27T03:25:04.893Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -10637,6 +10637,7 @@ host-suffix, h-top.supertop-100.com, proxy
 host-suffix, h-webtoon.com, proxy
 host-suffix, h0930.com, proxy
 host-suffix, h18ani1.vip, proxy
+host-suffix, h264.io, proxy
 host-suffix, h2o.ai, proxy
 host-suffix, h2porn.com, proxy
 host-suffix, h528.com, proxy
@@ -16502,6 +16503,7 @@ host-suffix, nftstatic.com, proxy
 host-suffix, nftstorage.link, proxy
 host-suffix, nga.mil, proxy
 host-suffix, ngeo.com, proxy
+host-suffix, ngfiles.com, proxy
 host-suffix, nginx.com, proxy
 host-suffix, nginx.org, proxy
 host-suffix, nginxconfig.io, proxy
