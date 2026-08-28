@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-08-27T03:25:04.893Z
+# Generated at: 2026-08-28T06:12:22.011Z
 # Source: Loyalsoldier/v2ray-rules-dat release/gfw.txt
 # Description: geosite:gfw
 # Policy: proxy
@@ -4150,6 +4150,7 @@ host-suffix, woyaolian.org, proxy
 host-suffix, wp.com, proxy
 host-suffix, wplace.live, proxy
 host-suffix, wpoforum.com, proxy
+host-suffix, write.as, proxy
 host-suffix, writesonic.com, proxy
 host-suffix, wsj.com, proxy
 host-suffix, wsj.net, proxy
