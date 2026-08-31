@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-08-30T00:29:22.196Z
+# Generated at: 2026-08-31T00:41:52.890Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -9798,6 +9798,7 @@ host-suffix, geti2p.net, proxy
 host-suffix, getlantern.org, proxy
 host-suffix, getmalus.com, proxy
 host-suffix, getmdl.io, proxy
+host-suffix, getmonero.org, proxy
 host-suffix, getnews.jp, proxy
 host-suffix, getoutline.org, proxy
 host-suffix, getpaint.net, proxy
