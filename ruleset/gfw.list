@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-09-04T00:13:18.501Z
+# Generated at: 2026-09-05T00:13:17.723Z
 # Source: Loyalsoldier/v2ray-rules-dat release/gfw.txt
 # Description: geosite:gfw
 # Policy: proxy
@@ -905,6 +905,7 @@ host-suffix, css.pixnet.in, proxy
 host-suffix, csuchen.de, proxy
 host-suffix, csw.org.uk, proxy
 host-suffix, ct.org.tw, proxy
+host-suffix, ctee.com.tw, proxy
 host-suffix, ctinets.com, proxy
 host-suffix, ctinews.com, proxy
 host-suffix, ctinsider.com, proxy
@@ -1889,6 +1890,7 @@ host-suffix, hkcnews.com, proxy
 host-suffix, hkcoc.com, proxy
 host-suffix, hkcoc.weather.com.hk, proxy
 host-suffix, hkdc.us, proxy
+host-suffix, hkej.com, proxy
 host-suffix, hket.com, proxy
 host-suffix, hkfaa.com, proxy
 host-suffix, hkgalden.com, proxy
@@ -2311,6 +2313,7 @@ host-suffix, linkedin.com, proxy
 host-suffix, linktr.ee, proxy
 host-suffix, linux.do, proxy
 host-suffix, linux.org.hk, proxy
+host-suffix, linux.sb, proxy
 host-suffix, liquiditytp.com, proxy
 host-suffix, liquidvpn.com, proxy
 host-suffix, listennotes.com, proxy

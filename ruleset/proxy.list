@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-09-04T00:13:18.501Z
+# Generated at: 2026-09-05T00:13:17.723Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -14054,6 +14054,7 @@ host-suffix, linseysworld.com, proxy
 host-suffix, linux.do, proxy
 host-suffix, linux.org, proxy
 host-suffix, linux.org.hk, proxy
+host-suffix, linux.sb, proxy
 host-suffix, linuxfoundation.org, proxy
 host-suffix, linuxfromscratch.org, proxy
 host-suffix, linuxmint.com, proxy
