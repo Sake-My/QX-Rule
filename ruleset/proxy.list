@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-09-05T00:13:17.723Z
+# Generated at: 2026-09-06T00:03:37.706Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -39,6 +39,8 @@ host-suffix, 114bank.co.jp, proxy
 host-suffix, 119474.xyz, proxy
 host-suffix, 11jav.com, proxy
 host-suffix, 123-hp.com, proxy
+host-suffix, 123av.com, proxy
+host-suffix, 123av.me, proxy
 host-suffix, 123bin.cc, proxy
 host-suffix, 123dapp.com, proxy
 host-suffix, 123dappipad.com, proxy
@@ -19593,6 +19595,7 @@ host-suffix, roboform.com, proxy
 host-suffix, roborecall.com, proxy
 host-suffix, robotoffice.com, proxy
 host-suffix, robustnessiskey.com, proxy
+host-suffix, roc-taiwan.org, proxy
 host-suffix, rocket-inc.net, proxy
 host-suffix, rocket.chat, proxy
 host-suffix, rocketfishproducts.com, proxy
@@ -19637,6 +19640,7 @@ host-suffix, roudao6.buzz, proxy
 host-suffix, roudaosp.cc, proxy
 host-suffix, roughebonysex.com, proxy
 host-suffix, roughman.net, proxy
+host-suffix, roushuwo.com, proxy
 host-suffix, routerboard.com, proxy
 host-suffix, routledgehandbooks.com, proxy
 host-suffix, rowblocks.com, proxy
@@ -21752,6 +21756,7 @@ host-suffix, taipeisociety.org, proxy
 host-suffix, taipeitimes.com, proxy
 host-suffix, taisounds.com, proxy
 host-suffix, taiwanadultexpo.com, proxy
+host-suffix, taiwanembassy.org, proxy
 host-suffix, taiwanhot.net, proxy
 host-suffix, taiwanjustice.net, proxy
 host-suffix, taiwanncf.org.tw, proxy
@@ -24796,6 +24801,7 @@ host-suffix, wsjmediakit.com, proxy
 host-suffix, wsjplus.com, proxy
 host-suffix, wsjshop.com, proxy
 host-suffix, wsjwine.com, proxy
+host-suffix, wtfpass.com, proxy
 host-suffix, wtfpeople.com, proxy
 host-suffix, wtmobile.com, proxy
 host-suffix, wto.org, proxy
