@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-09-06T00:03:37.706Z
+# Generated at: 2026-09-07T00:07:35.481Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -26603,6 +26603,7 @@ host, img-prod-cms-rt-microsoft-com.akamaized.net, proxy
 host, img-s-msn-com.akamaized.net, proxy
 host, impala-media-production.s3.amazonaws.com, proxy
 host, imperial.insendi.com, proxy
+host, lastfm-img.freetls.fastly.net, proxy
 host, lastfm.freetls.fastly.net, proxy
 host, lazer.ppy.sh, proxy
 host, lgcscc-hamivideo2.cdn.hinet.net, proxy
