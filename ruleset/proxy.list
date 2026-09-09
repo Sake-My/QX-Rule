@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-09-08T00:34:08.738Z
+# Generated at: 2026-09-09T00:23:44.625Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -16818,6 +16818,7 @@ host-suffix, nodejs.org, proxy
 host-suffix, nodequality.com, proxy
 host-suffix, nodereal.io, proxy
 host-suffix, nodeseek.com, proxy
+host-suffix, nodeseek.org, proxy
 host-suffix, nodesource.com, proxy
 host-suffix, noisullifb.com, proxy
 host-suffix, nokiantyres.com, proxy
