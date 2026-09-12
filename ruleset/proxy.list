@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-09-11T00:18:20.187Z
+# Generated at: 2026-09-12T00:25:25.945Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -19064,6 +19064,7 @@ host-suffix, qstatus.com, proxy
 host-suffix, qt-project.org, proxy
 host-suffix, qt.io, proxy
 host-suffix, qtrac.eu, proxy
+host-suffix, quakemachinex.com, proxy
 host-suffix, qualcomm-email.com, proxy
 host-suffix, qualcomm-inc.com, proxy
 host-suffix, qualcomm.co.id, proxy

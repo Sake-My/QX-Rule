@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-09-11T00:18:20.187Z
+# Generated at: 2026-09-12T00:25:25.945Z
 # Source: Loyalsoldier/v2ray-rules-dat release/gfw.txt
 # Description: geosite:gfw
 # Policy: proxy
@@ -220,19 +220,15 @@ host-suffix, aoxvpn.com, proxy
 host-suffix, apartmentratings.com, proxy
 host-suffix, apartments.com, proxy
 host-suffix, apat1989.org, proxy
-host-suffix, api-gl.lbkrs.com, proxy
 host-suffix, api-secure.recaptcha.net, proxy
 host-suffix, api-verify.recaptcha.net, proxy
 host-suffix, api.ai, proxy
-host-suffix, api.futunn.com, proxy
-host-suffix, api.lbkrs.com, proxy
 host-suffix, api.moomoobull.com, proxy
 host-suffix, api.palworldgame.com, proxy
 host-suffix, api.pureapk.com, proxy
 host-suffix, api.recaptcha.net, proxy
 host-suffix, api.shuaiapi.com, proxy
 host-suffix, api.steampowered.com, proxy
-host-suffix, api5.futunn.com, proxy
 host-suffix, apiary.io, proxy
 host-suffix, apigee.com, proxy
 host-suffix, apk.support, proxy
@@ -676,7 +672,6 @@ host-suffix, cdjp.org, proxy
 host-suffix, cdn-images.mailchimp.com, proxy
 host-suffix, cdn-telegram.org, proxy
 host-suffix, cdn.arstechnica.net, proxy
-host-suffix, cdn.futustatic.com, proxy
 host-suffix, cdn.jwplayer.com, proxy
 host-suffix, cdn.printfriendly.com, proxy
 host-suffix, cdn.seatguru.com, proxy
@@ -826,7 +821,6 @@ host-suffix, cn.fmnnow.com, proxy
 host-suffix, cn.sandscotaicentral.com, proxy
 host-suffix, cn.shafaqna.com, proxy
 host-suffix, cn.theaustralian.com.au, proxy
-host-suffix, cn.uptodown.com, proxy
 host-suffix, cna.com.tw, proxy
 host-suffix, cnbbnews.wordpress.com, proxy
 host-suffix, cnbeta.com.tw, proxy
@@ -1055,7 +1049,6 @@ host-suffix, dougscripts.com, proxy
 host-suffix, doujincafe.com, proxy
 host-suffix, dowjones.io, proxy
 host-suffix, download.dappcdn.com, proxy
-host-suffix, download.futunn.com, proxy
 host-suffix, dpool.top, proxy
 host-suffix, dpp.org.tw, proxy
 host-suffix, dpr.info, proxy
@@ -2371,7 +2364,6 @@ host-suffix, lvv2.com, proxy
 host-suffix, lyfhk.net, proxy
 host-suffix, lzjscript.com, proxy
 host-suffix, lzmtnews.org, proxy
-host-suffix, m.hkgalden.com, proxy
 host-suffix, m.me, proxy
 host-suffix, m.moegirl.org, proxy
 host-suffix, macgamestore.com, proxy
@@ -2780,12 +2772,8 @@ host-suffix, ooni.org, proxy
 host-suffix, open.firstory.me, proxy
 host-suffix, openai.com, proxy
 host-suffix, openapi-quote.longbridge.cn, proxy
-host-suffix, openapi-quote.longbridge.com, proxy
 host-suffix, openapi-trade.longbridge.cn, proxy
-host-suffix, openapi-trade.longbridge.com, proxy
-host-suffix, openapi.futunn.com, proxy
 host-suffix, openapi.longbridge.cn, proxy
-host-suffix, openapi.longbridge.com, proxy
 host-suffix, openart.ai, proxy
 host-suffix, opencritic.com, proxy
 host-suffix, opendemocracy.net, proxy
@@ -3041,9 +3029,8 @@ host-suffix, qmp4.com, proxy
 host-suffix, qoos.com, proxy
 host-suffix, qq.co.za, proxy
 host-suffix, qstatus.com, proxy
-host-suffix, qtcard.futunn.com, proxy
-host-suffix, qtcardfthk.futufin.com, proxy
 host-suffix, qtrac.eu, proxy
+host-suffix, quakemachinex.com, proxy
 host-suffix, questvisual.com, proxy
 host-suffix, quitccp.org, proxy
 host-suffix, quiz.directory, proxy
@@ -3448,7 +3435,6 @@ host-suffix, superpages.com, proxy
 host-suffix, supervpn.net, proxy
 host-suffix, superzooi.com, proxy
 host-suffix, supjav.com, proxy
-host-suffix, support.futunn.com, proxy
 host-suffix, supremecourt.gov, proxy
 host-suffix, suprememastertv.com, proxy
 host-suffix, surfeasy.com, proxy
@@ -3712,8 +3698,6 @@ host-suffix, totalvpn.com, proxy
 host-suffix, tou.tv, proxy
 host-suffix, tpi.org.tw, proxy
 host-suffix, tracfone.com, proxy
-host-suffix, trade.futunn.com, proxy
-host-suffix, trade.longportapp.com, proxy
 host-suffix, tradeup.com, proxy
 host-suffix, tradingview.com, proxy
 host-suffix, translate.goog, proxy
