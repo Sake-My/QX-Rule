@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-09-15T00:44:46.252Z
+# Generated at: 2026-09-16T00:36:12.414Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -21482,6 +21482,9 @@ host-suffix, stripcamfun.com, proxy
 host-suffix, stripchat.com, proxy
 host-suffix, stripe-terminal-local-reader.net, proxy
 host-suffix, stripe.com, proxy
+host-suffix, stripe.dev, proxy
+host-suffix, stripe.events, proxy
+host-suffix, stripe.global, proxy
 host-suffix, stripe.network, proxy
 host-suffix, stripecdn.com, proxy
 host-suffix, stripparadise.com, proxy
@@ -26690,6 +26693,7 @@ host, opgg-static.akamaized.net, proxy
 host, origin-a.akamaihd.net, proxy
 host, osu.ppy.sh, proxy
 host, p-events-delivery.akamaized.net, proxy
+host, p16-tiktok-dm-sticker-sign-sg.ibyteimg.com, proxy
 host, p16-tiktokcdn-com.akamaized.net, proxy
 host, packages.microsoft.com, proxy
 host, paper-attachments.s3.amazonaws.com, proxy
