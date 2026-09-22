@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-09-21T00:20:41.392Z
+# Generated at: 2026-09-22T00:58:04.466Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -5389,6 +5389,7 @@ host-suffix, chinesedemocracy.com, proxy
 host-suffix, chinesegay.org, proxy
 host-suffix, chinesen.de, proxy
 host-suffix, chinesenews.net.au, proxy
+host-suffix, chineseposters.net, proxy
 host-suffix, chineseradioseattle.com, proxy
 host-suffix, chinesespanking.com, proxy
 host-suffix, chineseupress.com, proxy
@@ -16848,6 +16849,7 @@ host-suffix, nordvpn.com, proxy
 host-suffix, norsk.mobi, proxy
 host-suffix, norton.com, proxy
 host-suffix, nos.nl, proxy
+host-suffix, note.com, proxy
 host-suffix, notegpt.io, proxy
 host-suffix, notepad-plus-plus.org, proxy
 host-suffix, noticias-rt.com, proxy
