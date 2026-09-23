@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-09-22T00:58:04.466Z
+# Generated at: 2026-09-23T00:48:03.650Z
 # Source: Loyalsoldier/v2ray-rules-dat release/direct-list.txt
 # Description: geosite:cn
 # Policy: direct
@@ -82104,6 +82104,7 @@ host-suffix, sjez.com, direct
 host-suffix, sjf029.com, direct
 host-suffix, sjfcdn.com, direct
 host-suffix, sjfh168.com, direct
+host-suffix, sjfls6.com, direct
 host-suffix, sjfpro.com, direct
 host-suffix, sjfzxm.com, direct
 host-suffix, sjg8.com, direct
@@ -110790,6 +110791,7 @@ host, download.visualstudio.microsoft.com, direct
 host, downloaddispatch.itunes.apple.com, direct
 host, dreamspark.download.prss.microsoft.com, direct
 host, dreamsparkuat.download.prss.microsoft.com, direct
+host, drivers.amd.com, direct
 host, edge.geo.kaspersky.com, direct
 host, end-api.shallow.ink, direct
 host, end.shallow.ink, direct
