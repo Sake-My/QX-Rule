@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-09-26T00:43:48.931Z
+# Generated at: 2026-09-27T00:44:29.352Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -4772,6 +4772,7 @@ host-suffix, c-ij.com, proxy
 host-suffix, c-msedge.net, proxy
 host-suffix, c-span.org, proxy
 host-suffix, c-spanvideo.org, proxy
+host-suffix, c.go-mpulse.net, proxy
 host-suffix, c.mi.com, proxy
 host-suffix, c0930.com, proxy
 host-suffix, c2cx.com, proxy
@@ -23316,6 +23317,7 @@ host-suffix, vaultify.com, proxy
 host-suffix, vaultify.info, proxy
 host-suffix, vaultify.net, proxy
 host-suffix, vaultproject.io, proxy
+host-suffix, vava8.com, proxy
 host-suffix, vbcdn.com, proxy
 host-suffix, vbcdn.net, proxy
 host-suffix, vbejeyv.shop, proxy

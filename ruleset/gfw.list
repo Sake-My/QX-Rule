@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-09-26T00:43:48.931Z
+# Generated at: 2026-09-27T00:44:29.352Z
 # Source: Loyalsoldier/v2ray-rules-dat release/gfw.txt
 # Description: geosite:gfw
 # Policy: proxy
@@ -615,6 +615,7 @@ host-suffix, byrut.org, proxy
 host-suffix, c-est-simple.com, proxy
 host-suffix, c-span.org, proxy
 host-suffix, c-spanvideo.org, proxy
+host-suffix, c.go-mpulse.net, proxy
 host-suffix, c.mi.com, proxy
 host-suffix, c2cx.com, proxy
 host-suffix, c3pool.com, proxy
@@ -3028,6 +3029,7 @@ host-suffix, qiangyou.org, proxy
 host-suffix, qianmo.tw, proxy
 host-suffix, qiwen.lu, proxy
 host-suffix, qmp4.com, proxy
+host-suffix, qobuz.com, proxy
 host-suffix, qoos.com, proxy
 host-suffix, qq.co.za, proxy
 host-suffix, qstatus.com, proxy
@@ -3906,6 +3908,7 @@ host-suffix, valeursactuelles.com, proxy
 host-suffix, vansky.com, proxy
 host-suffix, vaticannews.va, proxy
 host-suffix, vatn.org, proxy
+host-suffix, vava8.com, proxy
 host-suffix, vcf-online.org, proxy
 host-suffix, vcfbuilder.org, proxy
 host-suffix, veed.io, proxy
