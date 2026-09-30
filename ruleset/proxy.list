@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-09-29T02:07:37.234Z
+# Generated at: 2026-09-30T01:22:49.767Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -11640,6 +11640,7 @@ host-suffix, huanyuju.com, proxy
 host-suffix, huaren.us, proxy
 host-suffix, huarenav.com, proxy
 host-suffix, huarenporn.com, proxy
+host-suffix, huarun.win, proxy
 host-suffix, huashangnews.com, proxy
 host-suffix, huashundg.com, proxy
 host-suffix, huati.cc, proxy
@@ -14922,6 +14923,7 @@ host-suffix, messytube.com, proxy
 host-suffix, met-nude.com, proxy
 host-suffix, meta.ai, proxy
 host-suffix, meta.com, proxy
+host-suffix, metaaivm.com, proxy
 host-suffix, metabora.io, proxy
 host-suffix, metabrainz.org, proxy
 host-suffix, metacloud.com, proxy
@@ -15931,6 +15933,7 @@ host-suffix, musashinobank.co.jp, proxy
 host-suffix, muscache.com, proxy
 host-suffix, muscdn.com, proxy
 host-suffix, musclegirlflix.com, proxy
+host-suffix, muse.ai, proxy
 host-suffix, mushroomtrack.com, proxy
 host-suffix, mushymush.tv, proxy
 host-suffix, musical.ly, proxy
@@ -17398,6 +17401,7 @@ host-suffix, openart.ai, proxy
 host-suffix, openbook.org.tw, proxy
 host-suffix, opencas.io, proxy
 host-suffix, openclaw.ai, proxy
+host-suffix, opencode.ai, proxy
 host-suffix, opencollective.com, proxy
 host-suffix, opencreate.org, proxy
 host-suffix, opencritic.com, proxy
@@ -26580,6 +26584,8 @@ host, foxnewsplayer-a.akamaihd.net, proxy
 host, gamedownloads-rockstargames-com.akamaized.net, proxy
 host, gamer-cds.cdn.hinet.net, proxy
 host, gamer2-cds.cdn.hinet.net, proxy
+host, geminiweb-pa.clients.google.com, proxy
+host, geminiweb-pa.clients6.google.com, proxy
 host, gigabyte2.azureedge.net, proxy
 host, github-api.arkoselabs.com, proxy
 host, github-cloud.s3.amazonaws.com, proxy
