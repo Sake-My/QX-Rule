@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-10-01T01:22:49.196Z
+# Generated at: 2026-10-02T01:44:16.633Z
 # Source: Loyalsoldier/v2ray-rules-dat release/gfw.txt
 # Description: geosite:gfw
 # Policy: proxy
@@ -4012,6 +4012,7 @@ host-suffix, waffle1999.com, proxy
 host-suffix, wainao.me, proxy
 host-suffix, walletconnect.com, proxy
 host-suffix, walletconnect.org, proxy
+host-suffix, wallhaven.cc, proxy
 host-suffix, wallmama.com, proxy
 host-suffix, wallpapercasa.com, proxy
 host-suffix, wallsttv.com, proxy
