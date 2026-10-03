@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-10-02T01:44:16.633Z
+# Generated at: 2026-10-03T01:15:59.220Z
 # Source: Loyalsoldier/v2ray-rules-dat release/gfw.txt
 # Description: geosite:gfw
 # Policy: proxy
@@ -3271,6 +3271,7 @@ host-suffix, simpleswap.io, proxy
 host-suffix, simplex.chat, proxy
 host-suffix, sina.com.hk, proxy
 host-suffix, sinchew.com.my, proxy
+host-suffix, sing-box.sagernet.org, proxy
 host-suffix, singaporepools.com.sg, proxy
 host-suffix, singlelogin.se, proxy
 host-suffix, singtao.com, proxy
