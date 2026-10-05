@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-10-04T01:45:04.963Z
+# Generated at: 2026-10-05T01:04:39.354Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -10424,6 +10424,7 @@ host-suffix, googleoptimize.com, proxy
 host-suffix, googlepagecreator.com, proxy
 host-suffix, googlephotos.com, proxy
 host-suffix, googleplay.com, proxy
+host-suffix, googleplaycensorship.com, proxy
 host-suffix, googleplus.com, proxy
 host-suffix, googlescholar.com, proxy
 host-suffix, googlesource.com, proxy
