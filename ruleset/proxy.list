@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-10-07T01:41:27.489Z
+# Generated at: 2026-10-08T02:08:31.043Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -14875,6 +14875,7 @@ host-suffix, meetyourdevices.com, proxy
 host-suffix, mega.co.nz, proxy
 host-suffix, mega.io, proxy
 host-suffix, mega.nz, proxy
+host-suffix, megaad.nz, proxy
 host-suffix, megacamz.com, proxy
 host-suffix, megaeth.com, proxy
 host-suffix, megafilmporno.com, proxy
@@ -14885,11 +14886,13 @@ host-suffix, megalodon.jp, proxy
 host-suffix, megamarket.ru, proxy
 host-suffix, megamarket.tech, proxy
 host-suffix, megamon.co.kr, proxy
+host-suffix, megapay.nz, proxy
 host-suffix, megaphone.fm, proxy
 host-suffix, megapornfreehd.com, proxy
 host-suffix, megaporno.com.br, proxy
 host-suffix, megapornpics.com, proxy
 host-suffix, megaproxy.com, proxy
+host-suffix, megas4.com, proxy
 host-suffix, megasrv.de, proxy
 host-suffix, megatitsminka.com, proxy
 host-suffix, megogo.net, proxy
@@ -22615,6 +22618,7 @@ host-suffix, trans500.com, proxy
 host-suffix, transangels.com, proxy
 host-suffix, transarmuito.com, proxy
 host-suffix, transcamslive.com, proxy
+host-suffix, transfer.it, proxy
 host-suffix, transferwise.com, proxy
 host-suffix, translatetheweb.com, proxy
 host-suffix, translatewiki.net, proxy
