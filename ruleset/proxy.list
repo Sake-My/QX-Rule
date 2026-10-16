@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-10-15T00:39:45.104Z
+# Generated at: 2026-10-16T00:31:17.819Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -18339,6 +18339,7 @@ host-suffix, playshowtv.com, proxy
 host-suffix, playstation, proxy
 host-suffix, playstation.com, proxy
 host-suffix, playstation.net, proxy
+host-suffix, playstationnetwork.com, proxy
 host-suffix, playvalorant.com, proxy
 host-suffix, playvids.com, proxy
 host-suffix, playwarcraft3.com, proxy
@@ -20099,6 +20100,7 @@ host-suffix, scatvids.club, proxy
 host-suffix, scatville.com, proxy
 host-suffix, scb.ru, proxy
 host-suffix, scdn.co, proxy
+host-suffix, scea.com, proxy
 host-suffix, scene7.com, proxy
 host-suffix, scenesource.me, proxy
 host-suffix, scharferporno.com, proxy
@@ -21063,6 +21065,7 @@ host-suffix, sony.com.ni, proxy
 host-suffix, sony.com.pa, proxy
 host-suffix, sony.com.pe, proxy
 host-suffix, sony.com.ph, proxy
+host-suffix, sony.com.py, proxy
 host-suffix, sony.com.sg, proxy
 host-suffix, sony.com.sv, proxy
 host-suffix, sony.com.tr, proxy
@@ -21106,8 +21109,10 @@ host-suffix, sonydesign.com, proxy
 host-suffix, sonydna.com, proxy
 host-suffix, sonyentertainmentnetwork.com, proxy
 host-suffix, sonyglobalsolutions.jp, proxy
+host-suffix, sonyinteractive.com, proxy
 host-suffix, sonykigyo.jp, proxy
 host-suffix, sonylatvija.com, proxy
+host-suffix, sonymusic.com.hk, proxy
 host-suffix, sonynetwork.co.jp, proxy
 host-suffix, sonypcl.jp, proxy
 host-suffix, sonypictures.com, proxy
