@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-10-16T00:31:17.819Z
+# Generated at: 2026-10-17T00:38:28.388Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -493,6 +493,7 @@ host-suffix, 7mmtv.tv, proxy
 host-suffix, 7tb.cc, proxy
 host-suffix, 7tv.app, proxy
 host-suffix, 7tv.io, proxy
+host-suffix, 7x24hrs.com, proxy
 host-suffix, 8-d.com, proxy
 host-suffix, 8008206616.com, proxy
 host-suffix, 8111y.top, proxy
