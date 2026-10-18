@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-10-17T00:38:28.388Z
+# Generated at: 2026-10-18T00:07:18.853Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -6137,6 +6137,7 @@ host-suffix, cursor-cdn.com, proxy
 host-suffix, cursor.com, proxy
 host-suffix, cursor.sh, proxy
 host-suffix, cursorapi.com, proxy
+host-suffix, cursorvm.com, proxy
 host-suffix, curve.fi, proxy
 host-suffix, curvefish.com, proxy
 host-suffix, curvybbwwives.com, proxy
@@ -17475,6 +17476,7 @@ host-suffix, op7979.com, proxy
 host-suffix, opac-project.eu, proxy
 host-suffix, open.firstory.me, proxy
 host-suffix, openai.com, proxy
+host-suffix, openai.org, proxy
 host-suffix, openamt.com, proxy
 host-suffix, openapiplatform.com, proxy
 host-suffix, openapiservice.com, proxy
@@ -20115,6 +20117,7 @@ host-suffix, schwab.com.cn, proxy
 host-suffix, schwab.com.hk, proxy
 host-suffix, schwab.com.sg, proxy
 host-suffix, schwabassetmanagement.com, proxy
+host-suffix, schwabcdn.com, proxy
 host-suffix, schwabplan.com, proxy
 host-suffix, sci-hub.ee, proxy
 host-suffix, sci-hub.it.nf, proxy
@@ -22474,6 +22477,8 @@ host-suffix, timesofindia.indiatimes.com, proxy
 host-suffix, timestalks.com, proxy
 host-suffix, timeweb.cloud, proxy
 host-suffix, timeweb.com, proxy
+host-suffix, timeweb.tech, proxy
+host-suffix, timewebcloud.kz, proxy
 host-suffix, timi1.me, proxy
 host-suffix, timo0.com, proxy
 host-suffix, timtales.com, proxy
@@ -23051,6 +23056,7 @@ host-suffix, typekit.com, proxy
 host-suffix, typekit.net, proxy
 host-suffix, typenetwork.com, proxy
 host-suffix, typepad.com, proxy
+host-suffix, typesafe.ai, proxy
 host-suffix, typeset.io, proxy
 host-suffix, typesquare.com, proxy
 host-suffix, typography.com, proxy
