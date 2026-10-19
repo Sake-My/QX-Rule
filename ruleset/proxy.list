@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-10-18T00:07:18.853Z
+# Generated at: 2026-10-19T00:19:00.509Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -2373,7 +2373,6 @@ host-suffix, asminternational.org, proxy
 host-suffix, asmr.gay, proxy
 host-suffix, asmrbuluo.com, proxy
 host-suffix, asn-online.org, proxy
-host-suffix, asobostudio.com, proxy
 host-suffix, asp-cc.com, proxy
 host-suffix, asp.net, proxy
 host-suffix, aspbjournals.org, proxy
@@ -3359,8 +3358,15 @@ host-suffix, beevpn.com, proxy
 host-suffix, beforeigners.com, proxy
 host-suffix, befuck.com, proxy
 host-suffix, befuck.net, proxy
+host-suffix, beget.app, proxy
+host-suffix, beget.cloud, proxy
 host-suffix, beget.com, proxy
+host-suffix, beget.de, proxy
+host-suffix, beget.hosting, proxy
+host-suffix, beget.pro, proxy
 host-suffix, beget.ru, proxy
+host-suffix, beget.tech, proxy
+host-suffix, begetcdn.cloud, proxy
 host-suffix, begin-trade.com, proxy
 host-suffix, behance.net, proxy
 host-suffix, behindthescreenz.com, proxy
@@ -3393,6 +3399,7 @@ host-suffix, berlincompanions.com, proxy
 host-suffix, berlinerbericht.de, proxy
 host-suffix, berlintwitterwall.com, proxy
 host-suffix, beru.ru, proxy
+host-suffix, beserver.ru, proxy
 host-suffix, best-sex-games.com, proxy
 host-suffix, best2pay.net, proxy
 host-suffix, best4bim.com, proxy
@@ -3503,6 +3510,7 @@ host-suffix, bfads.net, proxy
 host-suffix, bffshd.com, proxy
 host-suffix, bfnn.org, proxy
 host-suffix, bfsh.hk, proxy
+host-suffix, bget.ru, proxy
 host-suffix, bgicdn.com, proxy
 host-suffix, bgm.tv, proxy
 host-suffix, bgme.me, proxy
@@ -8970,7 +8978,6 @@ host-suffix, flic.kr, proxy
 host-suffix, flickr, proxy
 host-suffix, flickr.com, proxy
 host-suffix, flickr.net, proxy
-host-suffix, flightsimulator.com, proxy
 host-suffix, flipboard.com, proxy
 host-suffix, flipfap.com, proxy
 host-suffix, flipkart.com, proxy
@@ -19078,6 +19085,7 @@ host-suffix, pussyspace.com, proxy
 host-suffix, pussyspace.net, proxy
 host-suffix, putinho.net, proxy
 host-suffix, putty.org, proxy
+host-suffix, pv-cdn.net, proxy
 host-suffix, pvp.net, proxy
 host-suffix, pvp.tv, proxy
 host-suffix, pvt.sexy, proxy
@@ -21268,6 +21276,7 @@ host-suffix, springernature.com, proxy
 host-suffix, springwood.me, proxy
 host-suffix, sprinklesapp.com, proxy
 host-suffix, sproutcore.com, proxy
+host-suffix, sprut.io, proxy
 host-suffix, sptvbroadcast.com, proxy
 host-suffix, sputnikglobe.com, proxy
 host-suffix, sputnikimages.com, proxy
@@ -25250,6 +25259,7 @@ host-suffix, xn--8uq428d76d.tokyo, proxy
 host-suffix, xn--90ab.com, proxy
 host-suffix, xn--90ab2c.xn--p1ai, proxy
 host-suffix, xn--90absjljw3g.xn--p1ai, proxy
+host-suffix, xn--90aefb9d.xn--p1ai, proxy
 host-suffix, xn--90aifd0az.shop, proxy
 host-suffix, xn--90aifd0azb.xn--p1acf, proxy
 host-suffix, xn--90wwvt03e.com, proxy
@@ -26633,6 +26643,7 @@ host, d2vjef5jvl6bfs.cloudfront.net, proxy
 host, d2xmjdvx03ij56.cloudfront.net, proxy
 host, d31dormfno8pk4.cloudfront.net, proxy
 host, d33wubrfki0l68.cloudfront.net, proxy
+host, d348twzf7a8p5.cloudfront.net, proxy
 host, d36nr0u3xmc4mm.cloudfront.net, proxy
 host, d3aqoihi2n8ty8.cloudfront.net, proxy
 host, d3c27h4odz752x.cloudfront.net, proxy
@@ -26657,6 +26668,7 @@ host, deribit.cdn.prismic.io, proxy
 host, deutschewelle.h-cdn.com, proxy
 host, developer.microsoft.com, proxy
 host, developers.facebook.com, proxy
+host, devforum-uploads.s3.dualstack.us-east-2.amazonaws.com, proxy
 host, dfp6rglgjqszk.cloudfront.net, proxy
 host, dgeft87wbj63p.cloudfront.net, proxy
 host, discord-attachments-uploads-prd.storage.googleapis.com, proxy
@@ -26667,6 +26679,7 @@ host, dlmobilegarena-a.akamaihd.net, proxy
 host, dmqdd6hw24ucf.cloudfront.net, proxy
 host, docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com, proxy
 host, docker-pinata-support.s3.amazonaws.com, proxy
+host, doy2mn9upadnk.cloudfront.net, proxy
 host, dqd0jw5gvbchn.cloudfront.net, proxy
 host, dqrpb9wgowsf5.cloudfront.net, proxy
 host, ds-linear-abematv.akamaized.net, proxy
@@ -26714,7 +26727,6 @@ host, firebaselogging.googleapis.com, proxy
 host, firebaseperusertopics-pa.googleapis.com, proxy
 host, firebaseremoteconfig.googleapis.com, proxy
 host, firstsearch.oclc.org, proxy
-host, flightsimulator.azureedge.net, proxy
 host, fontshop-prod-responsive-images.s3.amazonaws.com, proxy
 host, foxnewsplayer-a.akamaihd.net, proxy
 host, gamedownloads-rockstargames-com.akamaized.net, proxy
