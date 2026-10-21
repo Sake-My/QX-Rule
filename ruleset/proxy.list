@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-10-20T01:07:36.319Z
+# Generated at: 2026-10-21T00:42:37.489Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -2690,8 +2690,10 @@ host-suffix, avinetworks.com, proxy
 host-suffix, avinin.com, proxy
 host-suffix, avira.com, proxy
 host-suffix, avistaz.to, proxy
+host-suffix, avito.com, proxy
 host-suffix, avito.ru, proxy
 host-suffix, avito.st, proxy
+host-suffix, avito.tech, proxy
 host-suffix, avizoon.site, proxy
 host-suffix, avizoone.com, proxy
 host-suffix, avjb.com, proxy

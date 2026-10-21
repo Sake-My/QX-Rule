@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-10-20T01:07:36.319Z
+# Generated at: 2026-10-21T00:42:37.489Z
 # Source: Loyalsoldier/v2ray-rules-dat release/direct-list.txt
 # Description: geosite:cn
 # Policy: direct
@@ -85249,6 +85249,8 @@ host-suffix, sztxsz.com, direct
 host-suffix, szty56.com, direct
 host-suffix, sztz.org, direct
 host-suffix, sztzzs.com, direct
+host-suffix, szu.app, direct
+host-suffix, szu.moe, direct
 host-suffix, szuavia.org, direct
 host-suffix, szudad.com, direct
 host-suffix, szunionlab.com, direct
