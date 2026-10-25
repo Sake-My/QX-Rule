@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-10-24T00:52:44.675Z
+# Generated at: 2026-10-25T00:25:20.049Z
 # Source: Loyalsoldier/v2ray-rules-dat release/direct-list.txt
 # Description: geosite:cn
 # Policy: direct
@@ -19129,6 +19129,7 @@ host-suffix, cdqszz.com, direct
 host-suffix, cdqz.net, direct
 host-suffix, cdrbs.net, direct
 host-suffix, cdrcb.com, direct
+host-suffix, cdrcbank.com, direct
 host-suffix, cdren.net, direct
 host-suffix, cdrich.com, direct
 host-suffix, cdrjob.com, direct
@@ -24994,6 +24995,7 @@ host-suffix, cqyxzz.com, direct
 host-suffix, cqyygz.com, direct
 host-suffix, cqyyjc.com, direct
 host-suffix, cqyysx.com, direct
+host-suffix, cqyyxc.com, direct
 host-suffix, cqyyzy.com, direct
 host-suffix, cqyznews.com, direct
 host-suffix, cqzbcg.com, direct
@@ -48503,6 +48505,7 @@ host-suffix, ibaitiao.com, direct
 host-suffix, ibaizhu.com, direct
 host-suffix, ibanana.club, direct
 host-suffix, ibanbu.com, direct
+host-suffix, ibangbank.com, direct
 host-suffix, ibanggo.com, direct
 host-suffix, ibangkf.com, direct
 host-suffix, ibangtiao.com, direct
@@ -50574,6 +50577,7 @@ host-suffix, ishuw.com, direct
 host-suffix, isi-gf.com, direct
 host-suffix, isiabio.com, direct
 host-suffix, isign.ren, direct
+host-suffix, isigning.com, direct
 host-suffix, isigu.com, direct
 host-suffix, isilent.me, direct
 host-suffix, isilicontech.com, direct
@@ -64951,7 +64955,6 @@ host-suffix, moeelf.com, direct
 host-suffix, moefactory.com, direct
 host-suffix, moefantasy.com, direct
 host-suffix, moefou.org, direct
-host-suffix, moegirl.org, direct
 host-suffix, moegirl.tw, direct
 host-suffix, moehot.com, direct
 host-suffix, moehu.org, direct
@@ -66384,6 +66387,7 @@ host-suffix, nanningyouhua.com, direct
 host-suffix, nannjlnk.com, direct
 host-suffix, nanobody-biolab.com, direct
 host-suffix, nanochrom.com, direct
+host-suffix, nanocorechip.com, direct
 host-suffix, nanoeast.net, direct
 host-suffix, nanoer.net, direct
 host-suffix, nanoinglobal.com, direct
@@ -109720,6 +109724,7 @@ host, app-analytics-services.com, direct
 host, app-measurement-cn.com, direct
 host, app-measurement.com, direct
 host, app-site-association.cdn-apple.com, direct
+host, app.moegirl.org.cn, direct
 host, appldnld.apple.com, direct
 host, appldnld.g.aaplimg.com, direct
 host, appleid.cdn-apple.com, direct
@@ -110168,6 +110173,7 @@ host, statics.teams.cdn.office.net, direct
 host, status.alibabacloud.com, direct
 host, stocks-sparkline-lb.apple.com.akadns.net, direct
 host, stocks-sparkline.apple.com, direct
+host, storage.moegirl.org.cn, direct
 host, store.apple.com, direct
 host, store.apple.com.edgekey.net, direct
 host, store.apple.com.edgekey.net.globalredir.akadns.net, direct
