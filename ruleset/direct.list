@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-10-27T01:33:11.443Z
+# Generated at: 2026-10-28T01:30:29.568Z
 # Source: Loyalsoldier/v2ray-rules-dat release/direct-list.txt
 # Description: geosite:cn
 # Policy: direct
@@ -60860,8 +60860,6 @@ host-suffix, long7.com, direct
 host-suffix, longanlaw.com, direct
 host-suffix, longau.com, direct
 host-suffix, longbenren.com, direct
-host-suffix, longbridgeapp.com, direct
-host-suffix, longbridgehk.com, direct
 host-suffix, longcai.com, direct
 host-suffix, longcai027.com, direct
 host-suffix, longcat.chat, direct
@@ -110157,7 +110155,9 @@ host, seed.siri.apple.com, direct
 host, sequoia.apple.com, direct
 host, service.urchin.com, direct
 host, sf-api-token-service.itunes.apple.com, direct
+host, sh-pod1-smp-device.apple.com, direct
 host, sh-pod2-smp-device.apple.com, direct
+host, sh-pod3-smp-device.apple.com, direct
 host, shazam-insights.cdn-apple.com, direct
 host, shell.cdn.office.net, direct
 host, smp-device-content.apple.com, direct
