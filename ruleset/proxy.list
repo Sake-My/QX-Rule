@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-10-28T01:30:29.568Z
+# Generated at: 2026-10-29T01:53:04.748Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -13029,6 +13029,7 @@ host-suffix, ius.io, proxy
 host-suffix, iutunes.com, proxy
 host-suffix, ivacy.com, proxy
 host-suffix, ivi.ru, proxy
+host-suffix, ivi.tv, proxy
 host-suffix, ivicdn.tv, proxy
 host-suffix, ivintageporn.com, proxy
 host-suffix, ivonblog.com, proxy
