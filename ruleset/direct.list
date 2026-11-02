@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-11-01T01:18:32.408Z
+# Generated at: 2026-11-02T01:39:32.917Z
 # Source: Loyalsoldier/v2ray-rules-dat release/direct-list.txt
 # Description: geosite:cn
 # Policy: direct
@@ -17103,6 +17103,7 @@ host-suffix, busnc.com, direct
 host-suffix, bustoprint.com, direct
 host-suffix, bustruckexpo.com, direct
 host-suffix, busuanzi.cc, direct
+host-suffix, busyming.com, direct
 host-suffix, but7.com, direct
 host-suffix, butair.com, direct
 host-suffix, butao.com, direct
@@ -29111,6 +29112,7 @@ host-suffix, doubaninfo.com, direct
 host-suffix, doubanio.com, direct
 host-suffix, doubao-dev.com, direct
 host-suffix, doubao.com, direct
+host-suffix, doubaoapps.com, direct
 host-suffix, doubaocdn.com, direct
 host-suffix, doubaozhidao.com, direct
 host-suffix, doubean.com, direct
@@ -109360,6 +109362,7 @@ host-suffix, zylianto.com, direct
 host-suffix, zymc1.com, direct
 host-suffix, zymkcdn.com, direct
 host-suffix, zymkshop.com, direct
+host-suffix, zymls.com, direct
 host-suffix, zyoffice.com, direct
 host-suffix, zyoo.net, direct
 host-suffix, zyoogame.com, direct
