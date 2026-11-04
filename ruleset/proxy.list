@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-11-03T03:32:14.188Z
+# Generated at: 2026-11-04T02:30:07.697Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -3373,6 +3373,7 @@ host-suffix, beget.app, proxy
 host-suffix, beget.cloud, proxy
 host-suffix, beget.com, proxy
 host-suffix, beget.de, proxy
+host-suffix, beget.email, proxy
 host-suffix, beget.hosting, proxy
 host-suffix, beget.pro, proxy
 host-suffix, beget.ru, proxy
@@ -3596,6 +3597,7 @@ host-suffix, bild.de, proxy
 host-suffix, bili2.cc, proxy
 host-suffix, bili888.com, proxy
 host-suffix, bili999.com, proxy
+host-suffix, bilibili.tv, proxy
 host-suffix, bilinovel.com, proxy
 host-suffix, biliplus.com, proxy
 host-suffix, biliworld.com, proxy
