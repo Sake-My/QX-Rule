@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-11-05T02:38:06.369Z
+# Generated at: 2026-11-06T02:39:18.980Z
 # Source: Loyalsoldier/v2ray-rules-dat release/gfw.txt
 # Description: geosite:gfw
 # Policy: proxy
@@ -2441,7 +2441,6 @@ host-suffix, matters.news, proxy
 host-suffix, matters.town, proxy
 host-suffix, matthewdgreen.wordpress.com, proxy
 host-suffix, mattwilcox.net, proxy
-host-suffix, maven.neoforged.net, proxy
 host-suffix, mcadforums.com, proxy
 host-suffix, mcaf.ee, proxy
 host-suffix, mceindex.com, proxy
@@ -2650,6 +2649,7 @@ host-suffix, ned.org, proxy
 host-suffix, nekoslovakia.net, proxy
 host-suffix, neo-miracle.com, proxy
 host-suffix, neodb.social, proxy
+host-suffix, neoforged.net, proxy
 host-suffix, neowin.net, proxy
 host-suffix, nephobox.com, proxy
 host-suffix, netalert.me, proxy
