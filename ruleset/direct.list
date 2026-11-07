@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-11-06T02:39:18.980Z
+# Generated at: 2026-11-07T02:06:58.395Z
 # Source: Loyalsoldier/v2ray-rules-dat release/direct-list.txt
 # Description: geosite:cn
 # Policy: direct
@@ -16862,6 +16862,7 @@ host-suffix, bsdfyyls.com, direct
 host-suffix, bsdongxin.com, direct
 host-suffix, bsdt1688.com, direct
 host-suffix, bsehk.com, direct
+host-suffix, bseinfo.net, direct
 host-suffix, bseqp.com, direct
 host-suffix, bserc.com, direct
 host-suffix, bsgcnc.com, direct
@@ -21767,7 +21768,6 @@ host-suffix, chuxinhudong.com, direct
 host-suffix, chuxinvip.com, direct
 host-suffix, chuxueyun.com, direct
 host-suffix, chuyaer.com, direct
-host-suffix, chuyu.me, direct
 host-suffix, chuzhaobiao.com, direct
 host-suffix, chvacuum.com, direct
 host-suffix, chvoice.com, direct
@@ -35458,14 +35458,12 @@ host-suffix, gamegocenter.net, direct
 host-suffix, gamehaopu.com, direct
 host-suffix, gamehome.tv, direct
 host-suffix, gameinns.com, direct
-host-suffix, gameitop.com, direct
 host-suffix, gamejym.com, direct
 host-suffix, gamekee.com, direct
 host-suffix, gamekezhan.com, direct
 host-suffix, gamekuaishou.com, direct
 host-suffix, gamelet.games, direct
 host-suffix, gameley.com, direct
-host-suffix, gameloop.com, direct
 host-suffix, gameloop.fun, direct
 host-suffix, gamemale.com, direct
 host-suffix, gamemcu.com, direct
@@ -49701,7 +49699,6 @@ host-suffix, in-tencentclb.cloud, direct
 host-suffix, in-tencentclb.com, direct
 host-suffix, in-tencentclb.net, direct
 host-suffix, in-tencentclb.work, direct
-host-suffix, in.th, direct
 host-suffix, in001.com, direct
 host-suffix, in66.com, direct
 host-suffix, in800.com, direct
@@ -61523,6 +61520,7 @@ host-suffix, luyecanyin.com, direct
 host-suffix, luyinla.com, direct
 host-suffix, luyinzhushou.com, direct
 host-suffix, luyitong.com, direct
+host-suffix, luyong.com, direct
 host-suffix, luyor.net, direct
 host-suffix, luyouqi.com, direct
 host-suffix, luyouwang.com, direct
@@ -62321,9 +62319,6 @@ host-suffix, magook.com, direct
 host-suffix, magpiepharma.com, direct
 host-suffix, magtechjournal.com, direct
 host-suffix, magvision.com, direct
-host-suffix, mahjongai.net, direct
-host-suffix, mahjongcup.com, direct
-host-suffix, mahjongcup.net, direct
 host-suffix, mahoupao.com, direct
 host-suffix, mahua.com, direct
 host-suffix, mai.com, direct
@@ -71767,7 +71762,6 @@ host-suffix, protontechcn.com, direct
 host-suffix, proup.club, direct
 host-suffix, providence-chemicals.com, direct
 host-suffix, prowine-shanghai.com, direct
-host-suffix, proximabeta.com, direct
 host-suffix, proya-group.com, direct
 host-suffix, proya.com, direct
 host-suffix, proyy.com, direct
@@ -78176,6 +78170,7 @@ host-suffix, senpian.com, direct
 host-suffix, senra.me, direct
 host-suffix, sense-hk.com, direct
 host-suffix, senseagro.com, direct
+host-suffix, senseavatar.com, direct
 host-suffix, senselock.com, direct
 host-suffix, senseluxury.com, direct
 host-suffix, senser.group, direct
@@ -80428,6 +80423,7 @@ host-suffix, shutonginfo.com, direct
 host-suffix, shutu.cc, direct
 host-suffix, shutwin.com, direct
 host-suffix, shuwangxing.com, direct
+host-suffix, shuwen.com, direct
 host-suffix, shuwenxianyun.com, direct
 host-suffix, shuwulou.com, direct
 host-suffix, shuxiangmuye.com, direct
@@ -86484,8 +86480,6 @@ host-suffix, tetrisone.com, direct
 host-suffix, tetuijiudian.com, direct
 host-suffix, tevachem.com, direct
 host-suffix, tex68.com, direct
-host-suffix, texasholdemcup.com, direct
-host-suffix, texasholdemcup.net, direct
 host-suffix, texpage.com, direct
 host-suffix, texpageusercontent.com, direct
 host-suffix, texpro-group.com, direct
@@ -87091,6 +87085,7 @@ host-suffix, tidejd.com, direct
 host-suffix, tidemedia.com, direct
 host-suffix, tidepharm.com, direct
 host-suffix, tidesec.com, direct
+host-suffix, tidesight.com, direct
 host-suffix, tideswing.fun, direct
 host-suffix, tidi.mobi, direct
 host-suffix, tiduyun.com, direct
@@ -90146,6 +90141,7 @@ host-suffix, ups88.net, direct
 host-suffix, upsapp.com, direct
 host-suffix, upseller.com, direct
 host-suffix, upskyshanghai.com, direct
+host-suffix, upsort.com, direct
 host-suffix, upst86.com, direct
 host-suffix, uptom.com, direct
 host-suffix, uptougu.com, direct
@@ -103951,6 +103947,7 @@ host-suffix, yundongfang.com, direct
 host-suffix, yundonghao.com, direct
 host-suffix, yundongit.com, direct
 host-suffix, yundousoft.com, direct
+host-suffix, yundouxueyuan.com, direct
 host-suffix, yundui.cc, direct
 host-suffix, yunduimedia.com, direct
 host-suffix, yundun.com, direct
@@ -104600,6 +104597,7 @@ host-suffix, yy845.com, direct
 host-suffix, yy960.com, direct
 host-suffix, yyaotec.com, direct
 host-suffix, yyarea.com, direct
+host-suffix, yybip.com, direct
 host-suffix, yyblly.com, direct
 host-suffix, yybnet.net, direct
 host-suffix, yybox.cc, direct
@@ -110048,6 +110046,7 @@ host, prod.databe.floonet.goog, direct
 host, publicassets.cdn-apple.com, direct
 host, qiao-cn.com, direct
 host, qpx.googleflights.net, direct
+host, radio.itunes.apple.com, direct
 host, recaptcha-cn.net, direct
 host, recaptcha.net, direct
 host, redirector.bdn.dev, direct
