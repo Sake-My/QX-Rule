@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-11-10T04:13:24.787Z
+# Generated at: 2026-11-11T02:01:35.194Z
 # Source: Loyalsoldier/v2ray-rules-dat release/direct-list.txt
 # Description: geosite:cn
 # Policy: direct
@@ -67097,6 +67097,7 @@ host-suffix, nhzj.com, direct
 host-suffix, nhzs.com, direct
 host-suffix, ni8.com, direct
 host-suffix, ni93.com, direct
+host-suffix, nia-teams.com, direct
 host-suffix, nianchu.net, direct
 host-suffix, nianhuawan.com, direct
 host-suffix, niankawang.com, direct
