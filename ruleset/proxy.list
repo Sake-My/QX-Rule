@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-11-13T02:43:53.615Z
+# Generated at: 2026-11-14T02:33:03.941Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -395,6 +395,7 @@ host-suffix, 51lieqi.com, proxy
 host-suffix, 51luoben.com, proxy
 host-suffix, 51luoli.info, proxy
 host-suffix, 51mh.app, proxy
+host-suffix, 51papaya.com, proxy
 host-suffix, 51pincha.cc, proxy
 host-suffix, 51tuqiang.com, proxy
 host-suffix, 520aa.tv, proxy
