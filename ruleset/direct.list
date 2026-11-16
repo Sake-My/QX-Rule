@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-11-15T02:00:46.220Z
+# Generated at: 2026-11-16T02:17:37.734Z
 # Source: Loyalsoldier/v2ray-rules-dat release/direct-list.txt
 # Description: geosite:cn
 # Policy: direct
@@ -18017,6 +18017,7 @@ host-suffix, caps-china.org, direct
 host-suffix, capsuleshanghai.com, direct
 host-suffix, captain-cro.com, direct
 host-suffix, captainbi.com, direct
+host-suffix, captive.apple.com, direct
 host-suffix, capturetheflag.fun, direct
 host-suffix, capvision.com, direct
 host-suffix, capwhale.com, direct
@@ -109796,6 +109797,7 @@ host, collaborateppe.download.prss.microsoft.com, direct
 host, communities.apple.com, direct
 host, configuration.apple.com, direct
 host, configuration.apple.com.akadns.net, direct
+host, configuration.ls.apple.com, direct
 host, connectivitycheck.gstatic.com, direct
 host, crashlyticsreports-pa.googleapis.com, direct
 host, crl-lb.apple.com.akadns.net, direct
@@ -110012,10 +110014,12 @@ host, msdn.download.prss.microsoft.com, direct
 host, msdprod-ad.download.prss.microsoft.com, direct
 host, msproduct.download.prss.microsoft.com, direct
 host, music.apple.com, direct
+host, musicstatus.itunes.apple.com, direct
 host, musicstatus.music.apple.com, direct
 host, mvod.itunes.apple.com, direct
 host, myapp.itunes.apple.com, direct
 host, myvs.download.prss.microsoft.com, direct
+host, mzstorekit.itunes.apple.com, direct
 host, np-edge.itunes.apple.com, direct
 host, ntp.aliyun.com, direct
 host, ntp.tencent.com, direct
