@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-11-23T02:55:56.851Z
+# Generated at: 2026-11-24T06:12:08.489Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -9825,6 +9825,7 @@ host-suffix, gelbooru.wjcodes.com, proxy
 host-suffix, gemfire.net, proxy
 host-suffix, gemfury.com, proxy
 host-suffix, gemini.com, proxy
+host-suffix, gemma.ai, proxy
 host-suffix, gen.lib.rus.ec, proxy
 host-suffix, genbank.ru, proxy
 host-suffix, gencraft.com, proxy
