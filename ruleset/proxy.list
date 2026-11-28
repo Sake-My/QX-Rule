@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-11-27T04:22:26.000Z
+# Generated at: 2026-11-28T04:02:40.128Z
 # Source: Loyalsoldier/v2ray-rules-dat release/proxy-list.txt
 # Description: geosite:geolocation-!cn
 # Policy: proxy
@@ -1070,6 +1070,7 @@ host-suffix, ai7995.site, proxy
 host-suffix, ai91porn.cc, proxy
 host-suffix, aiaa.org, proxy
 host-suffix, aiasahi.jp, proxy
+host-suffix, aicu.cc, proxy
 host-suffix, aidc.com.tw, proxy
 host-suffix, aihub.top, proxy
 host-suffix, aimei133.com, proxy
@@ -6265,6 +6266,7 @@ host-suffix, dandanplay.com, proxy
 host-suffix, dandanplay.net, proxy
 host-suffix, dandanzan.cc, proxy
 host-suffix, danke4china.net, proxy
+host-suffix, danmakus.com, proxy
 host-suffix, danmarkbeatsbydrdre.com, proxy
 host-suffix, danskpornofilm.com, proxy
 host-suffix, dansmovies.com, proxy
@@ -8725,6 +8727,7 @@ host-suffix, fc2cn.com, proxy
 host-suffix, fc2ppv.tv, proxy
 host-suffix, fcacebook.com, proxy
 host-suffix, fcaebook.com, proxy
+host-suffix, fce.gg, proxy
 host-suffix, fcebook.com, proxy
 host-suffix, fcebookk.com, proxy
 host-suffix, fcfacebook.com, proxy
@@ -21205,6 +21208,7 @@ host-suffix, soyjak.party, proxy
 host-suffix, soyjak.st, proxy
 host-suffix, sp.cool, proxy
 host-suffix, spacebattles.com, proxy
+host-suffix, spacedesk.net, proxy
 host-suffix, spaceexplored.com, proxy
 host-suffix, spaceforce.mil, proxy
 host-suffix, spacely.com.au, proxy
@@ -26577,6 +26581,7 @@ host, asahishimbun.sc.omtrdc.net, proxy
 host, assets.ppy.sh, proxy
 host, audio-ak-spotify-com.akamaized.net, proxy
 host, audio4-ak-spotify-com.akamaized.net, proxy
+host, aurora-customization-usw2.lithium.com, proxy
 host, avatargarenanow-a.akamaihd.net, proxy
 host, az764295.vo.msecnd.net, proxy
 host, azure.microsoft.com, proxy

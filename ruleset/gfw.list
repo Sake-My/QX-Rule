@@ -1,5 +1,5 @@
 # Quantumult X rules
-# Generated at: 2026-11-27T04:22:26.000Z
+# Generated at: 2026-11-28T04:02:40.128Z
 # Source: Loyalsoldier/v2ray-rules-dat release/gfw.txt
 # Description: geosite:gfw
 # Policy: proxy
@@ -138,6 +138,7 @@ host-suffix, agoogleaday.com, proxy
 host-suffix, agro.hk, proxy
 host-suffix, ai.dev, proxy
 host-suffix, ai.studio, proxy
+host-suffix, aicu.cc, proxy
 host-suffix, aidc.com.tw, proxy
 host-suffix, aihub.top, proxy
 host-suffix, aiosearch.com, proxy
@@ -964,6 +965,7 @@ host-suffix, dalianmeng.org, proxy
 host-suffix, daliulian.org, proxy
 host-suffix, danbooru.donmai.us, proxy
 host-suffix, danke4china.net, proxy
+host-suffix, danmakus.com, proxy
 host-suffix, darmau.co, proxy
 host-suffix, darpa.mil, proxy
 host-suffix, darrenliuwei.com, proxy
@@ -3422,6 +3424,7 @@ host-suffix, southmongolia.org, proxy
 host-suffix, southnews.com.tw, proxy
 host-suffix, southpark.cc.com, proxy
 host-suffix, sowers.org.hk, proxy
+host-suffix, spacedesk.net, proxy
 host-suffix, spaceforce.mil, proxy
 host-suffix, spaces.hightail.com, proxy
 host-suffix, spacex.com, proxy
